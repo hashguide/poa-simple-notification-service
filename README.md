@@ -19,6 +19,10 @@ This infrastructure can be run as centralize service where all Validators contac
 
 ### Dependencies:
 
+DB -- persistent store
+sqlite3 -- ( http://www.sqlite.org/download.html )
+
+Node Resources
 - forever -- used to run components as a service
 
   - ( https://github.com/foreverjs/forever )
