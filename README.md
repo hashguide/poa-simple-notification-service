@@ -46,7 +46,11 @@ NOTE: Wonder if there is logging infracture with DB support which can be used to
 
 - queue.js -  This component acts as the subscriber.  It will periodically wake up and processes rows in the persistent store.
 
+//Stuff for running things as a service
 
+- forever-test.js -- kicks off hello.js (3) times and passes argument to hello.js to log to file
+
+- hello.js  -- exercised log4js and logs the param received from forever.js to the configured log file
 
 
 
