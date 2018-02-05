@@ -72,7 +72,7 @@ q.on('next',function(task) {
     //build the message from the task ....
     let message = {
         // Comma separated list of recipients
-        to: 'jnuuma@gmail.com',
+        to: '<your_email_address@wherever.com>',
         // Subject of the message
         subject: '✔ POA Sokol Ballot(s) created' + task['id'],
         // plaintext body
