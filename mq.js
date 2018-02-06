@@ -183,7 +183,7 @@ PersistentQueue.prototype = Object.create(EventEmitter.prototype) ;
  *
  * @return {Promise}
  */
-PersistentQueue.prototype.open = function open() {
+PersistentQueue.prototype.open = function open( hydrate ) {
 	var self = this ;
 
 	// return a promise from open method from:
@@ -198,40 +198,7 @@ PersistentQueue.prototype.open = function open() {
 	.then(function() {
 		// Create and initialise tables if they doesnt exist
 		return new Promise(function(resolve,reject) {
-            /*
-			query = " \
-			CREATE TABLE IF NOT EXISTS " + table + " (id INTEGER PRIMARY KEY ASC AUTOINCREMENT, job TEXT) ; \
-			\
-			CREATE TABLE IF NOT EXISTS " + table_count + " (counter BIGINT) ; \
-			\
-			INSERT INTO " + table_count + " SELECT 0 as counter WHERE NOT EXISTS(SELECT * FROM " + table_count + ") ; \
-			\
-			UPDATE " + table_count + " SET counter = (SELECT count(*) FROM " + table + ") ; \
-			\
-			CREATE TRIGGER IF NOT EXISTS queue_insert \
-			AFTER INSERT \
-			ON " + table + " \
-			BEGIN \
-			UPDATE " + table_count + " SET counter = counter + 1 ; \
-			END; \
-			\
-			CREATE TRIGGER IF NOT EXISTS queue_delete \
-			AFTER DELETE \
-			ON " + table + " \
-			BEGIN \
-			UPDATE " + table_count + " SET counter = counter - 1 ; \
-			END; \
-			" ;
-
-			self.db.exec(query,function(err) {
-				if(err !== null)
-					reject(err) ;
-
-				resolve() ;
-            });
-            */
             resolve();
-            //console.log('open');
 
 		}) ;
 	})
@@ -241,15 +208,18 @@ PersistentQueue.prototype.open = function open() {
 	})
 	.then(function() {
         // Load batchSize number of jobs from queue (if there are any)
-        //console.log('hydrate');
-		return hydrateQueue(self,self.batchSize)
-		.then(function(jobs) {
-			//If no msg left, set empty to true (but don't emit event)
-			self.empty = (self.queue.length === 0) ;
+		console.log('hydrate = ' + hydrate );
+		//what don't like this.
+		if ( hydrate ) {
+			return hydrateQueue(self,self.batchSize)
+			.then(function(jobs) {
+				//If no msg left, set empty to true (but don't emit event)
+				self.empty = (self.queue.length === 0) ;
 
-			self.emit('open',self.db) ;
-			return Promise.resolve(jobs) ;
-		}) ;
+				self.emit('open',self.db) ;
+				return Promise.resolve(jobs) ;
+			}) ;
+		}
 	}) ;
 } ;
 
