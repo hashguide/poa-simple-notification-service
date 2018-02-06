@@ -50,24 +50,26 @@ poa.getPastEvents('BallotCreated',{
     logger.debug("Found [" + events.length + "] new ballots.");
     if ( events.length > 0 ) {
         events.forEach( ( e ) => { 
-            //logger.debug(e.event,'(', e.blockNumber, ') -- ', e  ); 
             endBlock = e.blockNumber; 
-            //logger.debug('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
             var p1 = poa.methods.votingState(e.returnValues.id).call().then( 
-                //resp =>  q.add( JSON.stringify(resp) )
-                resp => logger.debug("ballotId[" + e.returnValues.id + "]: " + resp.memo )
+                resp => {  q.add( JSON.stringify(resp) );
+                logger.debug("ballotId[" + e.returnValues.id + "]: " + resp.memo )
+                }
              );    
           } ) 
     } 
 } )
 .then(function(events){
  if ( block != endBlock ) endBlock++;
-// Uncomment the following to persistently store lastest block to disk.
-
+// Comment to not persistently store latest block to disk
+//or uncomment the following to persistently store lastest block to disk.
+///*
  fs.writeFile("block", endBlock , function(err)
  {
     if ( err ) { return console.log(err); } 
-     //console.log("start block is now: " + ( endBlock) );  
+     console.log("start block is now: " + ( endBlock) );  
  } );
 console.log("done");
+///*
+
 });

@@ -19,10 +19,8 @@ var table = 'mq' ;
 
 /**
  * Simple SQLite backed Queue for running many short tasks in Node.js
- *
- * @author Damien Clark <damo.clarky@gmail.com>
  * @param {string} [filename=:memory:] Path to sqlite db for queue db
- * @param {integer} [batchSize=10] The number of rows from queue db to retrieve at a time
+ * @param {integer} [batchSize=3] The number of rows from queue db to retrieve at a time
  * @constructor
  */
 function PersistentQueue(filename,batchSize) {
@@ -41,7 +39,7 @@ function PersistentQueue(filename,batchSize) {
 	 * @type {boolean}
 	 * @access private
 	 */
-	this.debug = true ;
+	this.debug = false ;
 
 	/**
 	 * Instance variable for whether the queue is empty (not known at instantiation)
@@ -198,9 +196,21 @@ PersistentQueue.prototype.open = function open( hydrate ) {
 	.then(function() {
 		// Create and initialise tables if they doesnt exist
 		return new Promise(function(resolve,reject) {
+
+			query = " \
+					CREATE TABLE IF NOT EXISTS test \
+						( id INTEGER PRIMARY KEY, \
+						name TEXT, status VARCHAR(25) NOT NULL DEFAULT 'initial', \
+						created DATETIME NOT NULL DEFAULT ( Datetime('now') ), \
+						updated DATETIME );\
+					";
+
+			self.db.exec(query,function(err) {
+				if(err !== null) reject(err) ;
             resolve();
 
-		}) ;
+			}) ;
+		}); 	
 	})
 	.then(function() {
         //console.log("count");
@@ -439,7 +449,7 @@ function hydrateQueue(self,size) {
 		if(self.db === null)
 			reject('Open queue database before starting queue') ;
 
-		self.db.all("SELECT id, name FROM  test WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
+		self.db.all("SELECT id, name FROM test WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
 			if(err !== null)
 				reject(err) ;
 
