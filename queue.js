@@ -137,13 +137,12 @@ q.on('close',function() {
 }) ;
  
 q.open()
-.then(function() {
-    console.log('yada');
-    q.add(task1)
-     .add(task2)
-     .add(task3)
-     .add(task4)
-    .start() ;
+.then(function() {   
+    //q.add(task1)
+    // .add(task2)
+    // .add(task3)
+    // .add(task4)
+    q.start() ;
 })
 .catch(function(err) {
     console.log('Error occurred:') ;
