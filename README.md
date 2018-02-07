@@ -35,11 +35,13 @@ Node Resources
    - ( https://www.npmjs.com/package/sqlite3 )
    - sudo npm install sqlite3
 
-- log4js -- logging infrastrure so processes can have human readable logs for debugging analysis.
+- log4js -- logging infrastructure so processes can have human readable logs for debugging analysis.
 NOTE: Wonder if there is logging infracture with DB support which can be used to persist new Ballots
    - ( https://www.npmjs.com/package/log4js )
    - sudo npm install log4js
 
+- yaml -- for externalization of configuration, communication ( email ) transport API, message templates ...
+  -  sudo npm install --save js-yaml
 
 ## Current state
 
