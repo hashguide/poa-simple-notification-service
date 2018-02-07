@@ -2,7 +2,7 @@
 
 ### Problem statement:
 
-POA Networks is the first public blockchain that supports Ethereum contracts built using PoA ( Proof of Authority ) by independant individuals, known as Validators. Additionally POA provide an online governance model to manage both the set of Validators participating inru the Consensus protocol and well and the underlying contracts managing Governance, i.e. the ballot and voting processes.
+POA Networks is the first public blockchain that supports Ethereum contracts built using PoA ( Proof of Authority ) by independant individuals, known as Validators. Additionally POA provide an online governance model to manage both the set of Validators participating in the Consensus protocol aa well as the underlying contracts managing Governance, i.e. the ballot and voting processes.
 
 Currently, there is no well-defined way for the set of Valiators to be notified when a Ballot. Ad hoc methods are being used to notification, email, Telegram, SMS which is undesirable and a vulnerability to the Governance model.  
 
