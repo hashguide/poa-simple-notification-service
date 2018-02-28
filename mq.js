@@ -1,8 +1,17 @@
 var EventEmitter = require('events').EventEmitter ;
 var sqlite3 = require('sqlite3').verbose();
+var log4js = require('log4js');
+
+log4js.configure({
+    appenders: { mq: { type: 'file', filename: 'mq.log' } },
+    categories: { default: { appenders: ['mq'], level: 'debug' } }
+  });
+
+var logger = log4js.getLogger('mq');
+
 
 /**
- * Default queue table name for the sqlite db
+ * Default queue table memo for the sqlite db
  * @type {string}
  * @const
  * @default
@@ -10,7 +19,7 @@ var sqlite3 = require('sqlite3').verbose();
 var table = 'mq' ;
 
 /**
- * Default counter table name for the sqlite db
+ * Default counter table memo for the sqlite db
  * @type {string}
  * @const
  * @default
@@ -39,7 +48,7 @@ function PersistentQueue(filename,batchSize) {
 	 * @type {boolean}
 	 * @access private
 	 */
-	this.debug = false ;
+	this.debug = true ;
 
 	/**
 	 * Instance variable for whether the queue is empty (not known at instantiation)
@@ -112,11 +121,11 @@ function PersistentQueue(filename,batchSize) {
 	}) ;
 
 	this.on('trigger_next',function() {
-		if(self.debug) console.log('trigger_next') ;
+		if(self.debug) logger.debug('trigger_next') ;
 		//Check state of queue
 		if(!self.run || self.empty) {
-			if(self.debug) console.log('run='+self.run+' and empty='+self.empty) ;
-			if(self.debug) console.log('not started or empty queue') ;
+			if(self.debug) logger.debug('run='+self.run+' and empty='+self.empty) ;
+			if(self.debug) logger.debug('not started or empty queue') ;
 			// If queue not started or is empty, then just return
 			return ;
 		}
@@ -155,7 +164,7 @@ function PersistentQueue(filename,batchSize) {
 	this.on('add',function(job) {
 		if(self.empty) {
 			self.empty = false ;
-			if(self.debug) console.log('No longer empty') ;
+			if(self.debug) logger.debug('No longer empty') ;
 			if(self.run)
 				self.emit('trigger_next') ;
 		}
@@ -174,6 +183,7 @@ function PersistentQueue(filename,batchSize) {
 		self.queue = [] ;
 	}) ;
 }
+
 PersistentQueue.prototype = Object.create(EventEmitter.prototype) ;
 
 /**
@@ -198,11 +208,17 @@ PersistentQueue.prototype.open = function open( hydrate ) {
 		return new Promise(function(resolve,reject) {
 
 			query = " \
-					CREATE TABLE IF NOT EXISTS test \
+					CREATE TABLE IF NOT EXISTS mq \
 						( id INTEGER PRIMARY KEY, \
-						name TEXT, status VARCHAR(25) NOT NULL DEFAULT 'initial', \
+						contractAddress VARCHAR(50) NOT NULL, \
+						ballotId INTEGER NOT NULL, \
+						toEmail VARCHAR(125) NOT NULL, \
+						block INTEGER NOT NULL, \
+						memo TEXT,\
+						status VARCHAR(25) NOT NULL DEFAULT 'initial', \
 						created DATETIME NOT NULL DEFAULT ( Datetime('now') ), \
-						updated DATETIME );\
+						updated DATETIME, \
+					    unique ( contractAddress, ballotId, toEmail ) ); \
 					";
 
 			self.db.exec(query,function(err) {
@@ -213,12 +229,12 @@ PersistentQueue.prototype.open = function open( hydrate ) {
 		}); 	
 	})
 	.then(function() {
-        //console.log("count");
+        //logger.debug("count");
 		return countQueue(self) ;
 	})
 	.then(function() {
         // Load batchSize number of jobs from queue (if there are any)
-		console.log('hydrate = ' + hydrate );
+		logger.debug('hydrate = ' + hydrate );
 		//what don't like this.
 		if ( hydrate ) {
 			return hydrateQueue(self,self.batchSize)
@@ -280,11 +296,11 @@ PersistentQueue.prototype.stop = function() {
  */
 PersistentQueue.prototype.done = function() {
 	var self = this ;
-	if(self.debug) console.log('Calling done!') ;
+	if(self.debug) logger.debug('Calling done!') ;
 	// Remove the job from the queue
 	removeJob(this)
 	.then(function() {
-		if(self.debug) console.log('Job deleted from db') ;
+		if(self.debug) logger.debug('Job deleted from db') ;
 		// Decrement our job length
 		self.length-- ;
 		self.emit('trigger_next') ;
@@ -302,7 +318,7 @@ PersistentQueue.prototype.done = function() {
  */
 PersistentQueue.prototype.abort = function() {
 	var self = this ;
-	if(self.debug) console.log('Calling abort!') ;
+	if(self.debug) logger.debug('Calling abort!') ;
 	self.stop() ;
 } ;
 
@@ -312,17 +328,18 @@ PersistentQueue.prototype.abort = function() {
  * @param {Object} job Object to be serialized and added to queue via JSON.stringify()
  * @return {PersistentQueue} Instance for method chaining
  */
-PersistentQueue.prototype.add = function(name) {
+PersistentQueue.prototype.add = function(block,contractAddress, ballotId, toEmail, memo ) {
 	var self = this ;
 
-	self.db.run("INSERT INTO Test (name) VALUES (?)", JSON.stringify(name), function(err) {
+	self.db.run("INSERT INTO mq (block, contractAddress, ballotId, toEmail, memo ) VALUES (?,?,?,?,?);", block, contractAddress, ballotId, toEmail, JSON.stringify(memo), function(err) {
 		if(err)
-			throw err ;
+			logger.error( err ) ;
+		else {
+			// Increment our job length
+			self.length++ ;
 
-		// Increment our job length
-		self.length++ ;
-
-		self.emit('add',{ id:this.lastID, job: name }) ;
+			self.emit('add',{ id:this.lastID, job: memo }) ;
+		}
 	});
 	return self ;
 } ;
@@ -413,7 +430,7 @@ PersistentQueue.prototype.delete = function(id) {
 	var self = this ;
 	return removeJob(this,id)
 	.then(function() {
-		if(self.debug) console.log('Job deleted from db') ;
+		if(self.debug) logger.debug('Job deleted from db') ;
 		self.emit('delete',{ id: id }) ;
 		// Decrement our job length
 		self.length-- ;
@@ -421,17 +438,17 @@ PersistentQueue.prototype.delete = function(id) {
 } ;
 
 function countQueue(self) {
-	if(self.debug) console.log('CountQueue') ;
+	if(self.debug) logger.debug('>>>>> CountQueue') ;
 	return new Promise(function(resolve,reject) {
 		if(self.db === null)
 			reject('Open queue database before counting jobs') ;
 
-		self.db.get("SELECT COUNT(id) as counter FROM test WHERE status ='initial' LIMIT 1;", function(err, row) {
+		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status ='initial' LIMIT 1;", function(err, row) {
 			if(err !== null)
 				reject(err) ;
 
             // Set length property to number of rows in sqlite table
-            console.log(">>>>>>>>>>: " + row.counter );
+            logger.debug(">>>>>>>>>>: " + row.counter );
 			self.length = row.counter ;
 			resolve(this.length) ;
 		}) ;
@@ -444,25 +461,25 @@ function countQueue(self) {
  */
 function hydrateQueue(self,size) {
 
-	if(self.debug) console.log('HydrateQueue') ;
+	if(self.debug) logger.debug('HydrateQueue') ;
 	return new Promise(function(resolve,reject) {
 		if(self.db === null)
 			reject('Open queue database before starting queue') ;
 
-		self.db.all("SELECT id, name FROM test WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
+		self.db.all("SELECT id, ballotId, toEmail, memo FROM mq WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
 			if(err !== null)
 				reject(err) ;
 
 			if(self.debug) {
 				for(var i = 0; i < jobs.length; i++) {
-					if(self.debug) console.log(JSON.stringify(jobs[i])) ;
+					if(self.debug) logger.debug(JSON.stringify(jobs[i])) ;
 				}
 			}
             // Update our queue array (converting stored string back to object using JSON.parse
             self.length = jobs.length;
 			self.queue = jobs.map(function(job){
 				try {
-					return { id: job.id, job: job.name } ;
+					return { id: job.id, ballotId: job.ballotId, toEmail : job.toEmail, job: job.memo } ;
 				} catch(err) {
 					reject(err) ;
 				}
@@ -497,11 +514,11 @@ function removeJob(self,id) {
 		if(self.db === null)
 			reject('Open queue database before starting queue') ;
 
-		if(self.debug) console.log('About to delete') ;
-		if(self.debug) console.log('Removing job: '+id) ;
-		if(self.debug) console.log('From table: '+table) ;
-		if(self.debug) console.log('With queue length: '+self.length) ;
-		self.db.run("UPDATE test set status = 'sent', updated = DATETIME('now') WHERE id = ?", id, function(err) {
+		if(self.debug) logger.debug('About to delete') ;
+		if(self.debug) logger.debug('Removing job: '+id) ;
+		if(self.debug) logger.debug('From table: '+table) ;
+		if(self.debug) logger.debug('With queue length: '+self.length) ;
+		self.db.run("UPDATE mq set status = 'sent', updated = DATETIME('now') WHERE id = ?", id, function(err) {
 			if(err !== null)
 				reject(err) ;
 
