@@ -48,44 +48,20 @@ NOTE: Wonder if there is logging infracture with DB support which can be used to
 ## Publisher: 
 
 -  getVotingBallot.js
-   -  This component queries most recent VotingToChangeKeys.sol deployed on POA testnet Sokol and prints to std.out.  Additionally, this component persistently stores last block queried to disk so that next time the query runs it looks for only new voting Ballots.   
-   
-Running:
-
-- >nodejs getVotingBallot.js
-- Currently get all Ballots from VotingToChangeKeys.sol contract and logs to voting.log
-
-   
+   -  This component queries most recent VotingToChangeKeys.sol deployed on POA testnet Sokol and logs each new Ballot to the message queue per registered validator, i.e. if there are (2) interested Validators to be notified and (2) new Ballots there will be (4) rows created in the message queue.
+    
  
 ## Subscriber: 
 - mq.js - This component is the DB access layer into the sqlite3 DB
 
 - queue.js -  This component acts as the subscriber.  It will periodically wake up and processes rows in the persistent store.
 
-Running:
-
-- open queue.js ( edit line:  
-- >nodejs queue.js
-- This will insert (4) rows ( aka messages to send ) into the sqlite Message Queue ( mq.db )
-- Will load the messages being sent 
-- Will send each message via gmail
-- Stop the queue.
-
 
 ## Service infrastructure
 
-- forever-test.js -- kicks off hello.js (3) times and passes argument to hello.js to log to file
+- To run components as a service execute:
 
-- hello.js  -- exercised log4js and logs the param received from forever.js to the configured log file
-
-Running:
-
-- >nodejs forever-test.js 
-- This will run hello.js (3) times
-- Inspect hello.log 
-- Open forever-test.js -- change line 6:  args: ["beer!!!"]  to args: ["whatever you want"]
-- >nodejs forever-test.js
-- Inspect hello.log
+> nodejs job-config.js
 
 
 Final notes:
@@ -94,7 +70,7 @@ Individual components are here and exercised:
 - Running a service 
 - Logging
 - Extracting Voting Data from POA contract
-- Adding items to a persistent queue 
-- Queue processing SMTP delivery and row updated so not processed again.
+- Adding Ballots to a persistent queue 
+- Processing new Queue entries with SMTP delivery via gmail and row updated so not processed again.
 
 
