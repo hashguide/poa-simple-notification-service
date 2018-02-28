@@ -1,110 +1,128 @@
 'use strict';
 
 const nodemailer = require('nodemailer');
-//var log4js = require('log4js');
-//var logger = log4js.getLogger();
-//logger.level = 'debug';
+const fs = require('fs');
+const yaml = require('js-yaml');
+var log4js = require('log4js');
+
+log4js.configure({
+    appenders: { dequeue: { type: 'file', filename: 'dequeue.log' } },
+    categories: { default: { appenders: ['dequeue'], level: 'debug' } }
+  });
+
+var log = log4js.getLogger();
+
+var Queue = require('./mq.js') ;
+var q = new Queue('./mq.db');
+
+let config = yaml.safeLoad(fs.readFileSync('./email.yaml', 'utf8'));
 
 // Setup Nodemailer transport
-let transporter = nodemailer.createTransport(
+let transporter = nodemailer.createTransport( 
     {
-        host: 'smtp.gmail.com',
-        port: 587,
+        host: config.transport.host,
+        port: config.transport.port,
         //secure: account.smtp.secure,
         auth: {
-            user: 'jlegassic@gmail.com',        
-            pass: 'lzzatqbcvsjuxhyw'
+            user: config.transport.auth.user,        
+            pass: config.transport.auth.pass
         },
-        logger: true,
-        debug: true // include SMTP traffic in the logs
+        logger: config.transport.log,
+        debug: config.transport.debug // include SMTP traffic in the logs
     },
     {
         // default message fields
 
         // sender info
-        from: 'jlegassic@gmail.com',
+        from: config.transport.from,
         headers: {
             'X-Laziness-level': 1000 // just an example header, no need to use this
         }
     }
 );
-    
-
-var Queue = require('./mq.js') ;
-var q = new Queue('./mq.db') ;
-
- 
-var task1 = {
-    data: "Data1"
-} ;
-var task2 = {
-    data: "Data2"
-} ;
-var task3 = {
-    data: "Data3"
-} ;
-var task4 = {
-    data: "Data4"
-} ;
-
-
-
  
 q.on('open',function() {
-    console.log('Opening SQLite DB') ;
-    console.log('Queue contains '+q.getLength()+' job/s') ;
+    log.debug('Opening SQLite DB') ;
+    log.debug('Queue contains '+q.getLength()+' job/s') ;
 }) ;
  
 q.on('add',function(task) {
-    console.log('Adding task: '+JSON.stringify(task)) ;
-    console.log('Queue contains '+q.getLength()+' job/s') ;
+    log.debug('Adding task: '+JSON.stringify(task)) ;
+    log.debug('Queue contains '+q.getLength()+' job/s') ;
 }) ;
  
 q.on('start',function() {
-    console.log('Starting queue') ;
+    log.debug('Starting queue') ;
 }) ;
  
 q.on('next',function(task) {
-    console.log('Queue contains '+q.getLength()+' job/s') ;
-    console.log('Process task: ') ;
-    console.log(task) ;
+    log.debug('Queue contains '+q.getLength()+' job/s') ;
+    log.debug('Process task: ') ;
+    //log.debug(task) ;
+
+    //reload config
+    config = yaml.safeLoad(fs.readFileSync('./email.yaml', 'utf8'));
+
+    var  job = task.job.replace(/\\\\n/g, "<br/>");
+    job = job.replace(/\\/g, "");           
+    job = job.substring(1, job.length - 1 );
+    var json = JSON.parse(job);
+
+    // Shape the recipients into an array
+    function getRecipients(recipients) {
+        const to = [];
+        for (const email in recipients) {
+            const name = recipients[email];
+            const address = name ? `${name} <${email}>` : email;
+            to.push(address);
+        }
+        return to;
+    }
+
+    var message = config.sokol_validators_message;
 
     //build the message from the task ....
-    let message = {
+    let msg = {
         // Comma separated list of recipients
-        to: '<your_email_address@wherever.com>',
+        to: getRecipients( JSON.parse(task.toEmail) ),
         // Subject of the message
-        subject: '✔ POA Sokol Ballot(s) created' + task['id'],
+        subject: 'POA Sokol Ballot Id [' + task['ballotId'] + '], created ( testing ).',
         // plaintext body
-        text: 'yada',
+        text:  message.message_txt 
+        + "\n-Network Sokol -- Ballot Id: " + task.ballotId
+        + "\n-Description: " + json.memo 
+        + "\n-Ballot End Time: " + new Date( json.endTime * 1000 ) 
+        + "\n-POA Voting DApp:  https://voting.poa.network/",
         // HTML body
         html:
-            '<p><b>Hello</b> to myself <img src="cid:note@example.com"/></p>' +
-            '<p>Here\'s a nyan cat for you as an embedded attachment:<br/><img src="cid:nyan@example.com"/></p>' +
-            '<br/><b><i>' + JSON.stringify( task ) + '</b.</i>,',
+        "<html><ul>" + message.message_txt 
+        + "<li/>Network Sokol -- Ballot Id: " + task.ballotId
+        + "<li/>Description: " + json.memo 
+        + "<li/>Ballot End Time: " + new Date( json.endTime * 1000 ) 
+        + "<li/>POA Voting DApp:  https://voting.poa.network/</ul></html>",
 
         // An array of attachments
-        attachments: [
+        //attachments: [
             // File Stream attachment
-            {
-                filename: 'nyan cat.gif',
-                path: __dirname + '/assets/nyan.gif',
-                cid: 'nyan@example.com' // should be as unique as possible
-            }
-        ]
+            //{
+            //    filename: 'nyan cat.gif',
+            //    path: __dirname + '/assets/nyan.gif',
+            //    cid: 'nyan@example.com' // should be as unique as possible
+            //}
+        //]
     };
  
 
     return new Promise(function(resolve,reject) { 
-        transporter.sendMail(message, (error, info) => {
+        transporter.sendMail(msg, (error, info) => {
             if (error) {
-                console.log('Error occurred');
-                console.log(error.message);
+                log.debug('Error occurred');
+                log.debug(error.message);
                 reject(error);
             }
-
-            console.log('Message sent successfully!');
-            console.log(nodemailer.getTestMessageUrl(info));
+            
+            log.debug('Message sent successfully!');
+            //log.debug(nodemailer.getTestMessageUrl(info));
 
             // only needed when using pooled connections
             //transporter.close();
@@ -115,37 +133,51 @@ q.on('next',function(task) {
         } );
 
     });
-    
-}) ;
+});
+
+
  
 // Stop the queue when it gets empty 
 q.on('empty',function() {
-    console.log('Queue contains '+q.getLength()+' job/') ;
-    q.stop() ;
-    q.close()
-    .then(function() {
-        process.exit(0) ;
-    })
+
+    log.debug('Queue is empty, i.e. contains '+q.getLength()+' job/') ;
+
+    function waitFor( millis ) { 
+        return new Promise(resolve => {
+          log.debug('Queue waiting [' + millis/1000  + '] seconds to shutdown');
+          setTimeout(() => {
+            resolve( millis/1000 );
+          }, millis );
+        });
+      }
+      
+    async function wait( millis ) {
+          await waitFor(millis).then(function(result) {          
+            q.stop() ; 
+            q.close()
+                .then(function() { process.exit(0) ; })
+            });
+    }
+      
+    wait( 60000 );
+  
+    
 }) ;
  
 q.on('stop',function() {
-    console.log('Stopping queue') ;
+    log.debug('Stopping queue') ;
 }) ;
  
 q.on('close',function() {
-    console.log('Closing SQLite DB') ;
+    log.debug('Closing SQLite DB') ;
 }) ;
  
 q.open()
 .then(function() {   
-    //q.add(task1)
-    // .add(task2)
-    // .add(task3)
-    // .add(task4)
     q.start() ;
 })
 .catch(function(err) {
-    console.log('Error occurred:') ;
-    console.log(err) ;
+    log.debug('Error occurred:') ;
+    log.debug(err) ;
     process.exit(1) ;
 }) ;
