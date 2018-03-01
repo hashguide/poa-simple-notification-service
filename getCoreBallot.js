@@ -7,23 +7,23 @@ var q = new Queue('./mq.db');
 
 
 log4js.configure({
-    appenders: { voting: { type: 'file', filename: 'voting.log' } },
-    categories: { default: { appenders: ['voting'], level: 'debug' } }
+    appenders: { voting_core: { type: 'file', filename: 'voting-core.log' } },
+    categories: { default: { appenders: ['voting_core'], level: 'debug' } }
   });
-var logger = log4js.getLogger('voting');
+var logger = log4js.getLogger('voting_core');
 
-var block = fs.readFileSync('block-voting-keys', 'utf-8');
+var block = fs.readFileSync('block-voting-core', 'utf-8');
 
 var endBlock = block;
 
 let config = yaml.safeLoad(fs.readFileSync('./email.yaml', 'utf8'));
 
-const POA_ABI = require('./voting.json');
+const POA_ABI = require('./voting-core.json');
 const Web3 = require('web3');
-const sokol = 'https://sokol.poa.network'
+const sokol = 'https://core.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0xc40cdf254a4a35498aa84f35e9842c110729a2a0';
+const CONTRACT_ADDR = '0x215794efe4b86a2fbcbf706bc9ade63663f1eae1';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }
@@ -63,9 +63,9 @@ poa.getPastEvents('BallotCreated',{
             var p1 = poa.methods.votingState(e.returnValues.id).call().then( 
                 resp => {
                     for (const toEmail of config.sokol_validators ) { 
-                        logger.debug( 'block: >>>>>>>>>' + endBlock + ", email: " + JSON.stringify(toEmail) );
-                        q.add( 'sokol',endBlock, CONTRACT_ADDR, e.returnValues.id, JSON.stringify(toEmail), JSON.stringify(resp) );
-                        logger.debug("contractAddress [" + CONTRACT_ADDR + "], ballotId[" + e.returnValues.id + "]: " + resp.memo );                       
+                        //logger.debug( 'block: >>>>>>>>>' + endBlock + ", email: " + JSON.stringify(toEmail) );
+                        q.add( "core", endBlock, CONTRACT_ADDR, e.returnValues.id, JSON.stringify(toEmail), JSON.stringify(resp) );
+                        logger.debug("network [core], contractAddress [" + CONTRACT_ADDR + "], ballotId[" + e.returnValues.id + "]: " + resp.memo );                       
                     }
                 }
              );    
@@ -79,7 +79,7 @@ poa.getPastEvents('BallotCreated',{
 // Comment to not persistently store latest block to disk
 //or uncomment the following to persistently store lastest block to disk.
 ///*
- fs.writeFile("block-voting-keys", endBlock , function(err)
+ fs.writeFile("block-voting-core", endBlock , function(err)
  {
     if ( err ) { return logger.debug(err); } 
      logger.debug("start block is now: " + ( endBlock) );  
