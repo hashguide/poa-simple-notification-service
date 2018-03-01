@@ -86,17 +86,17 @@ q.on('next',function(task) {
         // Comma separated list of recipients
         to: getRecipients( JSON.parse(task.toEmail) ),
         // Subject of the message
-        subject: 'POA Sokol Ballot Id [' + task['ballotId'] + '], created ( testing ).',
+        subject: 'POA ' + task.network.toUpperCase() + ' Ballot Id [' + task['ballotId'] + '], created ( beta ).',
         // plaintext body
         text:  message.message_txt 
-        + "\n-Network Sokol -- Ballot Id: " + task.ballotId
+        + "\n-Network" + task.network + " -- Ballot Id: " + task.ballotId
         + "\n-Description: " + json.memo 
         + "\n-Ballot End Time: " + new Date( json.endTime * 1000 ) 
         + "\n-POA Voting DApp:  https://voting.poa.network/",
         // HTML body
         html:
         "<html><ul>" + message.message_txt 
-        + "<li/>Network Sokol -- Ballot Id: " + task.ballotId
+        + "<li/>Network " + task.network.toUpperCase() + " -- Ballot Id: " + task.ballotId
         + "<li/>Description: " + json.memo 
         + "<li/>Ballot End Time: " + new Date( json.endTime * 1000 ) 
         + "<li/>POA Voting DApp:  https://voting.poa.network/</ul></html>",
