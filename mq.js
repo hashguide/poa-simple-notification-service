@@ -210,6 +210,7 @@ PersistentQueue.prototype.open = function open( hydrate ) {
 			query = " \
 					CREATE TABLE IF NOT EXISTS mq \
 						( id INTEGER PRIMARY KEY, \
+						network VARCHAR(25) NOT NULL, \
 						contractAddress VARCHAR(50) NOT NULL, \
 						ballotId INTEGER NOT NULL, \
 						toEmail VARCHAR(125) NOT NULL, \
@@ -328,10 +329,10 @@ PersistentQueue.prototype.abort = function() {
  * @param {Object} job Object to be serialized and added to queue via JSON.stringify()
  * @return {PersistentQueue} Instance for method chaining
  */
-PersistentQueue.prototype.add = function(block,contractAddress, ballotId, toEmail, memo ) {
+PersistentQueue.prototype.add = function(network, block,contractAddress, ballotId, toEmail, memo ) {
 	var self = this ;
 
-	self.db.run("INSERT INTO mq (block, contractAddress, ballotId, toEmail, memo ) VALUES (?,?,?,?,?);", block, contractAddress, ballotId, toEmail, JSON.stringify(memo), function(err) {
+	self.db.run("INSERT INTO mq (network, block, contractAddress, ballotId, toEmail, memo ) VALUES (?,?,?,?,?,?);", network, block, contractAddress, ballotId, toEmail, JSON.stringify(memo), function(err) {
 		if(err)
 			logger.error( err ) ;
 		else {
@@ -466,7 +467,7 @@ function hydrateQueue(self,size) {
 		if(self.db === null)
 			reject('Open queue database before starting queue') ;
 
-		self.db.all("SELECT id, ballotId, toEmail, memo FROM mq WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
+		self.db.all("SELECT id, network, ballotId, toEmail, memo FROM mq WHERE status in ( 'initial', 'retry' ) ORDER BY id ASC LIMIT " + self.batchSize, function(err, jobs) {
 			if(err !== null)
 				reject(err) ;
 
@@ -479,7 +480,7 @@ function hydrateQueue(self,size) {
             self.length = jobs.length;
 			self.queue = jobs.map(function(job){
 				try {
-					return { id: job.id, ballotId: job.ballotId, toEmail : job.toEmail, job: job.memo } ;
+					return { id: job.id, network: job.network, ballotId: job.ballotId, toEmail : job.toEmail, job: job.memo } ;
 				} catch(err) {
 					reject(err) ;
 				}
