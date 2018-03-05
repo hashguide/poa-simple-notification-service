@@ -11,12 +11,23 @@ child.on('exit', function () {
 child.start();
 
 
-var child2 = new (forever.Monitor)('./queue.js', {
+var child2 = new (forever.Monitor)('./getCoreBallot.js', {
   silent: true,
 });
 
 child2.on('exit', function () {
-  console.log('queue.js has exited');
+  console.log('getCoreBallot.js has exited');
 });
 
 child2.start();
+
+
+var child3 = new (forever.Monitor)('./queue.js', {
+  silent: true,
+});
+
+child3.on('exit', function () {
+  console.log('queue.js has exited');
+});
+
+child3.start();

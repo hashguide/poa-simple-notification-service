@@ -89,4 +89,4 @@ logger.debug("done");
 
 });
 
-setTimeout(wait, 5000, 5000 );
+setTimeout(wait, 60000, 60000 );
