@@ -56,83 +56,95 @@ q.on('start',function() {
 }) ;
  
 q.on('next',function(task) {
-    log.debug('Queue contains '+q.getLength()+' job/s') ;
-    log.debug('Process task: ') ;
-    //log.debug(task) ;
+    try {
+        log.debug('Queue contains '+q.getLength()+' job/s') ;
+        log.debug('Process task: ') ;
+        //log.debug(task) ;
 
-    //reload config
-    config = yaml.safeLoad(fs.readFileSync('./email.yaml', 'utf8'));
+        //reload config
+        config = yaml.safeLoad(fs.readFileSync('./email.yaml', 'utf8'));
 
-    var  job = task.job.replace(/\\\\n/g, "<br/>");
-    job = job.replace(/\\/g, "");           
-    job = job.substring(1, job.length - 1 );
-    var json = JSON.parse(job);
+        var  job = task.job.replace(/\\\\n/g, "<br/>");
+        job = job.replace(/\\/g, "");           
+        job = job.substring(1, job.length - 1 );
+        var json = JSON.parse(job);
 
-    // Shape the recipients into an array
-    function getRecipients(recipients) {
-        const to = [];
-        for (const email in recipients) {
-            const name = recipients[email];
-            const address = name ? `${name} <${email}>` : email;
-            to.push(address);
-        }
-        return to;
-    }
 
-    var message = config.sokol_validators_message;
 
-    //build the message from the task ....
-    let msg = {
-        // Comma separated list of recipients
-        to: getRecipients( JSON.parse(task.toEmail) ),
-        // Subject of the message
-        subject: 'POA ' + task.network.toUpperCase() + ' Ballot Id [' + task['ballotId'] + '], created ( beta ).',
-        // plaintext body
-        text:  message.message_txt 
-        + "\n-Network" + task.network + " -- Ballot Id: " + task.ballotId
-        + "\n-Description: " + json.memo 
-        + "\n-Ballot End Time: " + new Date( json.endTime * 1000 ) 
-        + "\n-POA Voting DApp:  https://voting.poa.network/",
-        // HTML body
-        html:
-        "<html><ul>" + message.message_txt 
-        + "<li/>Network " + task.network.toUpperCase() + " -- Ballot Id: " + task.ballotId
-        + "<li/>Description: " + json.memo 
-        + "<li/>Ballot End Time: " + new Date( json.endTime * 1000 ) 
-        + "<li/>POA Voting DApp:  https://voting.poa.network/</ul></html>",
-
-        // An array of attachments
-        //attachments: [
-            // File Stream attachment
-            //{
-            //    filename: 'nyan cat.gif',
-            //    path: __dirname + '/assets/nyan.gif',
-            //    cid: 'nyan@example.com' // should be as unique as possible
-            //}
-        //]
-    };
- 
-
-    return new Promise(function(resolve,reject) { 
-        transporter.sendMail(msg, (error, info) => {
-            if (error) {
-                log.debug('Error occurred');
-                log.debug(error.message);
-                reject(error);
-            }
+        // Shape the recipients into an array
+        function getRecipients(recipients) {
             
-            log.debug('Message sent successfully!');
-            //log.debug(nodemailer.getTestMessageUrl(info));
+            const to = [];
+            
+                for (const email in recipients) {
+                    const name = recipients[email];
+                    const address = name ? `${name} <${email}>` : email;
+                    to.push(address);
+                } 
+            return to;
+        }
 
-            // only needed when using pooled connections
-            //transporter.close();
-            // Must tell Queue that we have finished this task 
-            // This call will schedule the next task (if there is one) 
-            q.done() ;
-            resolve();
-        } );
+        var message = config.sokol_validators_message;
 
-    });
+        //build the message from the task ....
+        let msg = {
+            // Comma separated list of recipients
+            to: getRecipients( JSON.parse(task.toEmail) ),
+            // Subject of the message
+            subject: 'POA ' + task.network.toUpperCase() + ' Ballot Id [' + task['ballotId'] + '], created ( beta ).',
+            // plaintext body
+            text:  message.message_txt 
+            + "\n-Network" + task.network + " -- Ballot Id: " + task.ballotId
+            + "\n-Description: " + json.memo 
+            + "\n-Ballot End Time: " + new Date( json.endTime * 1000 ) 
+            + "\n-POA Voting DApp:  https://voting.poa.network/",
+            // HTML body
+            html:
+            "<html><ul>" + message.message_txt 
+            + "<li/>Network " + task.network.toUpperCase() + " -- Ballot Id: " + task.ballotId
+            + "<li/>Description: " + json.memo 
+            + "<li/>Ballot End Time: " + new Date( json.endTime * 1000 ) 
+            + "<li/>POA Voting DApp:  https://voting.poa.network/</ul></html>",
+
+            // An array of attachments
+            //attachments: [
+                // File Stream attachment
+                //{
+                //    filename: 'nyan cat.gif',
+                //    path: __dirname + '/assets/nyan.gif',
+                //    cid: 'nyan@example.com' // should be as unique as possible
+                //}
+            //]
+        };
+    
+
+        return new Promise(function(resolve,reject) { 
+
+            transporter.sendMail(msg, (error, info) => {
+                if (error) {
+                    log.debug('Error occurred');
+                    log.debug(error.message);
+                    reject(error);
+                }
+                
+                log.debug('Message sent successfully!');
+                //log.debug(nodemailer.getTestMessageUrl(info));
+
+                // only needed when using pooled connections
+                //transporter.close();
+                // Must tell Queue that we have finished this task 
+                // This call will schedule the next task (if there is one) 
+                q.done() ;
+                resolve();
+            } );
+
+        });
+    } catch(e) {
+        log.debug('Ouch -- something went wrong, skipping this message with id [' 
+            + task.id + ']'); 
+        log.error(e);
+        q.err();
+    }
 });
 
 
