@@ -299,7 +299,24 @@ PersistentQueue.prototype.done = function() {
 	var self = this ;
 	if(self.debug) logger.debug('Calling done!') ;
 	// Remove the job from the queue
-	removeJob(this)
+	removeJob(this, undefined, 'sent')
+	.then(function() {
+		if(self.debug) logger.debug('Job deleted from db') ;
+		// Decrement our job length
+		self.length-- ;
+		self.emit('trigger_next') ;
+	})
+	.catch(function(err) {
+		console.error(err) ;
+		process.exit(1) ;
+	}) ;
+} ;
+
+PersistentQueue.prototype.err = function() {
+	var self = this ;
+	if(self.debug) logger.debug('Calling err!') ;
+	// Remove the job from the queue
+	removeJob(this, undefined, 'failed')
 	.then(function() {
 		if(self.debug) logger.debug('Job deleted from db') ;
 		// Decrement our job length
@@ -429,7 +446,7 @@ PersistentQueue.prototype.has = function(id) {
  */
 PersistentQueue.prototype.delete = function(id) {
 	var self = this ;
-	return removeJob(this,id)
+	return removeJob(this,id, 'delete')
 	.then(function() {
 		if(self.debug) logger.debug('Job deleted from db') ;
 		self.emit('delete',{ id: id }) ;
@@ -497,7 +514,7 @@ function hydrateQueue(self,size) {
  * @param {integer} [id] Optional job id number to remove, if omitted, remove current job at front of queue
  * @return {Promise}
  */
-function removeJob(self,id) {
+function removeJob(self,id, status ) {
 	if(id === undefined) {
 		id = self.queue.shift().id ;
 	}
@@ -519,7 +536,7 @@ function removeJob(self,id) {
 		if(self.debug) logger.debug('Removing job: '+id) ;
 		if(self.debug) logger.debug('From table: '+table) ;
 		if(self.debug) logger.debug('With queue length: '+self.length) ;
-		self.db.run("UPDATE mq set status = 'sent', updated = DATETIME('now') WHERE id = ?", id, function(err) {
+		self.db.run("UPDATE mq set status = ?, updated = DATETIME('now') WHERE id = ?", status, id, function(err) {
 			if(err !== null)
 				reject(err) ;
 
