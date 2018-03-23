@@ -5,8 +5,8 @@ transport:
     port: 587
     //secure: account.smtp.secure
     auth: 
-            user: jlegassic@gmail.com     
-            pass: lzzatqbcvsjuxhyw      
+            user: <replace_me>     
+            pass: <replace_me>
     logger: false
     debug: false #include SMTP traffic in the logs
     from:  sokol@poa.network
