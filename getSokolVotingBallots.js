@@ -3,28 +3,27 @@ var fs = require('fs');
 var log4js = require('log4js');
 var Queue = require('./mq.js') ;
 var q = new Queue('./mq.db');
-var blockFile = 'core_voting_block';
-
+var blockFile = 'sokol_voting_block';
 
 
 log4js.configure({
-    appenders: { voting_core: { type: 'file', filename: './core/logs/core_voting.log' } },
-    categories: { default: { appenders: ['voting_core'], level: 'debug' } }
+    appenders: { voting: { type: 'file', filename: './sokol/logs/sokol_voting.log' } },
+    categories: { default: { appenders: ['voting'], level: 'debug' } }
   });
-var logger = log4js.getLogger('voting_core');
+var logger = log4js.getLogger('voting');
 
-var block = fs.readFileSync(blockFile, 'utf-8');
+var block = fs.readFileSync('sokol_voting_block', 'utf-8');
 
 var endBlock = block;
 
 let config = yaml.safeLoad(fs.readFileSync('./email-local.yaml', 'utf8'));
 
-const POA_ABI = require('./core/abis/voting-core.json');
+const POA_ABI = require('./sokol/abis/voting.json');
 const Web3 = require('web3');
-const sokol = 'https://core.poa.network'
+const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0x215794efe4b86a2fbcbf706bc9ade63663f1eae1';
+const CONTRACT_ADDR = '0xc40cdf254a4a35498aa84f35e9842c110729a2a0';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }

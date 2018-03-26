@@ -3,28 +3,28 @@ var fs = require('fs');
 var log4js = require('log4js');
 var Queue = require('./mq.js') ;
 var q = new Queue('./mq.db');
-var blockFile = 'core_voting_block';
-
-
+var blockFile = 'core_threshold_block';
 
 log4js.configure({
-    appenders: { voting_core: { type: 'file', filename: './core/logs/core_voting.log' } },
-    categories: { default: { appenders: ['voting_core'], level: 'debug' } }
+    appenders: { core_threshold: { type: 'file', filename: './core/logs/core_threshold.log' } },
+    categories: { default: { appenders: ['core_threshold'], level: 'debug' } }
   });
-var logger = log4js.getLogger('voting_core');
+var logger = log4js.getLogger('core_threshold');
 
-var block = fs.readFileSync(blockFile, 'utf-8');
+var block = fs.readFileSync('core_threshold_block', 'utf-8');
+
+if ( isNaN( block) ) block = 0;
 
 var endBlock = block;
 
 let config = yaml.safeLoad(fs.readFileSync('./email-local.yaml', 'utf8'));
 
-const POA_ABI = require('./core/abis/voting-core.json');
+const POA_ABI = require('./core/abis/VotingToChangeMinThreshold.abi.json');
 const Web3 = require('web3');
-const sokol = 'https://core.poa.network'
-const provider = new Web3.providers.HttpProvider(sokol);
+const core = 'https://core.poa.network'
+const provider = new Web3.providers.HttpProvider(core);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0x215794efe4b86a2fbcbf706bc9ade63663f1eae1';
+const CONTRACT_ADDR = '0x8829ebe113535826e8af17ed51f83755f675789a';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }
@@ -38,7 +38,7 @@ function updateEndBlock( endBlock, blockFile ) {
     logger.debug("done");
 }
 
-logger.debug("\n -------------------------\n");
+logger.debug("\n ---------------------------\n");
 logger.debug("from block: " + block );
 
 
@@ -85,7 +85,7 @@ poa.getPastEvents('BallotCreated',{
           } );
           
           if ( block != endBlock ) endBlock++;
-          updateEndBlock(endBlock, blockFile );
+          updateEndBlock(endBlock, blockFile);
     } 
    
 } );
