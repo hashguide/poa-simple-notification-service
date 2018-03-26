@@ -5,8 +5,8 @@ transport:
     port: 587
     //secure: account.smtp.secure
     auth: 
-            user: <replace_me>     
-            pass: <replace_me>
+            user: jlegassic@gmail.com     
+            pass: yojbqohwjohjejof 
     logger: false
     debug: false #include SMTP traffic in the logs
     from:  sokol@poa.network
@@ -55,3 +55,46 @@ sokol_all_message:
         <<: *sokol_operations
         <<: *sokol_marketing
     
+core_validators: &sokol_validators
+#    - hash.guide@gmail.com: Stepen Arsenault
+    - yang.sherina@gmail.com: Sherina Hsuan Yang 
+#    - roman+validator@poa.network: Roman Storm 
+    - roccofmancini@yahoo.com: Rocco Federico Mancini
+#    - michael@cryptodigm.io: Michael Milirud 
+   - mmarsollier@outlook.com: Melanie Marsollier
+#   - mpekker@gmail.com: Marat Pekker 
+    - jnuuma@gmail.com: John H. LeGassic
+#    - jlegassic@gmail.com: John H. LeGassic
+    - john.storey@consensys.net: John D. Storey
+    - devnoc@blaquetec.org: Jim O'Regan
+    - flowersjeff@gmail.com: Jeffrey Flowers 
+    - henryvishnevsky@gmail.com: Henry Vihnevsky
+
+core_operations: &sokol_operations
+   - roman+validator@poa.network: Roman Storm 
+
+core_marketing: &sokol_marketing
+
+core_message_defaults: &sokol_message_defaults
+    from: sokol@poa.network
+    message_txt: Yada yada yada!!!
+
+core_validators_message:
+    <<: *sokol_message_defaults
+    recipients:
+        <<: *sokol_validators
+    message_txt: Validator, a new Ballot has been created!
+
+
+core_operations_message:
+    <<: *sokol_message_defaults
+    from: sokol_operations@poa.network
+    recipients:
+        <<: *sokol_operations
+
+core_all_message:
+    <<: *sokol_message_defaults
+    recipients:
+        <<: *sokol_validators
+        <<: *sokol_operations
+        <<: *sokol_marketing
