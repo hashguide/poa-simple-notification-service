@@ -1,14 +1,14 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('./mq.js') ;
-var q = new Queue('./mq.db');
-var blockFile = 'core_proxy_block';
+var Queue = require('/home/jhl/dev/poa/poa-simple-notification-service/mq.js') ;
+var q = new Queue('/home/jhl/dev/poa/poa-simple-notification-service/mq.db');
+var blockFile = '/home/jhl/dev/poa/poa-simple-notification-service/core_proxy_block';
 
 
 
 log4js.configure({
-    appenders: { core_proxy: { type: 'file', filename: './core/logs/core_proxy.log' } },
+    appenders: { core_proxy: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/core/logs/core_proxy.log' } },
     categories: { default: { appenders: ['core_proxy'], level: 'debug' } }
   });
 var logger = log4js.getLogger('core_proxy');
@@ -17,9 +17,9 @@ var block = fs.readFileSync(blockFile, 'utf-8');
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('./email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('./core/abis/VotingToChangeProxyAddress.abi.json');
+const POA_ABI = require('/home/jhl/dev/poa/poa-simple-notification-service/core/abis/VotingToChangeProxyAddress.abi.json');
 const Web3 = require('web3');
 const core = 'https://core.poa.network'
 const provider = new Web3.providers.HttpProvider(core);
@@ -90,4 +90,4 @@ poa.getPastEvents('BallotCreated',{
    
 } );
 
-setTimeout(wait, 60000, 60000 );
+//setTimeout(wait, 60000, 60000 );
