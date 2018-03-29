@@ -3,7 +3,7 @@ var sqlite3 = require('sqlite3').verbose();
 var log4js = require('log4js');
 
 log4js.configure({
-    appenders: { mq: { type: 'file', filename: 'mq.log' } },
+    appenders: { mq: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/mq.log' } },
     categories: { default: { appenders: ['mq'], level: 'debug' } }
   });
 
@@ -67,7 +67,7 @@ function PersistentQueue(filename,batchSize) {
 	/**
 	 * How many objects to retrieve from DB into queue array at a time
 	 */
-	this.batchSize = (batchSize === undefined) ? 10 : batchSize ;
+	this.batchSize = (batchSize === undefined) ? 30 : batchSize ;
 	if(typeof this.batchSize !== 'number' || this.batchSize < 1)
 		throw new Error('Invalid batchSize parameter.  Must be a number > 0') ;
 

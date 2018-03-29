@@ -3,28 +3,28 @@ var fs = require('fs');
 var log4js = require('log4js');
 var Queue = require('/home/jhl/dev/poa/poa-simple-notification-service/mq.js') ;
 var q = new Queue('/home/jhl/dev/poa/poa-simple-notification-service/mq.db');
-var blockFile = '/home/jhl/dev/poa/poa-simple-notification-service/core_threshold_block';
+var blockFile = '/home/jhl/dev/poa/poa-simple-notification-service/sokol_proxy_block';
+
+
 
 log4js.configure({
-    appenders: { core_threshold: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/core/logs/core_threshold.log' } },
-    categories: { default: { appenders: ['core_threshold'], level: 'debug' } }
+    appenders: { sokol_proxy: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/sokol/logs/sokol_proxy.log' } },
+    categories: { default: { appenders: ['sokol_proxy'], level: 'debug' } }
   });
-var logger = log4js.getLogger('core_threshold');
+var logger = log4js.getLogger('sokol_proxy');
 
 var block = fs.readFileSync(blockFile, 'utf-8');
-
-if ( isNaN( block) ) block = 0;
 
 var endBlock = block;
 
 let config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('/home/jhl/dev/poa/poa-simple-notification-service/core/abis/VotingToChangeMinThreshold.abi.json');
+const POA_ABI = require('/home/jhl/dev/poa/poa-simple-notification-service/sokol/abis/VotingToChangeProxyAddress.abi.json');
 const Web3 = require('web3');
-const core = 'https://core.poa.network'
-const provider = new Web3.providers.HttpProvider(core);
+const sokol = 'https://sokol.poa.network'
+const provider = new Web3.providers.HttpProvider(sokol);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0x8829ebe113535826e8af17ed51f83755f675789a';
+const CONTRACT_ADDR = '0x0aa4a75549757a90f62f88b3b96b69bead2db0ff';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }
@@ -85,7 +85,7 @@ poa.getPastEvents('BallotCreated',{
           } );
           
           if ( block != endBlock ) endBlock++;
-          updateEndBlock(endBlock, blockFile);
+          updateEndBlock(endBlock, blockFile );
     } 
    
 } );

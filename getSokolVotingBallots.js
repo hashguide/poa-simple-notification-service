@@ -1,24 +1,24 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('./mq.js') ;
-var q = new Queue('./mq.db');
-var blockFile = 'sokol_voting_block';
+var Queue = require('/home/jhl/dev/poa/poa-simple-notification-service/mq.js') ;
+var q = new Queue('/home/jhl/dev/poa/poa-simple-notification-service/mq.db');
+var blockFile = '/home/jhl/dev/poa/poa-simple-notification-service/sokol_voting_block';
 
 
 log4js.configure({
-    appenders: { voting: { type: 'file', filename: './sokol/logs/sokol_voting.log' } },
+    appenders: { voting: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/sokol/logs/sokol_voting.log' } },
     categories: { default: { appenders: ['voting'], level: 'debug' } }
   });
 var logger = log4js.getLogger('voting');
 
-var block = fs.readFileSync('sokol_voting_block', 'utf-8');
+var block = fs.readFileSync(blockFile, 'utf-8');
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('./email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('./sokol/abis/voting.json');
+const POA_ABI = require('/home/jhl/dev/poa/poa-simple-notification-service/sokol/abis/voting.json');
 const Web3 = require('web3');
 const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
@@ -89,4 +89,4 @@ poa.getPastEvents('BallotCreated',{
    
 } );
 
-setTimeout(wait, 60000, 60000 );
+//setTimeout(wait, 60000, 60000 );
