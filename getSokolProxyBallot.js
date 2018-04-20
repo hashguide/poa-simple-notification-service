@@ -1,14 +1,14 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('/home/jhl/dev/poa/poa-simple-notification-service/mq.js') ;
-var q = new Queue('/home/jhl/dev/poa/poa-simple-notification-service/mq.db');
-var blockFile = '/home/jhl/dev/poa/poa-simple-notification-service/sokol_proxy_block';
+var Queue = require('/home/validator/dev/poa/poa-simple-notification-service/mq.js') ;
+var q = new Queue('/home/validator/dev/poa/poa-simple-notification-service/mq.db');
+var blockFile = '/home/validator/dev/poa/poa-simple-notification-service/sokol_proxy_block';
 
 
 
 log4js.configure({
-    appenders: { sokol_proxy: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/sokol/logs/sokol_proxy.log' } },
+    appenders: { sokol_proxy: { type: 'file', filename: '/home/validator/dev/poa/poa-simple-notification-service/sokol/logs/sokol_proxy.log' } },
     categories: { default: { appenders: ['sokol_proxy'], level: 'debug' } }
   });
 var logger = log4js.getLogger('sokol_proxy');
@@ -17,9 +17,9 @@ var block = fs.readFileSync(blockFile, 'utf-8');
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('/home/validator/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('/home/jhl/dev/poa/poa-simple-notification-service/sokol/abis/VotingToChangeProxyAddress.abi.json');
+const POA_ABI = require('/home/validator/dev/poa/poa-simple-notification-service/sokol/abis/VotingToChangeProxyAddress.abi.json');
 const Web3 = require('web3');
 const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
@@ -75,9 +75,9 @@ poa.getPastEvents('BallotCreated',{
             endBlock = e.blockNumber; 
             var p1 = poa.methods.votingState(e.returnValues.id).call().then( 
                 resp => {
-                    for (const toEmail of config.core_validators ) { 
+                    for (const toEmail of config.sokol_validators ) { 
                         logger.debug( 'block: >>>>>>>>>' + endBlock + ", email: " + JSON.stringify(toEmail) );
-                        q.add( 'core',endBlock, CONTRACT_ADDR, e.returnValues.id, JSON.stringify(toEmail), JSON.stringify(resp) );
+                        q.add( 'sokol',endBlock, CONTRACT_ADDR, e.returnValues.id, JSON.stringify(toEmail), JSON.stringify(resp) );
                         logger.debug("contractAddress [" + CONTRACT_ADDR + "], ballotId[" + e.returnValues.id + "]: " + resp.memo );                       
                     }
                 }
