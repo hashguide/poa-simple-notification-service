@@ -462,15 +462,8 @@ function countQueue(self) {
 		if(self.db === null)
 			reject('Open queue database before counting jobs') ;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status in ('initial', 'retry' ) LIMIT 1;", function(err, row) {
-=======
-		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status ='initial' LIMIT 1;", function(err, row) {
->>>>>>> b4e34301966f08904d02196fb6770f002ecbe9b1
-=======
-		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status ='initial' LIMIT 1;", function(err, row) {
->>>>>>> b4e34301966f08904d02196fb6770f002ecbe9b1
+
 			if(err !== null)
 				reject(err) ;
 
