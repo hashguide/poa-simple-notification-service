@@ -62,6 +62,7 @@ q.on('next',function(task) {
         //log.debug(task) ;
 
         //reload config
+<<<<<<< HEAD
         config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
         //var  job = task.job.replace(/\\\\n/g, "<br/>");
@@ -71,6 +72,17 @@ q.on('next',function(task) {
 
 
 
+=======
+        config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email.yaml', 'utf8'));
+
+        var  job = task.job.replace(/\\\\n/g, "<br/>");
+        job = job.replace(/\\/g, "");           
+        job = job.substring(1, job.length - 1 );
+        var json = JSON.parse(job);
+
+
+
+>>>>>>> b4e34301966f08904d02196fb6770f002ecbe9b1
         // Shape the recipients into an array
         function getRecipients(recipients) {
             
