@@ -349,7 +349,7 @@ PersistentQueue.prototype.abort = function() {
 PersistentQueue.prototype.add = function(network, block,contractAddress, ballotId, toEmail, memo ) {
 	var self = this ;
 
-	self.db.run("INSERT INTO mq (network, block, contractAddress, ballotId, toEmail, memo ) VALUES (?,?,?,?,?,?);", network, block, contractAddress, ballotId, toEmail, JSON.stringify(memo), function(err) {
+	self.db.run("INSERT INTO mq (network, block, contractAddress, ballotId, toEmail, memo ) VALUES (?,?,?,?,?,?);", network, block, contractAddress, ballotId, toEmail, memo, function(err) {
 		if(err)
 			logger.error( err ) ;
 		else {
@@ -461,7 +461,7 @@ function countQueue(self) {
 		if(self.db === null)
 			reject('Open queue database before counting jobs') ;
 
-		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status ='initial' LIMIT 1;", function(err, row) {
+		self.db.get("SELECT COUNT(id) as counter FROM mq WHERE status in ('initial', 'retry' ) LIMIT 1;", function(err, row) {
 			if(err !== null)
 				reject(err) ;
 

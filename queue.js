@@ -62,12 +62,12 @@ q.on('next',function(task) {
         //log.debug(task) ;
 
         //reload config
-        config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email.yaml', 'utf8'));
+        config = yaml.safeLoad(fs.readFileSync('/home/jhl/dev/poa/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-        var  job = task.job.replace(/\\\\n/g, "<br/>");
-        job = job.replace(/\\/g, "");           
-        job = job.substring(1, job.length - 1 );
-        var json = JSON.parse(job);
+        //var  job = task.job.replace(/\\\\n/g, "<br/>");
+        //job = job.replace(/\\/g, "");           
+        //job = job.substring(1, job.length - 1 );
+        var json = JSON.parse(task.job);
 
 
 
