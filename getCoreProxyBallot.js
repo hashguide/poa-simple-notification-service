@@ -24,7 +24,7 @@ const Web3 = require('web3');
 const core = 'https://core.poa.network'
 const provider = new Web3.providers.HttpProvider(core);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0x6b728399b41a38d4109f7af2213d4cc31ca87812';
+const CONTRACT_ADDR = '0x468758926C796722D85BdeD792d1831F0839cAA6';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }
