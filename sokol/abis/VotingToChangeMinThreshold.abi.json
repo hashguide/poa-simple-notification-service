@@ -240,7 +240,7 @@
         "type": "address"
       }
     ],
-    "name": "getgetBallotInfo",
+    "name": "getBallotInfo",
     "outputs": [
       {
         "name": "startTime",
