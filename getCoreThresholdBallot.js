@@ -1,12 +1,12 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('$HOME/poa-simple-notification-service/mq.js') ;
-var q = new Queue('$HOME/poa-simple-notification-service/mq.db');
-var blockFile = '$HOME/poa-simple-notification-service/core_threshold_block';
+var Queue = require('~//poa-simple-notification-service/mq.js') ;
+var q = new Queue('~//poa-simple-notification-service/mq.db');
+var blockFile = '~//poa-simple-notification-service/core_threshold_block';
 
 log4js.configure({
-    appenders: { core_threshold: { type: 'file', filename: '$HOME/poa-simple-notification-service/core/logs/core_threshold.log' } },
+    appenders: { core_threshold: { type: 'file', filename: '~//poa-simple-notification-service/core/logs/core_threshold.log' } },
     categories: { default: { appenders: ['core_threshold'], level: 'debug' } }
   });
 var logger = log4js.getLogger('core_threshold');
@@ -17,9 +17,9 @@ if ( isNaN( block) ) block = 0;
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('$HOME/poa-simple-notification-service/email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('$HOME/poa-simple-notification-service/core/abis/VotingToChangeMinThreshold.abi.json');
+const POA_ABI = require('~//poa-simple-notification-service/core/abis/VotingToChangeMinThreshold.abi.json');
 const Web3 = require('web3');
 const core = 'https://core.poa.network'
 const provider = new Web3.providers.HttpProvider(core);

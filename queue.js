@@ -6,16 +6,16 @@ const yaml = require('js-yaml');
 var log4js = require('log4js');
 
 log4js.configure({
-    appenders: { dequeue: { type: 'file', filename: '$HOME/poa-simple-notification-service/dequeue.log' } },
+    appenders: { dequeue: { type: 'file', filename: '~//poa-simple-notification-service/dequeue.log' } },
     categories: { default: { appenders: ['dequeue'], level: 'debug' } }
   });
 
 var log = log4js.getLogger();
 
-var Queue = require('$HOME/poa-simple-notification-service/mq.js') ;
-var q = new Queue('$HOME/poa-simple-notification-service/mq.db');
+var Queue = require('~//poa-simple-notification-service/mq.js') ;
+var q = new Queue('~//poa-simple-notification-service/mq.db');
 
-let config = yaml.safeLoad(fs.readFileSync('$HOME/poa-simple-notification-service/email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
 
 // Setup Nodemailer transport
 let transporter = nodemailer.createTransport( 
@@ -63,7 +63,7 @@ q.on('next',function(task) {
 
         //reload config
 
-        config = yaml.safeLoad(fs.readFileSync('$HOME/poa-simple-notification-service/email-local.yaml', 'utf8'));
+        config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
 
         //var  job = task.job.replace(/\\\\n/g, "<br/>");
         //job = job.replace(/\\/g, "");           
@@ -71,7 +71,7 @@ q.on('next',function(task) {
         var json = JSON.parse(task.job);
 
 
-        config = yaml.safeLoad(fs.readFileSync('$HOME/poa-simple-notification-service/email-local.yaml', 'utf8'));
+        config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
 
         //var  job = task.job.replace(/\\\\n/g, "<br/>");
         //job = job.replace(/\\/g, "");           
