@@ -73,7 +73,7 @@ poa.getPastEvents('BallotCreated',{
     } else  {       
         events.forEach( ( e ) => { 
             endBlock = e.blockNumber; 
-            var p1 = poa.methods.votingState(e.returnValues.id).call().then( 
+            var p1 = poa.methods.BallotInfo(e.returnValues.id).call().then( 
                 resp => {
                     for (const toEmail of config.core_validators ) { 
                         logger.debug( 'block: >>>>>>>>>' + endBlock + ", email: " + JSON.stringify(toEmail) );

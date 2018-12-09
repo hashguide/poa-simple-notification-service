@@ -630,7 +630,7 @@
         "type": "uint256"
       }
     ],
-    "name": "votingState",
+    "name": "BallotInfo",
     "outputs": [
       {
         "name": "startTime",

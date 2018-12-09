@@ -12,22 +12,22 @@ transport:
     from:  sokol@poa.network
 
 sokol_validators: &sokol_validators
-#    - hash.guide@gmail.com: Stepen Arsenault
-    - yang.sherina@gmail.com: Sherina Hsuan Yang 
+    - hash.guide@gmail.com: Stepen Arsenault
+#    - yang.sherina@gmail.com: Sherina Hsuan Yang 
 #    - roman+validator@poa.network: Roman Storm 
-    - roccofmancini@yahoo.com: Rocco Federico Mancini
+#    - roccofmancini@yahoo.com: Rocco Federico Mancini
 #    - michael@cryptodigm.io: Michael Milirud 
-    - mmarsollier@outlook.com: Melanie Marsollier
-    - mpekker@gmail.com: Marat Pekker 
-    - jnuuma@gmail.com: John H. LeGassic
+#    - mmarsollier@outlook.com: Melanie Marsollier
+#    - mpekker@gmail.com: Marat Pekker 
+#    - jnuuma@gmail.com: John H. LeGassic
 #     - jlegassic@gmail.com: John H. LeGassic
-    - john.storey@consensys.net: John D. Storey
-    - devnoc@blaquetec.org: Jim O'Regan
-    - flowersjeff@gmail.com: Jeffrey Flowers 
-    - henryvishnevsky@gmail.com: Henry Vihnevsky
+#    - john.storey@consensys.net: John D. Storey
+#    - devnoc@blaquetec.org: Jim O'Regan
+#    - flowersjeff@gmail.com: Jeffrey Flowers 
+#    - henryvishnevsky@gmail.com: Henry Vihnevsky
 
 sokol_operations: &sokol_operations
-   - roman+validator@poa.network: Roman Storm 
+#   - roman+validator@poa.network: Roman Storm 
 
 sokol_marketing: &sokol_marketing
 
@@ -57,22 +57,22 @@ sokol_all_message:
     
 
 core_validators: &sokol_validators
-#    - hash.guide@gmail.com: Stepen Arsenault
-    - yang.sherina@gmail.com: Sherina Hsuan Yang 
+    - hash.guide@gmail.com: Stepen Arsenault
+#    - yang.sherina@gmail.com: Sherina Hsuan Yang 
 #    - roman+validator@poa.network: Roman Storm 
-    - roccofmancini@yahoo.com: Rocco Federico Mancini
+#    - roccofmancini@yahoo.com: Rocco Federico Mancini
 #    - michael@cryptodigm.io: Michael Milirud 
-    - mmarsollier@outlook.com: Melanie Marsollier
+#    - mmarsollier@outlook.com: Melanie Marsollier
 #   - mpekker@gmail.com: Marat Pekker 
-    - jnuuma@gmail.com: John H. LeGassic
+#    - jnuuma@gmail.com: John H. LeGassic
 #    - jlegassic@gmail.com: John H. LeGassic
-    - john.storey@consensys.net: John D. Storey
-    - devnoc@blaquetec.org: Jim O'Regan
-    - flowersjeff@gmail.com: Jeffrey Flowers 
-    - henryvishnevsky@gmail.com: Henry Vihnevsky
+#    - john.storey@consensys.net: John D. Storey
+#    - devnoc@blaquetec.org: Jim O'Regan
+#    - flowersjeff@gmail.com: Jeffrey Flowers 
+#    - henryvishnevsky@gmail.com: Henry Vihnevsky
 
 core_operations: &sokol_operations
-   - roman+validator@poa.network: Roman Storm 
+#   - roman+validator@poa.network: Roman Storm 
 
 core_marketing: &sokol_marketing
 
