@@ -1,0 +1,1584 @@
+[2018-12-09T21:29:28.727] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:28.748] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:28.907] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:28.909] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:28.909] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:29.014] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:33.457] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:33.482] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:33.651] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:33.655] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:33.656] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:33.762] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:38.184] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:38.228] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:38.405] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:38.417] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:38.419] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:38.527] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:42.871] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:42.903] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:43.078] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:43.085] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:43.095] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:43.241] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:47.617] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:47.643] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:47.821] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:47.833] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:47.836] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:47.948] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:52.257] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:52.280] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:52.464] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:52.486] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:52.487] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:52.632] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:29:57.124] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:57.133] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:29:57.305] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:57.310] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:29:57.318] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:57.446] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:01.933] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:01.971] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:02.130] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:02.141] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:02.143] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:02.292] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:06.835] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:06.849] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:07.004] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:07.017] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:07.020] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:07.137] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:11.402] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:11.420] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:11.596] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:11.602] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:11.612] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:11.752] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:16.218] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:16.238] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:16.456] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:16.466] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:16.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:16.587] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:20.966] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:20.985] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:21.159] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:21.167] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:21.172] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:21.304] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:25.763] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:25.778] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:25.963] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:25.973] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:25.976] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:26.080] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:30.548] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:30.565] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:30.737] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:30.744] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:30.748] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:30.860] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:35.312] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:35.338] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:35.536] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:35.540] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:35.553] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:35.665] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:40.006] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:40.018] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:40.191] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:40.200] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:40.215] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:40.364] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:44.709] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:44.733] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:44.899] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:44.909] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:44.915] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:45.060] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:49.392] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:49.409] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:49.587] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:49.601] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:49.607] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:49.748] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:54.069] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:54.093] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:54.267] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:54.273] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:54.277] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:54.427] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:30:58.781] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:30:58.815] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:30:58.987] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:30:58.997] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:30:58.998] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:30:59.113] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:03.578] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:03.597] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:03.754] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:03.758] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:03.771] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:03.905] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:08.222] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:08.255] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:08.443] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:08.459] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:08.459] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:08.581] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:12.977] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:12.989] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:13.160] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:13.170] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:13.177] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:13.297] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:17.735] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:17.748] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:17.910] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:17.918] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:17.919] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:18.045] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:22.355] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:22.375] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:22.537] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:22.553] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:22.553] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:22.672] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:27.116] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:27.134] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:27.307] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:27.316] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:27.316] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:27.478] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:31.802] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:31.839] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:31.999] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:32.017] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:32.023] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:32.170] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:36.494] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:36.535] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:36.711] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:36.717] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:36.719] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:36.882] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:41.353] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:41.387] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:41.543] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:41.553] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:41.555] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:41.665] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:45.940] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:45.984] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:46.153] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:46.168] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:46.168] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:46.283] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:50.549] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:50.573] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:50.767] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:50.777] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:50.783] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:50.905] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:31:55.258] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:31:55.295] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:31:55.470] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:31:55.486] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:31:55.487] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:31:55.597] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:00.026] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:00.068] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:00.236] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:00.261] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:00.271] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:00.373] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:04.737] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:04.764] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:04.950] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:04.957] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:04.963] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:05.075] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:09.352] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:09.367] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:09.539] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:09.545] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:09.557] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:09.703] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:14.107] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:14.132] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:14.303] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:14.313] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:14.315] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:14.435] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:18.871] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:18.881] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:19.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:19.049] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:19.055] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:19.160] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:23.471] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:23.491] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:23.651] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:23.661] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:23.668] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:23.778] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:28.129] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:28.164] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:28.312] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:28.325] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:28.333] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:28.457] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:32.783] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:32.804] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:32.960] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:32.979] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:32.981] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:33.065] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:37.509] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:37.545] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:37.708] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:37.713] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:37.717] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:37.843] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:42.206] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:42.238] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:42.395] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:42.404] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:42.406] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:42.537] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:47.075] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:47.088] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:47.231] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:47.240] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:47.242] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:47.464] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:51.837] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:51.854] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:52.005] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:52.015] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:52.019] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:52.146] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:32:56.437] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:32:56.467] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:32:56.609] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:32:56.614] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:32:56.614] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:32:56.759] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:01.092] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:01.116] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:01.270] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:01.285] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:01.285] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:01.390] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:05.860] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:05.888] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:06.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:06.050] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:06.051] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:06.225] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:10.574] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:10.606] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:10.763] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:10.783] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:10.783] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:10.917] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:15.460] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:15.484] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:15.638] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:15.640] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:15.647] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:15.778] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:20.092] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:20.116] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:20.265] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:20.269] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:20.275] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:20.409] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:24.763] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:24.789] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:24.959] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:24.962] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:24.971] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:25.095] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:29.456] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:29.480] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:29.626] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:29.633] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:29.639] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:29.776] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:34.092] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:34.116] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:34.283] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:34.290] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:34.299] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:34.433] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:38.765] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:38.790] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:38.947] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:38.957] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:38.959] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:39.099] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:43.477] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:43.481] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:43.631] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:43.634] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:43.638] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:43.760] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:48.106] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:48.147] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:48.313] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:48.321] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:48.323] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:48.454] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:52.700] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:52.720] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:52.879] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:52.884] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:52.891] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:52.986] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:33:57.408] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:33:57.432] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:33:57.579] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:33:57.586] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:33:57.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:33:57.697] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:02.112] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:02.128] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:02.292] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:02.301] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:02.303] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:02.457] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:06.717] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:06.733] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:06.891] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:06.897] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:06.899] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:07.036] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:11.254] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:11.284] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:11.435] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:11.447] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:11.448] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:11.616] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:15.917] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:15.933] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:16.085] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:16.098] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:16.099] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:16.225] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:20.475] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:20.493] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:20.647] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:20.657] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:20.657] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:20.807] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:24.960] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:24.976] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:25.127] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:25.133] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:25.139] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:25.262] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:29.525] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:29.552] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:29.700] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:29.706] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:29.719] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:29.846] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:34.119] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:34.146] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:34.303] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:34.309] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:34.313] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:34.449] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:38.723] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:38.736] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:38.887] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:38.892] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:38.903] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:39.049] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:43.343] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:43.364] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:43.519] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:43.529] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:43.532] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:43.670] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:47.963] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:47.988] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:48.172] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:48.177] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:48.183] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:48.292] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:52.800] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:52.821] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:53.022] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:53.029] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:53.053] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:53.193] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:34:57.771] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:34:57.796] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:34:57.980] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:34:57.985] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:34:57.995] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:34:58.153] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:02.650] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:02.666] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:02.851] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:02.860] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:02.861] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:02.966] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:07.322] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:07.347] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:07.529] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:07.537] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:07.539] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:07.637] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:11.851] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:11.872] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:12.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:12.053] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:12.056] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:12.166] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:16.262] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:16.285] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:16.451] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:16.461] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:16.464] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:16.605] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:20.744] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:20.758] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:20.927] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:20.933] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:20.935] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:21.080] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:25.289] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:25.310] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:25.471] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:25.485] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:25.485] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:25.607] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:29.747] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:29.771] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:29.947] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:29.953] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:29.960] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:30.097] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:34.228] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:34.247] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:34.419] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:34.428] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:34.436] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:34.580] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:38.718] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:38.748] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:38.891] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:38.894] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:38.903] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:39.036] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:43.200] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:43.212] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:43.367] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:43.373] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:43.377] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:43.516] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:47.708] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:47.723] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:47.875] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:47.881] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:47.891] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:48.005] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:52.175] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:52.193] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:52.339] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:52.349] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:52.351] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:52.484] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:35:56.722] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:35:56.746] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:35:56.931] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:35:56.945] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:35:56.954] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:35:57.058] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:01.243] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:01.270] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:01.431] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:01.437] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:01.441] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:01.588] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:05.825] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:05.840] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:06.002] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:06.009] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:06.015] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:06.181] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:10.433] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:10.450] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:10.607] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:10.613] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:10.619] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:10.795] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:15.198] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:15.213] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:15.372] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:15.377] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:15.387] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:15.564] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:19.877] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:19.901] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:20.051] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:20.059] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:20.059] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:20.190] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:24.481] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:24.525] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:24.677] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:24.681] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:24.686] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:24.802] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:29.119] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:29.139] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:29.284] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:29.292] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:29.298] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:29.423] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:33.719] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:33.742] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:33.886] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:33.900] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:33.900] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:34.025] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:38.336] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:38.349] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:38.502] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:38.513] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:38.513] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:38.642] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:42.935] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:42.961] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:43.135] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:43.140] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:43.143] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:43.270] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:47.598] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:47.625] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:47.783] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:47.789] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:47.791] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:47.921] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:52.148] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:52.164] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:52.331] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:52.345] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:52.345] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:52.450] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:36:56.749] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:36:56.772] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:36:56.936] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:36:56.947] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:36:56.947] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:36:57.058] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:01.381] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:01.411] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:01.567] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:01.579] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:01.579] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:01.694] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:06.047] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:06.061] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:06.211] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:06.217] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:06.227] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:06.351] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:10.644] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:10.661] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:10.823] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:10.826] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:10.835] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:10.948] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:15.361] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:15.382] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:15.544] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:15.553] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:15.555] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:15.656] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:19.862] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:19.876] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:20.031] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:20.036] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:20.039] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:20.145] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:24.408] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:24.443] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:24.595] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:24.608] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:24.608] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:24.719] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:28.986] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:29.019] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:29.192] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:29.197] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:29.203] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:29.305] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:33.600] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:33.621] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:33.775] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:33.782] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:33.785] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:33.926] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:38.169] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:38.194] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:38.340] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:38.345] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:38.348] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:38.462] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:42.692] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:42.712] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:42.863] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:42.869] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:42.878] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:43.036] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:47.340] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:47.364] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:47.514] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:47.518] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:47.523] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:47.655] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:51.960] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:51.977] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:52.143] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:52.153] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:52.155] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:52.250] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:37:56.529] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:37:56.540] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:37:56.714] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:37:56.727] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:37:56.727] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:37:56.845] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:01.133] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:01.149] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:01.301] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:01.305] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:01.306] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:01.402] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:05.669] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:05.697] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:05.864] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:05.875] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:05.879] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:06.036] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:10.493] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:10.516] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:10.663] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:10.668] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:10.674] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:10.774] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:15.342] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:15.358] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:15.547] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:15.557] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:15.559] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:15.687] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:20.095] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:20.117] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:20.280] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:20.289] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:20.295] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:20.428] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:24.692] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:24.724] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:24.898] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:24.906] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:24.912] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:25.036] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:29.286] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:29.298] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:29.465] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:29.473] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:29.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:29.599] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:33.802] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:33.841] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:33.989] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:33.997] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:34.002] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:34.119] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:38.446] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:38.477] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:38.631] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:38.637] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:38.637] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:38.770] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:43.054] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:43.074] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:43.247] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:43.264] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:43.264] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:43.369] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:47.620] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:47.640] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:47.791] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:47.799] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:47.803] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:47.904] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:52.212] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:52.235] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:52.382] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:52.386] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:52.399] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:52.565] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:38:56.830] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:38:56.862] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:38:57.015] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:38:57.020] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:38:57.024] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:38:57.196] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:01.477] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:01.491] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:01.691] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:01.697] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:01.703] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:01.862] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:06.171] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:06.190] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:06.376] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:06.381] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:06.387] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:06.514] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:11.167] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:11.185] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:11.352] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:11.363] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:11.370] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:11.472] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:15.768] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:15.789] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:15.959] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:15.968] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:15.971] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:16.093] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:20.370] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:20.386] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:20.560] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:20.573] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:20.575] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:20.669] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:24.989] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:25.005] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:25.160] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:25.182] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:25.187] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:25.288] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:39:29.538] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:39:29.546] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:39:29.731] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:39:29.738] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:39:29.748] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:39:29.882] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:41:42.894] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:42.962] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:41:43.321] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:43.363] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:43.363] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:43.597] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:41:53.228] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:53.307] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:41:53.672] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:53.693] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:53.703] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:53.933] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:03.586] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:03.634] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:04.027] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:04.049] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:04.051] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:04.270] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:13.802] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:13.840] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:14.275] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:14.301] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:14.302] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:14.525] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:23.952] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:24.012] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:24.352] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:24.360] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:24.379] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:24.585] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:34.221] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:34.296] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:34.627] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:34.653] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:34.654] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:34.879] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:44.645] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:44.681] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:45.034] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:45.049] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:45.051] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:45.241] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:42:54.933] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:54.987] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:42:55.334] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:55.349] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:55.351] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:55.580] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:05.322] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:05.370] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:05.717] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:05.734] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:05.757] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:05.963] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:15.690] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:15.733] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:16.092] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:16.117] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:16.139] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:16.340] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:26.007] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:26.052] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:26.382] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:26.398] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:26.424] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:26.633] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:36.385] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:36.456] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:36.819] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:36.845] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:36.847] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:37.061] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:47.065] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:47.115] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:47.468] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:47.496] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:47.496] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:47.733] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:43:58.564] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:58.648] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:43:59.025] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:59.063] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:59.067] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:59.358] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:44:09.668] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:09.710] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:44:10.091] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:10.122] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:10.135] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:10.348] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:44:20.530] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:20.582] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:44:20.968] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:20.997] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:21.010] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:21.239] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:44:31.083] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:31.135] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:44:31.481] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:31.485] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:31.523] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:31.750] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:44:41.464] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:41.516] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:44:41.899] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:41.917] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:41.933] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:42.144] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:44:51.546] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:51.635] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:44:52.007] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:52.036] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:52.037] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:52.267] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:01.917] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:02.011] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:02.388] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:02.400] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:02.423] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:02.695] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:12.394] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:12.421] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:12.798] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:12.824] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:12.834] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:13.056] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:22.694] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:22.737] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:23.119] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:23.132] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:23.151] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:23.352] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:33.139] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:33.187] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:33.512] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:33.546] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:33.552] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:33.780] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:43.428] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:43.465] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:43.836] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:43.853] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:43.856] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:44.081] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:45:53.698] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:53.737] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:45:54.119] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:54.145] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:54.151] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:54.377] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:03.932] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:03.976] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:04.363] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:04.378] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:04.407] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:04.601] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:14.574] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:14.631] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:14.983] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:15.005] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:15.031] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:15.244] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:25.044] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:25.089] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:25.468] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:25.495] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:25.495] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:25.704] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:35.587] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:35.625] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:36.022] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:36.040] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:36.045] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:36.285] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:45.948] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:46.015] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:46.371] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:46.393] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:46.393] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:46.661] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:46:56.408] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:56.475] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:46:56.804] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:56.825] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:56.855] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:57.103] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:06.921] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:06.962] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:07.336] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:07.346] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:07.359] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:07.582] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:17.390] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:17.484] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:17.851] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:17.865] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:17.871] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:18.113] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:27.856] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:27.901] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:28.281] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:28.300] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:28.301] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:28.525] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:38.011] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:38.026] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:38.415] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:38.443] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:38.444] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:38.646] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:48.262] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:48.314] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:48.691] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:48.714] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:48.727] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:48.963] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:47:58.535] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:58.561] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:47:58.936] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:58.949] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:58.972] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:59.186] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:08.838] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:08.885] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:09.248] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:09.267] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:09.267] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:09.465] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:19.002] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:19.059] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:19.343] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:19.357] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:19.363] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:19.606] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:28.541] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:28.561] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:28.924] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:28.945] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:28.949] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:29.187] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:38.677] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:38.719] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:39.083] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:39.100] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:39.102] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:39.326] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:48.857] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:48.914] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:49.285] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:49.301] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:49.301] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:49.512] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:48:59.104] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:59.168] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:48:59.523] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:59.549] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:59.555] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:59.772] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:09.206] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:09.320] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:49:09.722] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:09.731] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:09.751] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:09.937] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:19.433] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:19.513] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:49:19.874] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:19.927] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:19.927] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:20.187] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:29.541] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:29.582] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:49:29.979] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:30.008] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:30.008] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:30.228] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:39.728] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:39.787] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:49:40.167] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:40.170] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:40.194] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:40.385] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:49.828] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:49.874] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:49:50.274] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:50.285] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:50.303] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:50.537] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:49:59.876] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:59.925] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:00.331] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:00.364] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:00.364] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:00.626] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:50:10.131] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:10.171] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:10.573] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:10.577] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:10.594] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:10.860] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:50:20.348] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:20.407] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:20.789] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:20.827] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:20.827] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:21.070] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:50:30.580] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:30.633] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:31.009] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:31.044] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:31.044] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:31.293] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:50:40.770] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:40.804] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:41.175] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:41.190] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:41.195] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:41.457] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:50:50.960] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:50.997] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:50:51.388] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:51.405] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:51.431] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:51.680] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:01.045] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:01.092] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:01.526] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:01.537] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:01.539] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:01.769] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:11.381] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:11.422] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:11.824] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:11.855] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:11.856] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:12.096] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:21.576] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:21.606] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:22.008] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:22.037] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:22.053] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:22.272] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:31.718] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:31.777] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:32.184] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:32.209] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:32.211] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:32.429] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:42.013] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:42.061] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:42.453] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:42.479] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:42.479] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:42.698] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:51:52.353] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:52.416] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:51:52.831] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:52.850] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:52.850] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:53.077] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:02.580] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:02.628] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:03.049] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:03.052] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:03.074] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:03.286] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:12.941] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:13.008] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:13.402] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:13.417] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:13.431] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:13.692] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:23.396] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:23.438] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:23.848] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:23.852] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:23.883] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:24.054] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:33.546] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:33.605] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:33.956] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:33.961] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:34.009] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:34.229] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:43.870] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:43.908] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:44.277] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:44.317] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:44.318] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:44.540] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:52:53.983] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:54.029] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:52:54.431] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:54.450] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:54.466] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:54.697] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:53:04.200] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:53:04.242] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:53:04.648] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:04.683] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:04.683] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:04.892] [DEBUG] sokol_threshold - Found [1] new ballots.
+[2018-12-09T21:53:14.561] [DEBUG] sokol_threshold - 
+ ---------------------------
+
+[2018-12-09T21:53:14.603] [DEBUG] sokol_threshold - from block: 1618813
+[2018-12-09T21:53:14.979] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:14.997] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:15.016] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:15.247] [DEBUG] sokol_threshold - Found [1] new ballots.

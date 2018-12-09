@@ -1,0 +1,1914 @@
+[2018-12-09T21:00:25.755] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:00:25.759] [DEBUG] voting_core - from block: 1739602
+[2018-12-09T21:00:25.799] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:00:25.802] [DEBUG] mq - >>>>>>>>>>: 0
+[2018-12-09T21:00:25.802] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:00:25.953] [DEBUG] voting_core - Found [2] new ballots.
+[2018-12-09T21:12:54.950] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:12:54.958] [DEBUG] voting_core - from block: 1739602
+[2018-12-09T21:12:54.994] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:12:54.996] [DEBUG] mq - >>>>>>>>>>: 0
+[2018-12-09T21:12:54.996] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:12:55.295] [DEBUG] voting_core - Found [2] new ballots.
+[2018-12-09T21:15:25.396] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:15:25.405] [DEBUG] voting_core - from block: 1739602
+[2018-12-09T21:15:25.437] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:15:25.439] [DEBUG] mq - >>>>>>>>>>: 0
+[2018-12-09T21:15:25.439] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:15:25.530] [DEBUG] voting_core - Found [2] new ballots.
+[2018-12-09T21:15:25.538] [DEBUG] voting_core - done
+[2018-12-09T21:15:25.541] [DEBUG] voting_core - start block is now: 5987933
+[2018-12-09T21:15:25.600] [DEBUG] voting_core - block: >>>>>>>>>5987933, email: {"hash.guide@gmail.com":"Stepen Arsenault"}
+[2018-12-09T21:15:25.601] [DEBUG] voting_core - contractAddress [0xA4508af18F1005943678769dB3D95223C062258D], ballotId[38]: Ballot to add Validator: Ian Ferrell. Arkansas Notary Commission Number: 12704306 Expiration: 06/16/2028. Approving this ballot will add Ian’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/ian-ferrell-ar-notary-public/1240. Ian has been a Sokol Validator for 4 1/2 months and Sokol Bootnode operator for over 6 months, has a solid technical background and experience running blockchain nodes in the Ethereum and Bitcoin eco-systems. Ian is a supportive POA Network Community member with verified credentials and has the time an willingness to perform all duties as a POA Core Validator.  As an Arkansas Notary, Ian brings regional diversity which strengthens resilience of POA Network. Arkansas Public Notary Search link: http://bcs.sos.arkansas.gov/NotarySearch
+[2018-12-09T21:15:25.618] [DEBUG] voting_core - block: >>>>>>>>>5987933, email: {"hash.guide@gmail.com":"Stepen Arsenault"}
+[2018-12-09T21:15:25.623] [DEBUG] voting_core - contractAddress [0xA4508af18F1005943678769dB3D95223C062258D], ballotId[39]: Ballot to add Validator: Artiom Curencov. Colorado Notary Commission Number: 20184021010 Expiration: 2022-05-17. Approving this ballot will add Artiom’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/artiom-curencov-colorado-notary-public/1229. Artiom has been a Sokol validator for 5 1/2 months participating in node updates and governance, has strongly supported the POA community in addition to fulfilling Admin duties in the Russian community. Artiom also possesses a strong technical background from Engineering field. Colorado notary lookup: https://www.sos.state.co.us/notary/pages/public/verifyNotary.xhtml
+[2018-12-09T21:15:25.627] [DEBUG] voting_core - Adding task: {"id":170,"job":"{\"0\":\"1542703830\",\"1\":\"1542941700\",\"2\":\"0xf81110c5Cc7f258eCFd079FAeCc140331d187232\",\"3\":\"1\",\"4\":\"0x8D579445F145c52A035E48263341CAC333f8B61d\",\"5\":\"0xC2b5c06FA90cbFe94a9a27a1C2F8146Ec1C3Bb1f\",\"6\":\"0x0000000000000000000000000000000000000000\",\"7\":\"17\",\"8\":\"7\",\"9\":true,\"10\":\"1\",\"11\":\"0x49bbdeBd7f3D39f297135d7Af3831Ce152a99b67\",\"12\":\"Ballot to add Validator: Ian Ferrell. Arkansas Notary Commission Number: 12704306 Expiration: 06/16/2028. Approving this ballot will add Ian’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/ian-ferrell-ar-notary-public/1240. Ian has been a Sokol Validator for 4 1/2 months and Sokol Bootnode operator for over 6 months, has a solid technical background and experience running blockchain nodes in the Ethereum and Bitcoin eco-systems. Ian is a supportive POA Network Community member with verified credentials and has the time an willingness to perform all duties as a POA Core Validator.  As an Arkansas Notary, Ian brings regional diversity which strengthens resilience of POA Network. Arkansas Public Notary Search link: http://bcs.sos.arkansas.gov/NotarySearch\",\"13\":false,\"startTime\":\"1542703830\",\"endTime\":\"1542941700\",\"affectedKey\":\"0xf81110c5Cc7f258eCFd079FAeCc140331d187232\",\"affectedKeyType\":\"1\",\"newVotingKey\":\"0x8D579445F145c52A035E48263341CAC333f8B61d\",\"newPayoutKey\":\"0xC2b5c06FA90cbFe94a9a27a1C2F8146Ec1C3Bb1f\",\"miningKey\":\"0x0000000000000000000000000000000000000000\",\"totalVoters\":\"17\",\"progress\":\"7\",\"isFinalized\":true,\"ballotType\":\"1\",\"creator\":\"0x49bbdeBd7f3D39f297135d7Af3831Ce152a99b67\",\"memo\":\"Ballot to add Validator: Ian Ferrell. Arkansas Notary Commission Number: 12704306 Expiration: 06/16/2028. Approving this ballot will add Ian’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/ian-ferrell-ar-notary-public/1240. Ian has been a Sokol Validator for 4 1/2 months and Sokol Bootnode operator for over 6 months, has a solid technical background and experience running blockchain nodes in the Ethereum and Bitcoin eco-systems. Ian is a supportive POA Network Community member with verified credentials and has the time an willingness to perform all duties as a POA Core Validator.  As an Arkansas Notary, Ian brings regional diversity which strengthens resilience of POA Network. Arkansas Public Notary Search link: http://bcs.sos.arkansas.gov/NotarySearch\",\"canBeFinalizedNow\":false}"}
+[2018-12-09T21:15:25.627] [DEBUG] voting_core - Queue contains 1 job/s
+[2018-12-09T21:15:25.629] [DEBUG] voting_core - Adding task: {"id":171,"job":"{\"0\":\"1543532843\",\"1\":\"1543806000\",\"2\":\"0x6109DC5ba1159EA6974C4B15EA9e68a180f85753\",\"3\":\"1\",\"4\":\"0x88Ba5A227Ab2a39528B8DA58308fcC31e6413A45\",\"5\":\"0xEBF2f171d415B0731Aefb94fD523573bE7D2A339\",\"6\":\"0x0000000000000000000000000000000000000000\",\"7\":\"19\",\"8\":\"13\",\"9\":true,\"10\":\"1\",\"11\":\"0x71300d93a8CdF93385Af9635388cF2D00b95a480\",\"12\":\"Ballot to add Validator: Artiom Curencov. Colorado Notary Commission Number: 20184021010 Expiration: 2022-05-17. Approving this ballot will add Artiom’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/artiom-curencov-colorado-notary-public/1229. Artiom has been a Sokol validator for 5 1/2 months participating in node updates and governance, has strongly supported the POA community in addition to fulfilling Admin duties in the Russian community. Artiom also possesses a strong technical background from Engineering field. Colorado notary lookup: https://www.sos.state.co.us/notary/pages/public/verifyNotary.xhtml\",\"13\":false,\"startTime\":\"1543532843\",\"endTime\":\"1543806000\",\"affectedKey\":\"0x6109DC5ba1159EA6974C4B15EA9e68a180f85753\",\"affectedKeyType\":\"1\",\"newVotingKey\":\"0x88Ba5A227Ab2a39528B8DA58308fcC31e6413A45\",\"newPayoutKey\":\"0xEBF2f171d415B0731Aefb94fD523573bE7D2A339\",\"miningKey\":\"0x0000000000000000000000000000000000000000\",\"totalVoters\":\"19\",\"progress\":\"13\",\"isFinalized\":true,\"ballotType\":\"1\",\"creator\":\"0x71300d93a8CdF93385Af9635388cF2D00b95a480\",\"memo\":\"Ballot to add Validator: Artiom Curencov. Colorado Notary Commission Number: 20184021010 Expiration: 2022-05-17. Approving this ballot will add Artiom’s mining, voting and payout keys enabling him to participate in Consensus on the POA Core network. Validator Intro: https://forum.poa.network/t/artiom-curencov-colorado-notary-public/1229. Artiom has been a Sokol validator for 5 1/2 months participating in node updates and governance, has strongly supported the POA community in addition to fulfilling Admin duties in the Russian community. Artiom also possesses a strong technical background from Engineering field. Colorado notary lookup: https://www.sos.state.co.us/notary/pages/public/verifyNotary.xhtml\",\"canBeFinalizedNow\":false}"}
+[2018-12-09T21:15:25.630] [DEBUG] voting_core - Queue contains 2 job/s
+[2018-12-09T21:17:25.775] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:25.803] [DEBUG] voting_core - from block: 5987933
+[2018-12-09T21:17:25.991] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:25.996] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:26.007] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:26.100] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:26.251] [DEBUG] voting_core - done
+[2018-12-09T21:17:26.252] [DEBUG] voting_core - start block is now: 6159429
+[2018-12-09T21:17:31.740] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:31.761] [DEBUG] voting_core - from block: 6159429
+[2018-12-09T21:17:31.943] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:31.957] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:31.960] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:32.048] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:32.133] [DEBUG] voting_core - done
+[2018-12-09T21:17:32.134] [DEBUG] voting_core - start block is now: 6159430
+[2018-12-09T21:17:37.502] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:37.534] [DEBUG] voting_core - from block: 6159430
+[2018-12-09T21:17:37.723] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:37.737] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:37.739] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:37.838] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:37.928] [DEBUG] voting_core - done
+[2018-12-09T21:17:37.929] [DEBUG] voting_core - start block is now: 6159431
+[2018-12-09T21:17:43.159] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:43.203] [DEBUG] voting_core - from block: 6159431
+[2018-12-09T21:17:43.407] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:43.416] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:43.418] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:43.808] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:44.170] [DEBUG] voting_core - done
+[2018-12-09T21:17:44.171] [DEBUG] voting_core - start block is now: 6159432
+[2018-12-09T21:17:49.761] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:49.792] [DEBUG] voting_core - from block: 6159432
+[2018-12-09T21:17:49.987] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:49.993] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:50.010] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:50.106] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:50.284] [DEBUG] voting_core - done
+[2018-12-09T21:17:50.285] [DEBUG] voting_core - start block is now: 6159433
+[2018-12-09T21:17:55.743] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:17:55.770] [DEBUG] voting_core - from block: 6159433
+[2018-12-09T21:17:55.967] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:55.972] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:55.979] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:56.092] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:17:56.180] [DEBUG] voting_core - done
+[2018-12-09T21:17:56.181] [DEBUG] voting_core - start block is now: 6159435
+[2018-12-09T21:18:01.601] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:01.622] [DEBUG] voting_core - from block: 6159435
+[2018-12-09T21:18:01.819] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:01.827] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:01.835] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:02.208] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:02.562] [DEBUG] voting_core - done
+[2018-12-09T21:18:02.563] [DEBUG] voting_core - start block is now: 6159436
+[2018-12-09T21:18:08.049] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:08.074] [DEBUG] voting_core - from block: 6159436
+[2018-12-09T21:18:08.267] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:08.277] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:08.279] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:08.620] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:08.754] [DEBUG] voting_core - done
+[2018-12-09T21:18:08.755] [DEBUG] voting_core - start block is now: 6159437
+[2018-12-09T21:18:14.334] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:14.375] [DEBUG] voting_core - from block: 6159437
+[2018-12-09T21:18:14.558] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:14.565] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:14.578] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:14.863] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:14.948] [DEBUG] voting_core - done
+[2018-12-09T21:18:14.949] [DEBUG] voting_core - start block is now: 6159438
+[2018-12-09T21:18:20.317] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:20.341] [DEBUG] voting_core - from block: 6159438
+[2018-12-09T21:18:20.536] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:20.550] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:20.553] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:20.717] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:21.081] [DEBUG] voting_core - done
+[2018-12-09T21:18:21.082] [DEBUG] voting_core - start block is now: 6159440
+[2018-12-09T21:18:26.523] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:26.551] [DEBUG] voting_core - from block: 6159440
+[2018-12-09T21:18:26.740] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:26.749] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:26.757] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:26.850] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:26.999] [DEBUG] voting_core - done
+[2018-12-09T21:18:27.002] [DEBUG] voting_core - start block is now: 6159441
+[2018-12-09T21:18:32.608] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:32.621] [DEBUG] voting_core - from block: 6159441
+[2018-12-09T21:18:32.803] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:32.821] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:32.821] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:32.891] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:33.009] [DEBUG] voting_core - done
+[2018-12-09T21:18:33.010] [DEBUG] voting_core - start block is now: 6159442
+[2018-12-09T21:18:38.552] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:38.584] [DEBUG] voting_core - from block: 6159442
+[2018-12-09T21:18:38.779] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:38.781] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:38.794] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:38.884] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:38.982] [DEBUG] voting_core - done
+[2018-12-09T21:18:38.989] [DEBUG] voting_core - start block is now: 6159443
+[2018-12-09T21:18:44.538] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:44.560] [DEBUG] voting_core - from block: 6159443
+[2018-12-09T21:18:44.751] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:44.767] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:44.770] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:44.849] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:44.924] [DEBUG] voting_core - done
+[2018-12-09T21:18:44.925] [DEBUG] voting_core - start block is now: 6159444
+[2018-12-09T21:18:50.431] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:50.455] [DEBUG] voting_core - from block: 6159444
+[2018-12-09T21:18:50.639] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:50.649] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:50.654] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:50.720] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:50.813] [DEBUG] voting_core - done
+[2018-12-09T21:18:50.814] [DEBUG] voting_core - start block is now: 6159446
+[2018-12-09T21:18:56.292] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:18:56.320] [DEBUG] voting_core - from block: 6159446
+[2018-12-09T21:18:56.528] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:56.543] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:56.543] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:56.658] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:18:56.750] [DEBUG] voting_core - done
+[2018-12-09T21:18:56.751] [DEBUG] voting_core - start block is now: 6159447
+[2018-12-09T21:19:02.343] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:02.361] [DEBUG] voting_core - from block: 6159447
+[2018-12-09T21:19:02.547] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:02.553] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:02.561] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:02.662] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:02.717] [DEBUG] voting_core - done
+[2018-12-09T21:19:02.719] [DEBUG] voting_core - start block is now: 6159448
+[2018-12-09T21:19:08.229] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:08.254] [DEBUG] voting_core - from block: 6159448
+[2018-12-09T21:19:08.464] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:08.473] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:08.482] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:08.655] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:08.739] [DEBUG] voting_core - done
+[2018-12-09T21:19:08.740] [DEBUG] voting_core - start block is now: 6159449
+[2018-12-09T21:19:14.064] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:14.088] [DEBUG] voting_core - from block: 6159449
+[2018-12-09T21:19:14.282] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:14.297] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:14.298] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:14.412] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:14.500] [DEBUG] voting_core - done
+[2018-12-09T21:19:14.500] [DEBUG] voting_core - start block is now: 6159450
+[2018-12-09T21:19:19.859] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:19.875] [DEBUG] voting_core - from block: 6159450
+[2018-12-09T21:19:20.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:20.050] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:20.063] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:20.135] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:20.185] [DEBUG] voting_core - done
+[2018-12-09T21:19:20.187] [DEBUG] voting_core - start block is now: 6159451
+[2018-12-09T21:19:25.638] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:25.654] [DEBUG] voting_core - from block: 6159451
+[2018-12-09T21:19:25.835] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:25.851] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:25.854] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:25.965] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:26.041] [DEBUG] voting_core - done
+[2018-12-09T21:19:26.041] [DEBUG] voting_core - start block is now: 6159453
+[2018-12-09T21:19:31.417] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:31.429] [DEBUG] voting_core - from block: 6159453
+[2018-12-09T21:19:31.623] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:31.628] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:31.634] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:32.599] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:32.823] [DEBUG] voting_core - done
+[2018-12-09T21:19:32.823] [DEBUG] voting_core - start block is now: 6159454
+[2018-12-09T21:19:38.129] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:38.158] [DEBUG] voting_core - from block: 6159454
+[2018-12-09T21:19:38.368] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:38.372] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:38.380] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:38.744] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:38.874] [DEBUG] voting_core - done
+[2018-12-09T21:19:38.875] [DEBUG] voting_core - start block is now: 6159455
+[2018-12-09T21:19:44.142] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:44.164] [DEBUG] voting_core - from block: 6159455
+[2018-12-09T21:19:44.357] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:44.365] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:44.379] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:44.489] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:44.582] [DEBUG] voting_core - done
+[2018-12-09T21:19:44.583] [DEBUG] voting_core - start block is now: 6159456
+[2018-12-09T21:19:50.055] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:50.081] [DEBUG] voting_core - from block: 6159456
+[2018-12-09T21:19:50.312] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:50.321] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:50.326] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:50.434] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:50.549] [DEBUG] voting_core - done
+[2018-12-09T21:19:50.550] [DEBUG] voting_core - start block is now: 6159457
+[2018-12-09T21:19:55.974] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:19:56.012] [DEBUG] voting_core - from block: 6159457
+[2018-12-09T21:19:56.214] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:56.231] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:56.234] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:56.322] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:19:56.428] [DEBUG] voting_core - done
+[2018-12-09T21:19:56.429] [DEBUG] voting_core - start block is now: 6159459
+[2018-12-09T21:20:02.083] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:02.111] [DEBUG] voting_core - from block: 6159459
+[2018-12-09T21:20:02.303] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:02.309] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:02.314] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:02.433] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:02.571] [DEBUG] voting_core - done
+[2018-12-09T21:20:02.575] [DEBUG] voting_core - start block is now: 6159460
+[2018-12-09T21:20:07.711] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:07.731] [DEBUG] voting_core - from block: 6159460
+[2018-12-09T21:20:07.875] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:07.878] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:07.887] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:07.964] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:08.040] [DEBUG] voting_core - done
+[2018-12-09T21:20:08.041] [DEBUG] voting_core - start block is now: 6159461
+[2018-12-09T21:20:13.590] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:13.612] [DEBUG] voting_core - from block: 6159461
+[2018-12-09T21:20:13.831] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:13.836] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:13.840] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:13.923] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:13.999] [DEBUG] voting_core - done
+[2018-12-09T21:20:14.001] [DEBUG] voting_core - start block is now: 6159462
+[2018-12-09T21:20:19.412] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:19.432] [DEBUG] voting_core - from block: 6159462
+[2018-12-09T21:20:19.657] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:19.691] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:19.691] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:19.807] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:19.892] [DEBUG] voting_core - done
+[2018-12-09T21:20:19.893] [DEBUG] voting_core - start block is now: 6159463
+[2018-12-09T21:20:25.225] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:25.267] [DEBUG] voting_core - from block: 6159463
+[2018-12-09T21:20:25.483] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:25.493] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:25.499] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:25.608] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:25.747] [DEBUG] voting_core - done
+[2018-12-09T21:20:25.748] [DEBUG] voting_core - start block is now: 6159465
+[2018-12-09T21:20:31.375] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:31.405] [DEBUG] voting_core - from block: 6159465
+[2018-12-09T21:20:31.606] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:31.621] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:31.621] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:31.704] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:31.788] [DEBUG] voting_core - done
+[2018-12-09T21:20:31.789] [DEBUG] voting_core - start block is now: 6159466
+[2018-12-09T21:20:37.391] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:37.420] [DEBUG] voting_core - from block: 6159466
+[2018-12-09T21:20:37.630] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:37.641] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:37.650] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:37.735] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:37.814] [DEBUG] voting_core - done
+[2018-12-09T21:20:37.815] [DEBUG] voting_core - start block is now: 6159467
+[2018-12-09T21:20:43.315] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:43.336] [DEBUG] voting_core - from block: 6159467
+[2018-12-09T21:20:43.551] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:43.557] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:43.558] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:43.948] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:44.309] [DEBUG] voting_core - done
+[2018-12-09T21:20:44.310] [DEBUG] voting_core - start block is now: 6159468
+[2018-12-09T21:20:49.864] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:49.902] [DEBUG] voting_core - from block: 6159468
+[2018-12-09T21:20:50.132] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:50.146] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:50.151] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:50.253] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:50.306] [DEBUG] voting_core - done
+[2018-12-09T21:20:50.307] [DEBUG] voting_core - start block is now: 6159469
+[2018-12-09T21:20:55.796] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:20:55.820] [DEBUG] voting_core - from block: 6159469
+[2018-12-09T21:20:56.027] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:56.040] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:56.051] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:56.417] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:20:56.769] [DEBUG] voting_core - done
+[2018-12-09T21:20:56.770] [DEBUG] voting_core - start block is now: 6159471
+[2018-12-09T21:21:02.319] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:02.360] [DEBUG] voting_core - from block: 6159471
+[2018-12-09T21:21:02.544] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:02.556] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:02.563] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:02.672] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:02.830] [DEBUG] voting_core - done
+[2018-12-09T21:21:02.832] [DEBUG] voting_core - start block is now: 6159472
+[2018-12-09T21:21:08.898] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:08.938] [DEBUG] voting_core - from block: 6159472
+[2018-12-09T21:21:09.159] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:09.165] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:09.170] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:09.289] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:09.394] [DEBUG] voting_core - done
+[2018-12-09T21:21:09.398] [DEBUG] voting_core - start block is now: 6159473
+[2018-12-09T21:21:15.427] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:15.452] [DEBUG] voting_core - from block: 6159473
+[2018-12-09T21:21:15.643] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:15.649] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:15.651] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:15.748] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:15.859] [DEBUG] voting_core - done
+[2018-12-09T21:21:15.860] [DEBUG] voting_core - start block is now: 6159475
+[2018-12-09T21:21:21.665] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:21.689] [DEBUG] voting_core - from block: 6159475
+[2018-12-09T21:21:21.896] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:21.937] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:21.937] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:22.008] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:22.082] [DEBUG] voting_core - done
+[2018-12-09T21:21:22.082] [DEBUG] voting_core - start block is now: 6159476
+[2018-12-09T21:21:27.676] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:27.696] [DEBUG] voting_core - from block: 6159476
+[2018-12-09T21:21:27.907] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:27.921] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:27.929] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:28.043] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:28.123] [DEBUG] voting_core - done
+[2018-12-09T21:21:28.124] [DEBUG] voting_core - start block is now: 6159477
+[2018-12-09T21:21:34.049] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:34.091] [DEBUG] voting_core - from block: 6159477
+[2018-12-09T21:21:34.318] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:34.326] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:34.335] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:34.461] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:34.574] [DEBUG] voting_core - done
+[2018-12-09T21:21:34.575] [DEBUG] voting_core - start block is now: 6159478
+[2018-12-09T21:21:40.357] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:40.380] [DEBUG] voting_core - from block: 6159478
+[2018-12-09T21:21:40.647] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:40.655] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:40.663] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:40.785] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:40.912] [DEBUG] voting_core - done
+[2018-12-09T21:21:40.913] [DEBUG] voting_core - start block is now: 6159480
+[2018-12-09T21:21:46.520] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:46.542] [DEBUG] voting_core - from block: 6159480
+[2018-12-09T21:21:46.780] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:46.785] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:46.795] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:46.894] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:46.987] [DEBUG] voting_core - done
+[2018-12-09T21:21:46.987] [DEBUG] voting_core - start block is now: 6159481
+[2018-12-09T21:21:52.204] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:52.239] [DEBUG] voting_core - from block: 6159481
+[2018-12-09T21:21:52.449] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:52.461] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:52.465] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:52.570] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:52.663] [DEBUG] voting_core - done
+[2018-12-09T21:21:52.664] [DEBUG] voting_core - start block is now: 6159482
+[2018-12-09T21:21:58.154] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:21:58.180] [DEBUG] voting_core - from block: 6159482
+[2018-12-09T21:21:58.372] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:58.382] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:58.391] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:58.548] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:21:58.633] [DEBUG] voting_core - done
+[2018-12-09T21:21:58.635] [DEBUG] voting_core - start block is now: 6159483
+[2018-12-09T21:22:04.005] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:04.057] [DEBUG] voting_core - from block: 6159483
+[2018-12-09T21:22:04.261] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:04.279] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:04.279] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:04.661] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:05.021] [DEBUG] voting_core - done
+[2018-12-09T21:22:05.022] [DEBUG] voting_core - start block is now: 6159484
+[2018-12-09T21:22:10.648] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:10.676] [DEBUG] voting_core - from block: 6159484
+[2018-12-09T21:22:10.936] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:10.950] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:10.958] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:11.060] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:11.149] [DEBUG] voting_core - done
+[2018-12-09T21:22:11.150] [DEBUG] voting_core - start block is now: 6159486
+[2018-12-09T21:22:16.646] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:16.677] [DEBUG] voting_core - from block: 6159486
+[2018-12-09T21:22:16.903] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:16.917] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:16.923] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:17.065] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:17.206] [DEBUG] voting_core - done
+[2018-12-09T21:22:17.207] [DEBUG] voting_core - start block is now: 6159487
+[2018-12-09T21:22:22.687] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:22.724] [DEBUG] voting_core - from block: 6159487
+[2018-12-09T21:22:22.926] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:22.937] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:22.945] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:23.055] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:23.149] [DEBUG] voting_core - done
+[2018-12-09T21:22:23.150] [DEBUG] voting_core - start block is now: 6159488
+[2018-12-09T21:22:28.820] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:28.853] [DEBUG] voting_core - from block: 6159488
+[2018-12-09T21:22:29.056] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:29.064] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:29.067] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:29.134] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:29.255] [DEBUG] voting_core - done
+[2018-12-09T21:22:29.256] [DEBUG] voting_core - start block is now: 6159489
+[2018-12-09T21:22:34.666] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:34.697] [DEBUG] voting_core - from block: 6159489
+[2018-12-09T21:22:34.910] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:34.922] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:34.931] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:35.033] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:35.095] [DEBUG] voting_core - done
+[2018-12-09T21:22:35.096] [DEBUG] voting_core - start block is now: 6159490
+[2018-12-09T21:22:40.422] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:40.461] [DEBUG] voting_core - from block: 6159490
+[2018-12-09T21:22:40.646] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:40.674] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:40.674] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:40.738] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:40.864] [DEBUG] voting_core - done
+[2018-12-09T21:22:40.865] [DEBUG] voting_core - start block is now: 6159492
+[2018-12-09T21:22:46.621] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:46.638] [DEBUG] voting_core - from block: 6159492
+[2018-12-09T21:22:46.875] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:46.885] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:46.893] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:47.012] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:47.167] [DEBUG] voting_core - done
+[2018-12-09T21:22:47.168] [DEBUG] voting_core - start block is now: 6159493
+[2018-12-09T21:22:52.662] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:52.677] [DEBUG] voting_core - from block: 6159493
+[2018-12-09T21:22:52.915] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:52.920] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:52.929] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:53.339] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:53.536] [DEBUG] voting_core - done
+[2018-12-09T21:22:53.537] [DEBUG] voting_core - start block is now: 6159494
+[2018-12-09T21:22:59.070] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:22:59.082] [DEBUG] voting_core - from block: 6159494
+[2018-12-09T21:22:59.314] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:59.330] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:59.331] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:59.480] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:22:59.601] [DEBUG] voting_core - done
+[2018-12-09T21:22:59.602] [DEBUG] voting_core - start block is now: 6159495
+[2018-12-09T21:23:04.854] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:04.907] [DEBUG] voting_core - from block: 6159495
+[2018-12-09T21:23:05.108] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:05.119] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:05.119] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:05.214] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:05.309] [DEBUG] voting_core - done
+[2018-12-09T21:23:05.310] [DEBUG] voting_core - start block is now: 6159496
+[2018-12-09T21:23:10.785] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:10.801] [DEBUG] voting_core - from block: 6159496
+[2018-12-09T21:23:11.047] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:11.060] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:11.064] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:11.236] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:11.604] [DEBUG] voting_core - done
+[2018-12-09T21:23:11.605] [DEBUG] voting_core - start block is now: 6159498
+[2018-12-09T21:23:17.313] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:17.349] [DEBUG] voting_core - from block: 6159498
+[2018-12-09T21:23:17.543] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:17.553] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:17.559] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:17.660] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:17.753] [DEBUG] voting_core - done
+[2018-12-09T21:23:17.754] [DEBUG] voting_core - start block is now: 6159499
+[2018-12-09T21:23:23.073] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:23.112] [DEBUG] voting_core - from block: 6159499
+[2018-12-09T21:23:23.299] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:23.312] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:23.315] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:23.509] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:23.613] [DEBUG] voting_core - done
+[2018-12-09T21:23:23.614] [DEBUG] voting_core - start block is now: 6159500
+[2018-12-09T21:23:29.117] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:29.155] [DEBUG] voting_core - from block: 6159500
+[2018-12-09T21:23:29.360] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:29.365] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:29.377] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:29.440] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:29.556] [DEBUG] voting_core - done
+[2018-12-09T21:23:29.556] [DEBUG] voting_core - start block is now: 6159501
+[2018-12-09T21:23:35.014] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:35.068] [DEBUG] voting_core - from block: 6159501
+[2018-12-09T21:23:35.287] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:35.299] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:35.299] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:35.388] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:35.481] [DEBUG] voting_core - done
+[2018-12-09T21:23:35.482] [DEBUG] voting_core - start block is now: 6159502
+[2018-12-09T21:23:40.976] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:40.997] [DEBUG] voting_core - from block: 6159502
+[2018-12-09T21:23:41.219] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:41.231] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:41.235] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:41.298] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:41.417] [DEBUG] voting_core - done
+[2018-12-09T21:23:41.421] [DEBUG] voting_core - start block is now: 6159504
+[2018-12-09T21:23:46.979] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:47.002] [DEBUG] voting_core - from block: 6159504
+[2018-12-09T21:23:47.192] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:47.204] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:47.206] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:47.311] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:47.488] [DEBUG] voting_core - done
+[2018-12-09T21:23:47.489] [DEBUG] voting_core - start block is now: 6159505
+[2018-12-09T21:23:52.927] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:52.948] [DEBUG] voting_core - from block: 6159505
+[2018-12-09T21:23:53.163] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:53.169] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:53.173] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:53.295] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:53.463] [DEBUG] voting_core - done
+[2018-12-09T21:23:53.464] [DEBUG] voting_core - start block is now: 6159506
+[2018-12-09T21:23:58.863] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:23:58.886] [DEBUG] voting_core - from block: 6159506
+[2018-12-09T21:23:59.091] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:59.102] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:59.111] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:59.174] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:23:59.270] [DEBUG] voting_core - done
+[2018-12-09T21:23:59.271] [DEBUG] voting_core - start block is now: 6159507
+[2018-12-09T21:24:04.749] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:04.798] [DEBUG] voting_core - from block: 6159507
+[2018-12-09T21:24:05.011] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:05.016] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:05.028] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:05.193] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:05.301] [DEBUG] voting_core - done
+[2018-12-09T21:24:05.303] [DEBUG] voting_core - start block is now: 6159508
+[2018-12-09T21:24:10.925] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:10.955] [DEBUG] voting_core - from block: 6159508
+[2018-12-09T21:24:11.189] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:11.201] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:11.207] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:11.327] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:11.385] [DEBUG] voting_core - done
+[2018-12-09T21:24:11.386] [DEBUG] voting_core - start block is now: 6159510
+[2018-12-09T21:24:16.995] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:17.019] [DEBUG] voting_core - from block: 6159510
+[2018-12-09T21:24:17.227] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:17.233] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:17.243] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:17.630] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:18.004] [DEBUG] voting_core - done
+[2018-12-09T21:24:18.011] [DEBUG] voting_core - start block is now: 6159511
+[2018-12-09T21:24:23.495] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:23.521] [DEBUG] voting_core - from block: 6159511
+[2018-12-09T21:24:23.728] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:23.743] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:23.747] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:24.028] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:24.088] [DEBUG] voting_core - done
+[2018-12-09T21:24:24.089] [DEBUG] voting_core - start block is now: 6159512
+[2018-12-09T21:24:29.636] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:29.669] [DEBUG] voting_core - from block: 6159512
+[2018-12-09T21:24:29.884] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:29.890] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:29.896] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:30.006] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:30.389] [DEBUG] voting_core - done
+[2018-12-09T21:24:30.390] [DEBUG] voting_core - start block is now: 6159513
+[2018-12-09T21:24:36.015] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:36.035] [DEBUG] voting_core - from block: 6159513
+[2018-12-09T21:24:36.248] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:36.252] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:36.259] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:36.411] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:36.509] [DEBUG] voting_core - done
+[2018-12-09T21:24:36.515] [DEBUG] voting_core - start block is now: 6159515
+[2018-12-09T21:24:41.977] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:42.029] [DEBUG] voting_core - from block: 6159515
+[2018-12-09T21:24:42.207] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:42.227] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:42.232] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:42.337] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:42.401] [DEBUG] voting_core - done
+[2018-12-09T21:24:42.404] [DEBUG] voting_core - start block is now: 6159516
+[2018-12-09T21:24:47.920] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:47.936] [DEBUG] voting_core - from block: 6159516
+[2018-12-09T21:24:48.123] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:48.135] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:48.135] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:48.211] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:48.248] [DEBUG] voting_core - done
+[2018-12-09T21:24:48.250] [DEBUG] voting_core - start block is now: 6159517
+[2018-12-09T21:24:53.767] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:24:53.795] [DEBUG] voting_core - from block: 6159517
+[2018-12-09T21:24:54.027] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:54.037] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:54.049] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:54.169] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:24:54.464] [DEBUG] voting_core - done
+[2018-12-09T21:24:54.464] [DEBUG] voting_core - start block is now: 6159518
+[2018-12-09T21:25:00.113] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:00.136] [DEBUG] voting_core - from block: 6159518
+[2018-12-09T21:25:00.319] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:00.328] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:00.328] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:00.676] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:00.823] [DEBUG] voting_core - done
+[2018-12-09T21:25:00.824] [DEBUG] voting_core - start block is now: 6159520
+[2018-12-09T21:25:06.664] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:06.700] [DEBUG] voting_core - from block: 6159520
+[2018-12-09T21:25:06.910] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:06.917] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:06.927] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:07.026] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:07.127] [DEBUG] voting_core - done
+[2018-12-09T21:25:07.128] [DEBUG] voting_core - start block is now: 6159521
+[2018-12-09T21:25:12.671] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:12.698] [DEBUG] voting_core - from block: 6159521
+[2018-12-09T21:25:12.895] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:12.900] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:12.908] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:13.017] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:13.079] [DEBUG] voting_core - done
+[2018-12-09T21:25:13.079] [DEBUG] voting_core - start block is now: 6159522
+[2018-12-09T21:25:18.450] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:18.495] [DEBUG] voting_core - from block: 6159522
+[2018-12-09T21:25:18.679] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:18.686] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:18.694] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:18.806] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:18.957] [DEBUG] voting_core - done
+[2018-12-09T21:25:18.958] [DEBUG] voting_core - start block is now: 6159523
+[2018-12-09T21:25:24.538] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:24.570] [DEBUG] voting_core - from block: 6159523
+[2018-12-09T21:25:24.774] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:24.778] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:24.786] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:24.868] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:24.941] [DEBUG] voting_core - done
+[2018-12-09T21:25:24.942] [DEBUG] voting_core - start block is now: 6159524
+[2018-12-09T21:25:30.393] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:30.401] [DEBUG] voting_core - from block: 6159524
+[2018-12-09T21:25:30.593] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:30.605] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:30.615] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:30.713] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:30.783] [DEBUG] voting_core - done
+[2018-12-09T21:25:30.795] [DEBUG] voting_core - start block is now: 6159526
+[2018-12-09T21:25:36.384] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:36.404] [DEBUG] voting_core - from block: 6159526
+[2018-12-09T21:25:36.588] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:36.603] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:36.603] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:36.681] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:36.775] [DEBUG] voting_core - done
+[2018-12-09T21:25:36.776] [DEBUG] voting_core - start block is now: 6159527
+[2018-12-09T21:25:42.182] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:42.227] [DEBUG] voting_core - from block: 6159527
+[2018-12-09T21:25:42.407] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:42.413] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:42.421] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:42.516] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:42.619] [DEBUG] voting_core - done
+[2018-12-09T21:25:42.619] [DEBUG] voting_core - start block is now: 6159528
+[2018-12-09T21:25:48.137] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:48.172] [DEBUG] voting_core - from block: 6159528
+[2018-12-09T21:25:48.355] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:48.365] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:48.373] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:48.471] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:48.543] [DEBUG] voting_core - done
+[2018-12-09T21:25:48.544] [DEBUG] voting_core - start block is now: 6159529
+[2018-12-09T21:25:54.015] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:25:54.031] [DEBUG] voting_core - from block: 6159529
+[2018-12-09T21:25:54.235] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:54.249] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:54.251] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:54.620] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:25:54.819] [DEBUG] voting_core - done
+[2018-12-09T21:25:54.820] [DEBUG] voting_core - start block is now: 6159530
+[2018-12-09T21:26:00.343] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:00.365] [DEBUG] voting_core - from block: 6159530
+[2018-12-09T21:26:00.579] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:00.591] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:00.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:00.658] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:00.736] [DEBUG] voting_core - done
+[2018-12-09T21:26:00.737] [DEBUG] voting_core - start block is now: 6159532
+[2018-12-09T21:26:06.254] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:06.298] [DEBUG] voting_core - from block: 6159532
+[2018-12-09T21:26:06.499] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:06.512] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:06.521] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:06.604] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:06.769] [DEBUG] voting_core - done
+[2018-12-09T21:26:06.770] [DEBUG] voting_core - start block is now: 6159533
+[2018-12-09T21:26:12.375] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:12.401] [DEBUG] voting_core - from block: 6159533
+[2018-12-09T21:26:12.595] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:12.604] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:12.627] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:12.701] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:12.801] [DEBUG] voting_core - done
+[2018-12-09T21:26:12.802] [DEBUG] voting_core - start block is now: 6159534
+[2018-12-09T21:26:18.289] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:18.326] [DEBUG] voting_core - from block: 6159534
+[2018-12-09T21:26:18.508] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:18.527] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:18.527] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:18.889] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:19.249] [DEBUG] voting_core - done
+[2018-12-09T21:26:19.250] [DEBUG] voting_core - start block is now: 6159535
+[2018-12-09T21:26:24.607] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:24.613] [DEBUG] voting_core - from block: 6159535
+[2018-12-09T21:26:24.819] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:24.830] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:24.847] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:24.953] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:25.018] [DEBUG] voting_core - done
+[2018-12-09T21:26:25.023] [DEBUG] voting_core - start block is now: 6159536
+[2018-12-09T21:26:30.458] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:30.530] [DEBUG] voting_core - from block: 6159536
+[2018-12-09T21:26:30.727] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:30.741] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:30.747] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:30.840] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:30.928] [DEBUG] voting_core - done
+[2018-12-09T21:26:30.929] [DEBUG] voting_core - start block is now: 6159538
+[2018-12-09T21:26:36.519] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:36.555] [DEBUG] voting_core - from block: 6159538
+[2018-12-09T21:26:36.751] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:36.769] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:36.770] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:36.854] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:36.920] [DEBUG] voting_core - done
+[2018-12-09T21:26:36.921] [DEBUG] voting_core - start block is now: 6159539
+[2018-12-09T21:26:42.406] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:42.424] [DEBUG] voting_core - from block: 6159539
+[2018-12-09T21:26:42.667] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:42.678] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:42.691] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:42.904] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:42.982] [DEBUG] voting_core - done
+[2018-12-09T21:26:42.983] [DEBUG] voting_core - start block is now: 6159540
+[2018-12-09T21:26:48.451] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:48.480] [DEBUG] voting_core - from block: 6159540
+[2018-12-09T21:26:48.679] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:48.685] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:48.695] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:49.064] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:49.251] [DEBUG] voting_core - done
+[2018-12-09T21:26:49.252] [DEBUG] voting_core - start block is now: 6159541
+[2018-12-09T21:26:54.629] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:26:54.649] [DEBUG] voting_core - from block: 6159541
+[2018-12-09T21:26:54.888] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:54.897] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:54.904] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:54.969] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:26:55.040] [DEBUG] voting_core - done
+[2018-12-09T21:26:55.041] [DEBUG] voting_core - start block is now: 6159542
+[2018-12-09T21:27:00.351] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:00.383] [DEBUG] voting_core - from block: 6159542
+[2018-12-09T21:27:00.641] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:00.654] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:00.662] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:00.732] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:00.819] [DEBUG] voting_core - done
+[2018-12-09T21:27:00.819] [DEBUG] voting_core - start block is now: 6159544
+[2018-12-09T21:27:06.240] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:06.257] [DEBUG] voting_core - from block: 6159544
+[2018-12-09T21:27:06.459] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:06.484] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:06.499] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:06.595] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:06.685] [DEBUG] voting_core - done
+[2018-12-09T21:27:06.686] [DEBUG] voting_core - start block is now: 6159545
+[2018-12-09T21:27:12.053] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:12.092] [DEBUG] voting_core - from block: 6159545
+[2018-12-09T21:27:12.297] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:12.317] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:12.331] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:12.482] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:12.603] [DEBUG] voting_core - done
+[2018-12-09T21:27:12.604] [DEBUG] voting_core - start block is now: 6159546
+[2018-12-09T21:27:18.236] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:18.258] [DEBUG] voting_core - from block: 6159546
+[2018-12-09T21:27:18.475] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:18.481] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:18.491] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:18.627] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:18.684] [DEBUG] voting_core - done
+[2018-12-09T21:27:18.685] [DEBUG] voting_core - start block is now: 6159547
+[2018-12-09T21:27:23.877] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:23.886] [DEBUG] voting_core - from block: 6159547
+[2018-12-09T21:27:24.097] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:24.109] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:24.115] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:24.218] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:24.325] [DEBUG] voting_core - done
+[2018-12-09T21:27:24.326] [DEBUG] voting_core - start block is now: 6159548
+[2018-12-09T21:27:29.903] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:29.928] [DEBUG] voting_core - from block: 6159548
+[2018-12-09T21:27:30.119] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:30.134] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:30.144] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:30.239] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:30.324] [DEBUG] voting_core - done
+[2018-12-09T21:27:30.325] [DEBUG] voting_core - start block is now: 6159549
+[2018-12-09T21:27:35.972] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:36.018] [DEBUG] voting_core - from block: 6159549
+[2018-12-09T21:27:36.223] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:36.229] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:36.238] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:36.316] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:36.471] [DEBUG] voting_core - done
+[2018-12-09T21:27:36.472] [DEBUG] voting_core - start block is now: 6159551
+[2018-12-09T21:27:41.950] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:41.985] [DEBUG] voting_core - from block: 6159551
+[2018-12-09T21:27:42.214] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:42.226] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:42.231] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:42.346] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:42.403] [DEBUG] voting_core - done
+[2018-12-09T21:27:42.404] [DEBUG] voting_core - start block is now: 6159552
+[2018-12-09T21:27:48.328] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:48.353] [DEBUG] voting_core - from block: 6159552
+[2018-12-09T21:27:48.575] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:48.591] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:48.599] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:48.726] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:48.871] [DEBUG] voting_core - done
+[2018-12-09T21:27:48.872] [DEBUG] voting_core - start block is now: 6159553
+[2018-12-09T21:27:54.524] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:27:54.544] [DEBUG] voting_core - from block: 6159553
+[2018-12-09T21:27:54.743] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:54.749] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:54.761] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:55.142] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:27:55.379] [DEBUG] voting_core - done
+[2018-12-09T21:27:55.380] [DEBUG] voting_core - start block is now: 6159554
+[2018-12-09T21:28:00.557] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:00.592] [DEBUG] voting_core - from block: 6159554
+[2018-12-09T21:28:00.775] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:00.794] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:00.803] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:00.898] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:01.004] [DEBUG] voting_core - done
+[2018-12-09T21:28:01.005] [DEBUG] voting_core - start block is now: 6159556
+[2018-12-09T21:28:06.419] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:06.450] [DEBUG] voting_core - from block: 6159556
+[2018-12-09T21:28:06.651] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:06.654] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:06.663] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:06.747] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:06.835] [DEBUG] voting_core - done
+[2018-12-09T21:28:06.836] [DEBUG] voting_core - start block is now: 6159557
+[2018-12-09T21:28:12.304] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:12.322] [DEBUG] voting_core - from block: 6159557
+[2018-12-09T21:28:12.543] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:12.558] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:12.567] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:12.665] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:12.750] [DEBUG] voting_core - done
+[2018-12-09T21:28:12.755] [DEBUG] voting_core - start block is now: 6159558
+[2018-12-09T21:28:18.155] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:18.183] [DEBUG] voting_core - from block: 6159558
+[2018-12-09T21:28:18.369] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:18.377] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:18.383] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:18.549] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:18.660] [DEBUG] voting_core - done
+[2018-12-09T21:28:18.661] [DEBUG] voting_core - start block is now: 6159559
+[2018-12-09T21:28:23.780] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:23.809] [DEBUG] voting_core - from block: 6159559
+[2018-12-09T21:28:24.003] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:24.014] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:24.023] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:24.124] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:24.216] [DEBUG] voting_core - done
+[2018-12-09T21:28:24.216] [DEBUG] voting_core - start block is now: 6159560
+[2018-12-09T21:28:29.569] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:29.599] [DEBUG] voting_core - from block: 6159560
+[2018-12-09T21:28:29.785] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:29.793] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:29.800] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:29.866] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:29.964] [DEBUG] voting_core - done
+[2018-12-09T21:28:29.965] [DEBUG] voting_core - start block is now: 6159561
+[2018-12-09T21:28:35.518] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:35.563] [DEBUG] voting_core - from block: 6159561
+[2018-12-09T21:28:35.759] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:35.764] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:35.774] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:35.853] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:35.947] [DEBUG] voting_core - done
+[2018-12-09T21:28:35.948] [DEBUG] voting_core - start block is now: 6159563
+[2018-12-09T21:28:41.118] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:41.159] [DEBUG] voting_core - from block: 6159563
+[2018-12-09T21:28:41.339] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:41.357] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:41.359] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:41.500] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:41.852] [DEBUG] voting_core - done
+[2018-12-09T21:28:41.853] [DEBUG] voting_core - start block is now: 6159564
+[2018-12-09T21:28:47.348] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:47.373] [DEBUG] voting_core - from block: 6159564
+[2018-12-09T21:28:47.587] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:47.595] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:47.599] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:47.670] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:47.762] [DEBUG] voting_core - done
+[2018-12-09T21:28:47.763] [DEBUG] voting_core - start block is now: 6159565
+[2018-12-09T21:28:53.299] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:53.305] [DEBUG] voting_core - from block: 6159565
+[2018-12-09T21:28:53.500] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:53.511] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:53.523] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:53.622] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:53.717] [DEBUG] voting_core - done
+[2018-12-09T21:28:53.717] [DEBUG] voting_core - start block is now: 6159566
+[2018-12-09T21:28:59.394] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:28:59.434] [DEBUG] voting_core - from block: 6159566
+[2018-12-09T21:28:59.654] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:59.665] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:59.683] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:59.738] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:28:59.796] [DEBUG] voting_core - done
+[2018-12-09T21:28:59.797] [DEBUG] voting_core - start block is now: 6159567
+[2018-12-09T21:29:05.131] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:29:05.152] [DEBUG] voting_core - from block: 6159567
+[2018-12-09T21:29:05.356] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:05.373] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:05.375] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:05.460] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:29:05.537] [DEBUG] voting_core - done
+[2018-12-09T21:29:05.538] [DEBUG] voting_core - start block is now: 6159568
+[2018-12-09T21:29:11.121] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:29:11.164] [DEBUG] voting_core - from block: 6159568
+[2018-12-09T21:29:11.351] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:11.361] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:11.368] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:11.443] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:29:11.541] [DEBUG] voting_core - done
+[2018-12-09T21:29:11.542] [DEBUG] voting_core - start block is now: 6159570
+[2018-12-09T21:41:17.771] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:17.804] [DEBUG] voting_core - from block: 6159570
+[2018-12-09T21:41:17.997] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:18.021] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:18.021] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:18.096] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:18.170] [DEBUG] voting_core - done
+[2018-12-09T21:41:18.171] [DEBUG] voting_core - start block is now: 6159715
+[2018-12-09T21:41:23.247] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:23.272] [DEBUG] voting_core - from block: 6159715
+[2018-12-09T21:41:23.507] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:23.513] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:23.522] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:23.716] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:23.805] [DEBUG] voting_core - done
+[2018-12-09T21:41:23.806] [DEBUG] voting_core - start block is now: 6159716
+[2018-12-09T21:41:28.964] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:28.986] [DEBUG] voting_core - from block: 6159716
+[2018-12-09T21:41:29.211] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:29.217] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:29.223] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:29.353] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:29.470] [DEBUG] voting_core - done
+[2018-12-09T21:41:29.479] [DEBUG] voting_core - start block is now: 6159717
+[2018-12-09T21:41:36.176] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:36.228] [DEBUG] voting_core - from block: 6159717
+[2018-12-09T21:41:36.605] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:36.618] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:36.623] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:36.813] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:36.901] [DEBUG] voting_core - done
+[2018-12-09T21:41:36.902] [DEBUG] voting_core - start block is now: 6159719
+[2018-12-09T21:41:46.695] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:46.749] [DEBUG] voting_core - from block: 6159719
+[2018-12-09T21:41:47.095] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:47.098] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:47.123] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:47.238] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:47.403] [DEBUG] voting_core - done
+[2018-12-09T21:41:47.404] [DEBUG] voting_core - start block is now: 6159721
+[2018-12-09T21:41:57.162] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:41:57.194] [DEBUG] voting_core - from block: 6159721
+[2018-12-09T21:41:57.563] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:57.569] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:57.582] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:57.701] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:41:58.540] [DEBUG] voting_core - done
+[2018-12-09T21:41:58.541] [DEBUG] voting_core - start block is now: 6159723
+[2018-12-09T21:42:08.117] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:42:08.134] [DEBUG] voting_core - from block: 6159723
+[2018-12-09T21:42:08.528] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:08.559] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:08.560] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:08.959] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:42:09.339] [DEBUG] voting_core - done
+[2018-12-09T21:42:09.341] [DEBUG] voting_core - start block is now: 6159725
+[2018-12-09T21:42:18.958] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:42:19.019] [DEBUG] voting_core - from block: 6159725
+[2018-12-09T21:42:19.313] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:19.316] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:19.351] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:19.488] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:42:19.587] [DEBUG] voting_core - done
+[2018-12-09T21:42:19.588] [DEBUG] voting_core - start block is now: 6159727
+[2018-12-09T21:42:29.375] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:42:29.411] [DEBUG] voting_core - from block: 6159727
+[2018-12-09T21:42:29.750] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:29.765] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:29.766] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:30.016] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:42:30.108] [DEBUG] voting_core - done
+[2018-12-09T21:42:30.109] [DEBUG] voting_core - start block is now: 6159729
+[2018-12-09T21:42:39.807] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:42:39.853] [DEBUG] voting_core - from block: 6159729
+[2018-12-09T21:42:40.206] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:40.230] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:40.241] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:40.368] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:42:40.485] [DEBUG] voting_core - done
+[2018-12-09T21:42:40.486] [DEBUG] voting_core - start block is now: 6159731
+[2018-12-09T21:42:50.077] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:42:50.171] [DEBUG] voting_core - from block: 6159731
+[2018-12-09T21:42:50.533] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:50.558] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:50.559] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:50.704] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:42:50.818] [DEBUG] voting_core - done
+[2018-12-09T21:42:50.819] [DEBUG] voting_core - start block is now: 6159733
+[2018-12-09T21:43:00.405] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:00.458] [DEBUG] voting_core - from block: 6159733
+[2018-12-09T21:43:00.875] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:00.892] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:00.919] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:01.099] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:01.468] [DEBUG] voting_core - done
+[2018-12-09T21:43:01.469] [DEBUG] voting_core - start block is now: 6159736
+[2018-12-09T21:43:11.167] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:11.181] [DEBUG] voting_core - from block: 6159736
+[2018-12-09T21:43:11.537] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:11.561] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:11.576] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:11.708] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:11.825] [DEBUG] voting_core - done
+[2018-12-09T21:43:11.826] [DEBUG] voting_core - start block is now: 6159738
+[2018-12-09T21:43:21.500] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:21.548] [DEBUG] voting_core - from block: 6159738
+[2018-12-09T21:43:21.926] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:21.949] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:21.952] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:22.070] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:22.209] [DEBUG] voting_core - done
+[2018-12-09T21:43:22.210] [DEBUG] voting_core - start block is now: 6159740
+[2018-12-09T21:43:32.252] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:32.285] [DEBUG] voting_core - from block: 6159740
+[2018-12-09T21:43:32.648] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:32.669] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:32.669] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:32.796] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:32.944] [DEBUG] voting_core - done
+[2018-12-09T21:43:32.951] [DEBUG] voting_core - start block is now: 6159742
+[2018-12-09T21:43:42.587] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:42.627] [DEBUG] voting_core - from block: 6159742
+[2018-12-09T21:43:43.003] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:43.057] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:43.075] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:43.222] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:43.385] [DEBUG] voting_core - done
+[2018-12-09T21:43:43.386] [DEBUG] voting_core - start block is now: 6159744
+[2018-12-09T21:43:53.804] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:43:53.844] [DEBUG] voting_core - from block: 6159744
+[2018-12-09T21:43:54.257] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:54.279] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:54.280] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:54.484] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:43:54.611] [DEBUG] voting_core - done
+[2018-12-09T21:43:54.612] [DEBUG] voting_core - start block is now: 6159746
+[2018-12-09T21:44:05.353] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:05.398] [DEBUG] voting_core - from block: 6159746
+[2018-12-09T21:44:05.793] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:05.816] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:05.819] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:05.985] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:06.123] [DEBUG] voting_core - done
+[2018-12-09T21:44:06.124] [DEBUG] voting_core - start block is now: 6159749
+[2018-12-09T21:44:16.301] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:16.364] [DEBUG] voting_core - from block: 6159749
+[2018-12-09T21:44:16.741] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:16.772] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:16.773] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:17.007] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:17.146] [DEBUG] voting_core - done
+[2018-12-09T21:44:17.147] [DEBUG] voting_core - start block is now: 6159751
+[2018-12-09T21:44:27.211] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:27.247] [DEBUG] voting_core - from block: 6159751
+[2018-12-09T21:44:27.667] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:27.689] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:27.695] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:27.810] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:27.956] [DEBUG] voting_core - done
+[2018-12-09T21:44:27.962] [DEBUG] voting_core - start block is now: 6159753
+[2018-12-09T21:44:37.779] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:37.798] [DEBUG] voting_core - from block: 6159753
+[2018-12-09T21:44:38.224] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:38.236] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:38.253] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:38.420] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:38.551] [DEBUG] voting_core - done
+[2018-12-09T21:44:38.552] [DEBUG] voting_core - start block is now: 6159755
+[2018-12-09T21:44:48.109] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:48.165] [DEBUG] voting_core - from block: 6159755
+[2018-12-09T21:44:48.516] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:48.537] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:48.543] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:48.703] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:48.817] [DEBUG] voting_core - done
+[2018-12-09T21:44:48.818] [DEBUG] voting_core - start block is now: 6159757
+[2018-12-09T21:44:58.253] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:44:58.299] [DEBUG] voting_core - from block: 6159757
+[2018-12-09T21:44:58.682] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:58.695] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:58.703] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:58.847] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:44:58.972] [DEBUG] voting_core - done
+[2018-12-09T21:44:58.973] [DEBUG] voting_core - start block is now: 6159759
+[2018-12-09T21:45:08.667] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:45:08.710] [DEBUG] voting_core - from block: 6159759
+[2018-12-09T21:45:09.089] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:09.092] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:09.123] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:09.255] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:45:09.382] [DEBUG] voting_core - done
+[2018-12-09T21:45:09.383] [DEBUG] voting_core - start block is now: 6159761
+[2018-12-09T21:45:19.067] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:45:19.118] [DEBUG] voting_core - from block: 6159761
+[2018-12-09T21:45:19.539] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:19.563] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:19.563] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:19.709] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:45:19.876] [DEBUG] voting_core - done
+[2018-12-09T21:45:19.877] [DEBUG] voting_core - start block is now: 6159763
+[2018-12-09T21:45:29.437] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:45:29.498] [DEBUG] voting_core - from block: 6159763
+[2018-12-09T21:45:29.912] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:29.921] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:29.928] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:30.084] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:45:30.192] [DEBUG] voting_core - done
+[2018-12-09T21:45:30.193] [DEBUG] voting_core - start block is now: 6159765
+[2018-12-09T21:45:39.755] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:45:39.806] [DEBUG] voting_core - from block: 6159765
+[2018-12-09T21:45:40.195] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:40.200] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:40.227] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:40.373] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:45:40.497] [DEBUG] voting_core - done
+[2018-12-09T21:45:40.498] [DEBUG] voting_core - start block is now: 6159767
+[2018-12-09T21:45:50.036] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:45:50.072] [DEBUG] voting_core - from block: 6159767
+[2018-12-09T21:45:50.475] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:50.501] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:50.508] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:50.614] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:45:50.769] [DEBUG] voting_core - done
+[2018-12-09T21:45:50.770] [DEBUG] voting_core - start block is now: 6159770
+[2018-12-09T21:46:00.331] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:00.363] [DEBUG] voting_core - from block: 6159770
+[2018-12-09T21:46:00.763] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:00.769] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:00.787] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:00.946] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:01.052] [DEBUG] voting_core - done
+[2018-12-09T21:46:01.053] [DEBUG] voting_core - start block is now: 6159772
+[2018-12-09T21:46:10.881] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:10.953] [DEBUG] voting_core - from block: 6159772
+[2018-12-09T21:46:11.323] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:11.359] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:11.359] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:11.544] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:11.733] [DEBUG] voting_core - done
+[2018-12-09T21:46:11.734] [DEBUG] voting_core - start block is now: 6159774
+[2018-12-09T21:46:21.498] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:21.579] [DEBUG] voting_core - from block: 6159774
+[2018-12-09T21:46:21.941] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:21.965] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:21.975] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:22.141] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:22.254] [DEBUG] voting_core - done
+[2018-12-09T21:46:22.255] [DEBUG] voting_core - start block is now: 6159776
+[2018-12-09T21:46:31.982] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:32.057] [DEBUG] voting_core - from block: 6159776
+[2018-12-09T21:46:32.479] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:32.496] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:32.499] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:32.647] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:32.760] [DEBUG] voting_core - done
+[2018-12-09T21:46:32.761] [DEBUG] voting_core - start block is now: 6159778
+[2018-12-09T21:46:42.571] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:42.628] [DEBUG] voting_core - from block: 6159778
+[2018-12-09T21:46:42.980] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:43.004] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:43.031] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:43.177] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:43.297] [DEBUG] voting_core - done
+[2018-12-09T21:46:43.298] [DEBUG] voting_core - start block is now: 6159780
+[2018-12-09T21:46:52.953] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:46:52.994] [DEBUG] voting_core - from block: 6159780
+[2018-12-09T21:46:53.415] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:53.425] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:53.442] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:53.550] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:46:53.699] [DEBUG] voting_core - done
+[2018-12-09T21:46:53.700] [DEBUG] voting_core - start block is now: 6159782
+[2018-12-09T21:47:03.506] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:03.575] [DEBUG] voting_core - from block: 6159782
+[2018-12-09T21:47:03.967] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:03.970] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:03.995] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:04.169] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:04.320] [DEBUG] voting_core - done
+[2018-12-09T21:47:04.321] [DEBUG] voting_core - start block is now: 6159784
+[2018-12-09T21:47:14.124] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:14.168] [DEBUG] voting_core - from block: 6159784
+[2018-12-09T21:47:14.544] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:14.562] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:14.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:14.727] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:14.849] [DEBUG] voting_core - done
+[2018-12-09T21:47:14.850] [DEBUG] voting_core - start block is now: 6159786
+[2018-12-09T21:47:24.521] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:24.585] [DEBUG] voting_core - from block: 6159786
+[2018-12-09T21:47:24.978] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:25.007] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:25.007] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:25.199] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:25.300] [DEBUG] voting_core - done
+[2018-12-09T21:47:25.303] [DEBUG] voting_core - start block is now: 6159788
+[2018-12-09T21:47:34.863] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:34.915] [DEBUG] voting_core - from block: 6159788
+[2018-12-09T21:47:35.295] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:35.320] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:35.320] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:35.465] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:35.612] [DEBUG] voting_core - done
+[2018-12-09T21:47:35.613] [DEBUG] voting_core - start block is now: 6159790
+[2018-12-09T21:47:45.256] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:45.302] [DEBUG] voting_core - from block: 6159790
+[2018-12-09T21:47:45.680] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:45.693] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:45.719] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:45.854] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:46.153] [DEBUG] voting_core - done
+[2018-12-09T21:47:46.154] [DEBUG] voting_core - start block is now: 6159793
+[2018-12-09T21:47:55.834] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:47:55.902] [DEBUG] voting_core - from block: 6159793
+[2018-12-09T21:47:56.251] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:56.268] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:56.271] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:56.386] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:47:56.516] [DEBUG] voting_core - done
+[2018-12-09T21:47:56.516] [DEBUG] voting_core - start block is now: 6159795
+[2018-12-09T21:48:06.260] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:48:06.303] [DEBUG] voting_core - from block: 6159795
+[2018-12-09T21:48:06.707] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:06.725] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:06.725] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:07.140] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:48:07.287] [DEBUG] voting_core - done
+[2018-12-09T21:48:07.288] [DEBUG] voting_core - start block is now: 6159797
+[2018-12-09T21:48:17.011] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:48:17.058] [DEBUG] voting_core - from block: 6159797
+[2018-12-09T21:48:17.440] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:17.463] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:17.463] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:23.166] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:48:23.286] [DEBUG] voting_core - done
+[2018-12-09T21:48:23.287] [DEBUG] voting_core - start block is now: 6159800
+[2018-12-09T21:48:32.792] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:48:32.842] [DEBUG] voting_core - from block: 6159800
+[2018-12-09T21:48:33.156] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:33.173] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:33.194] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:33.321] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:48:33.412] [DEBUG] voting_core - done
+[2018-12-09T21:48:33.412] [DEBUG] voting_core - start block is now: 6159802
+[2018-12-09T21:48:43.033] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:48:43.066] [DEBUG] voting_core - from block: 6159802
+[2018-12-09T21:48:43.447] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:43.452] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:43.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:43.643] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:48:43.751] [DEBUG] voting_core - done
+[2018-12-09T21:48:43.752] [DEBUG] voting_core - start block is now: 6159804
+[2018-12-09T21:48:53.332] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:48:53.368] [DEBUG] voting_core - from block: 6159804
+[2018-12-09T21:48:53.699] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:53.706] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:53.734] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:53.875] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:48:53.958] [DEBUG] voting_core - done
+[2018-12-09T21:48:53.971] [DEBUG] voting_core - start block is now: 6159806
+[2018-12-09T21:49:03.500] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:03.540] [DEBUG] voting_core - from block: 6159806
+[2018-12-09T21:49:03.863] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:03.890] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:03.890] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:04.023] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:04.139] [DEBUG] voting_core - done
+[2018-12-09T21:49:04.140] [DEBUG] voting_core - start block is now: 6159808
+[2018-12-09T21:49:13.758] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:13.841] [DEBUG] voting_core - from block: 6159808
+[2018-12-09T21:49:14.145] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:14.153] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:14.165] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:14.333] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:14.455] [DEBUG] voting_core - done
+[2018-12-09T21:49:14.455] [DEBUG] voting_core - start block is now: 6159810
+[2018-12-09T21:49:24.067] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:24.085] [DEBUG] voting_core - from block: 6159810
+[2018-12-09T21:49:24.427] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:24.430] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:24.464] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:24.611] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:24.716] [DEBUG] voting_core - done
+[2018-12-09T21:49:24.719] [DEBUG] voting_core - start block is now: 6159812
+[2018-12-09T21:49:34.229] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:34.298] [DEBUG] voting_core - from block: 6159812
+[2018-12-09T21:49:34.669] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:34.672] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:34.687] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:34.805] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:34.945] [DEBUG] voting_core - done
+[2018-12-09T21:49:34.947] [DEBUG] voting_core - start block is now: 6159814
+[2018-12-09T21:49:44.509] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:44.563] [DEBUG] voting_core - from block: 6159814
+[2018-12-09T21:49:44.873] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:44.897] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:44.902] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:45.010] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:45.150] [DEBUG] voting_core - done
+[2018-12-09T21:49:45.151] [DEBUG] voting_core - start block is now: 6159816
+[2018-12-09T21:49:54.635] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:49:54.680] [DEBUG] voting_core - from block: 6159816
+[2018-12-09T21:49:55.004] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:55.021] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:55.036] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:55.167] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:49:55.287] [DEBUG] voting_core - done
+[2018-12-09T21:49:55.288] [DEBUG] voting_core - start block is now: 6159818
+[2018-12-09T21:50:04.899] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:04.935] [DEBUG] voting_core - from block: 6159818
+[2018-12-09T21:50:05.270] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:05.273] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:05.300] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:05.444] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:05.560] [DEBUG] voting_core - done
+[2018-12-09T21:50:05.561] [DEBUG] voting_core - start block is now: 6159821
+[2018-12-09T21:50:15.081] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:15.151] [DEBUG] voting_core - from block: 6159821
+[2018-12-09T21:50:15.486] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:15.513] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:15.514] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:15.657] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:15.765] [DEBUG] voting_core - done
+[2018-12-09T21:50:15.766] [DEBUG] voting_core - start block is now: 6159823
+[2018-12-09T21:50:25.346] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:25.384] [DEBUG] voting_core - from block: 6159823
+[2018-12-09T21:50:25.727] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:25.730] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:25.743] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:25.889] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:26.101] [DEBUG] voting_core - done
+[2018-12-09T21:50:26.102] [DEBUG] voting_core - start block is now: 6159825
+[2018-12-09T21:50:35.602] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:35.675] [DEBUG] voting_core - from block: 6159825
+[2018-12-09T21:50:36.015] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:36.040] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:36.040] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:36.174] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:36.306] [DEBUG] voting_core - done
+[2018-12-09T21:50:36.307] [DEBUG] voting_core - start block is now: 6159827
+[2018-12-09T21:50:45.891] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:45.921] [DEBUG] voting_core - from block: 6159827
+[2018-12-09T21:50:46.282] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:46.296] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:46.296] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:46.426] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:46.563] [DEBUG] voting_core - done
+[2018-12-09T21:50:46.564] [DEBUG] voting_core - start block is now: 6159829
+[2018-12-09T21:50:56.080] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:50:56.119] [DEBUG] voting_core - from block: 6159829
+[2018-12-09T21:50:56.472] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:56.488] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:56.503] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:56.882] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:50:57.262] [DEBUG] voting_core - done
+[2018-12-09T21:50:57.263] [DEBUG] voting_core - start block is now: 6159831
+[2018-12-09T21:51:06.750] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:06.800] [DEBUG] voting_core - from block: 6159831
+[2018-12-09T21:51:07.163] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:07.166] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:07.191] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:07.313] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:07.422] [DEBUG] voting_core - done
+[2018-12-09T21:51:07.424] [DEBUG] voting_core - start block is now: 6159833
+[2018-12-09T21:51:17.095] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:17.131] [DEBUG] voting_core - from block: 6159833
+[2018-12-09T21:51:17.476] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:17.489] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:17.499] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:17.609] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:17.727] [DEBUG] voting_core - done
+[2018-12-09T21:51:17.728] [DEBUG] voting_core - start block is now: 6159835
+[2018-12-09T21:51:27.249] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:27.303] [DEBUG] voting_core - from block: 6159835
+[2018-12-09T21:51:27.631] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:27.645] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:27.667] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:27.799] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:27.896] [DEBUG] voting_core - done
+[2018-12-09T21:51:27.897] [DEBUG] voting_core - start block is now: 6159837
+[2018-12-09T21:51:37.366] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:37.406] [DEBUG] voting_core - from block: 6159837
+[2018-12-09T21:51:37.770] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:37.797] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:37.819] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:38.214] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:38.393] [DEBUG] voting_core - done
+[2018-12-09T21:51:38.394] [DEBUG] voting_core - start block is now: 6159839
+[2018-12-09T21:51:48.066] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:48.110] [DEBUG] voting_core - from block: 6159839
+[2018-12-09T21:51:48.471] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:48.493] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:48.493] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:48.636] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:48.771] [DEBUG] voting_core - done
+[2018-12-09T21:51:48.774] [DEBUG] voting_core - start block is now: 6159841
+[2018-12-09T21:51:58.341] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:51:58.376] [DEBUG] voting_core - from block: 6159841
+[2018-12-09T21:51:58.735] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:58.741] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:58.761] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:58.940] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:51:59.090] [DEBUG] voting_core - done
+[2018-12-09T21:51:59.091] [DEBUG] voting_core - start block is now: 6159843
+[2018-12-09T21:52:08.665] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:52:08.690] [DEBUG] voting_core - from block: 6159843
+[2018-12-09T21:52:09.071] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:09.085] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:09.111] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:09.282] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:52:09.467] [DEBUG] voting_core - done
+[2018-12-09T21:52:09.470] [DEBUG] voting_core - start block is now: 6159845
+[2018-12-09T21:52:19.235] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:52:19.280] [DEBUG] voting_core - from block: 6159845
+[2018-12-09T21:52:19.625] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:19.653] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:19.671] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:19.814] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:52:19.934] [DEBUG] voting_core - done
+[2018-12-09T21:52:19.935] [DEBUG] voting_core - start block is now: 6159847
+[2018-12-09T21:52:29.535] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:52:29.596] [DEBUG] voting_core - from block: 6159847
+[2018-12-09T21:52:29.951] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:29.965] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:29.983] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:30.374] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:52:30.551] [DEBUG] voting_core - done
+[2018-12-09T21:52:30.552] [DEBUG] voting_core - start block is now: 6159849
+[2018-12-09T21:52:40.279] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:52:40.314] [DEBUG] voting_core - from block: 6159849
+[2018-12-09T21:52:40.693] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:40.719] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:40.719] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:40.830] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:52:40.956] [DEBUG] voting_core - done
+[2018-12-09T21:52:40.957] [DEBUG] voting_core - start block is now: 6159852
+[2018-12-09T21:52:50.521] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:52:50.584] [DEBUG] voting_core - from block: 6159852
+[2018-12-09T21:52:50.955] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:50.965] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:50.974] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:51.123] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:52:51.237] [DEBUG] voting_core - done
+[2018-12-09T21:52:51.238] [DEBUG] voting_core - start block is now: 6159854
+[2018-12-09T21:53:00.598] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:53:00.646] [DEBUG] voting_core - from block: 6159854
+[2018-12-09T21:53:01.025] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:01.028] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:01.065] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:01.169] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:53:01.265] [DEBUG] voting_core - done
+[2018-12-09T21:53:01.267] [DEBUG] voting_core - start block is now: 6159856
+[2018-12-09T21:53:10.859] [DEBUG] voting_core - 
+ -------------------------
+
+[2018-12-09T21:53:10.889] [DEBUG] voting_core - from block: 6159856
+[2018-12-09T21:53:11.247] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:11.292] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:11.299] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:11.412] [DEBUG] voting_core - Found [0] new ballots.
+[2018-12-09T21:53:11.551] [DEBUG] voting_core - done
+[2018-12-09T21:53:11.552] [DEBUG] voting_core - start block is now: 6159858

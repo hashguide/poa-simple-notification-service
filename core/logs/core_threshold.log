@@ -1,0 +1,1527 @@
+[2018-12-09T21:17:25.721] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:25.770] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:25.964] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:25.975] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:25.981] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:26.228] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:17:31.726] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:31.757] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:31.932] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:31.940] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:31.942] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:32.378] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:17:37.880] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:37.895] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:38.095] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:38.104] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:38.108] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:38.287] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:17:43.621] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:43.634] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:43.787] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:43.803] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:43.807] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:43.964] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:17:49.570] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:49.595] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:49.791] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:49.797] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:49.826] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:50.013] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:17:55.385] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:17:55.420] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:17:55.628] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:55.633] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:55.640] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:55.822] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:01.255] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:01.275] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:01.462] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:01.469] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:01.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:01.644] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:06.925] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:06.938] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:07.158] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:07.169] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:07.172] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:07.345] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:12.821] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:12.842] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:13.091] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:13.101] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:13.109] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:13.294] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:18.638] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:18.677] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:18.875] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:18.900] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:18.901] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:19.360] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:24.512] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:24.539] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:24.744] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:24.771] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:24.773] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:24.934] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:30.409] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:30.434] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:30.658] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:30.681] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:30.683] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:30.879] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:36.446] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:36.485] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:36.706] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:36.719] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:36.721] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:36.909] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:42.396] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:42.418] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:42.695] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:42.700] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:42.707] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:42.907] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:48.303] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:48.310] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:48.531] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:48.543] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:48.545] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:48.872] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:18:54.253] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:18:54.287] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:18:54.507] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:54.527] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:54.527] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:54.726] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:00.291] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:00.323] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:00.575] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:00.581] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:00.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:00.764] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:06.253] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:06.286] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:06.511] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:06.521] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:06.531] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:06.653] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:12.022] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:12.054] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:12.300] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:12.312] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:12.319] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:12.517] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:17.748] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:17.772] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:17.998] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:18.009] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:18.019] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:18.151] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:23.447] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:23.471] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:23.675] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:23.679] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:23.687] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:23.834] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:29.215] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:29.243] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:29.446] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:29.459] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:29.461] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:29.893] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:35.024] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:35.056] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:35.246] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:35.256] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:35.264] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:35.484] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:40.605] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:40.625] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:40.827] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:40.840] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:40.840] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:41.216] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:46.470] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:46.517] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:46.710] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:46.725] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:46.727] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:46.946] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:52.480] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:52.508] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:52.691] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:52.705] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:52.711] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:52.859] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:19:58.322] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:19:58.361] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:19:58.571] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:58.579] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:58.587] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:58.818] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:04.588] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:04.616] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:04.831] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:04.860] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:04.860] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:05.053] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:09.855] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:09.880] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:10.063] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:10.072] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:10.079] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:10.231] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:15.724] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:15.750] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:15.951] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:15.963] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:15.975] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:16.143] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:21.472] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:21.496] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:21.703] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:21.715] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:21.719] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:21.923] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:27.497] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:27.532] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:27.744] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:27.753] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:27.755] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:27.928] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:33.439] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:33.457] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:33.663] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:33.676] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:33.679] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:33.866] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:39.389] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:39.423] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:39.639] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:39.642] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:39.653] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:39.797] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:45.260] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:45.298] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:45.487] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:45.492] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:45.499] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:45.662] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:51.249] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:51.276] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:51.483] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:51.495] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:51.497] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:51.687] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:20:57.193] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:20:57.214] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:20:57.459] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:57.475] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:57.481] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:57.639] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:03.203] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:03.226] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:03.411] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:03.417] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:03.423] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:03.561] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:09.720] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:09.750] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:09.998] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:10.009] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:10.019] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:10.467] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:16.523] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:16.542] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:16.762] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:16.769] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:16.783] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:16.936] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:22.695] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:22.722] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:22.928] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:22.947] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:22.947] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:23.376] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:29.203] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:29.224] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:29.471] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:29.474] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:29.485] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:29.617] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:35.388] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:35.418] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:35.635] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:35.647] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:35.651] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:35.826] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:41.524] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:41.545] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:41.760] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:41.775] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:41.779] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:41.905] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:47.512] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:47.529] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:47.699] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:47.709] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:47.715] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:48.151] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:53.622] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:53.638] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:21:53.853] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:53.865] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:53.867] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:54.302] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:21:59.886] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:21:59.915] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:00.137] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:00.155] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:00.159] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:00.356] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:05.667] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:05.688] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:05.891] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:05.905] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:05.911] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:06.065] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:11.636] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:11.653] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:11.825] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:11.833] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:11.843] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:12.008] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:17.560] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:17.578] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:17.783] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:17.794] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:17.799] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:17.986] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:23.547] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:23.569] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:23.819] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:23.835] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:23.835] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:23.994] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:29.577] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:29.615] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:29.806] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:29.811] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:29.823] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:29.959] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:35.438] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:35.469] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:35.711] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:35.716] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:35.724] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:35.908] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:41.234] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:41.267] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:41.510] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:41.529] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:41.529] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:41.687] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:47.312] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:47.339] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:47.550] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:47.561] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:47.570] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:47.771] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:53.294] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:53.315] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:53.487] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:53.493] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:53.502] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:53.648] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:22:59.189] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:22:59.214] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:22:59.413] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:59.424] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:59.427] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:59.604] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:04.926] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:04.949] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:05.151] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:05.158] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:05.167] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:05.366] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:10.891] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:10.921] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:11.115] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:11.123] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:11.123] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:11.288] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:16.901] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:16.937] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:17.172] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:17.177] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:17.187] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:17.350] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:22.595] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:22.617] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:22.837] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:22.849] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:22.856] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:23.061] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:28.459] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:28.485] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:28.719] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:28.732] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:28.732] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:28.910] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:34.294] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:34.333] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:34.575] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:34.584] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:34.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:34.745] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:40.226] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:40.270] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:40.499] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:40.504] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:40.511] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:40.814] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:46.481] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:46.490] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:46.735] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:46.740] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:46.743] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:46.983] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:52.351] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:52.378] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:52.587] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:52.598] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:52.615] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:52.804] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:23:58.178] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:23:58.226] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:23:58.448] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:58.459] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:58.471] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:58.648] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:04.040] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:04.057] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:04.297] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:04.313] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:04.315] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:04.500] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:10.089] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:10.114] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:10.349] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:10.364] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:10.367] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:10.505] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:16.155] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:16.182] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:16.391] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:16.399] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:16.400] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:16.575] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:21.823] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:21.848] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:22.040] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:22.059] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:22.061] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:22.504] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:27.996] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:28.021] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:28.239] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:28.244] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:28.247] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:28.680] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:34.212] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:34.255] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:34.459] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:34.468] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:34.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:34.644] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:40.170] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:40.209] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:40.423] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:40.426] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:40.435] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:40.590] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:46.133] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:46.153] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:46.371] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:46.382] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:46.382] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:46.578] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:51.993] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:52.022] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:52.255] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:52.261] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:52.263] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:52.463] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:24:57.967] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:24:57.992] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:24:58.194] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:58.206] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:58.214] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:58.402] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:03.942] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:03.964] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:04.199] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:04.219] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:04.222] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:04.396] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:10.026] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:10.071] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:10.293] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:10.313] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:10.315] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:10.481] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:15.798] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:15.822] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:16.048] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:16.057] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:16.063] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:16.327] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:21.895] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:21.920] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:22.128] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:22.142] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:22.148] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:22.382] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:27.886] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:27.917] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:28.131] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:28.147] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:28.151] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:28.606] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:34.147] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:34.169] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:34.391] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:34.398] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:34.408] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:34.601] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:39.945] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:39.966] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:40.195] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:40.209] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:40.211] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:40.380] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:45.813] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:45.851] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:46.030] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:46.041] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:46.052] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:46.240] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:51.617] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:51.651] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:51.859] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:51.865] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:51.880] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:52.062] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:25:57.474] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:25:57.510] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:25:57.692] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:57.701] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:57.709] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:58.200] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:03.698] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:03.720] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:03.928] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:03.938] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:03.944] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:04.109] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:09.594] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:09.614] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:09.844] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:09.849] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:09.859] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:10.034] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:15.723] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:15.740] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:15.956] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:15.960] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:15.971] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:16.159] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:21.432] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:21.471] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:21.671] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:21.689] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:21.689] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:21.810] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:27.289] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:27.305] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:27.515] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:27.525] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:27.532] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:27.743] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:33.237] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:33.279] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:33.459] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:33.475] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:33.479] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:33.645] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:39.225] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:39.259] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:39.443] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:39.447] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:39.453] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:39.659] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:45.256] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:45.273] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:45.468] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:45.483] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:45.487] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:45.678] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:51.035] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:51.060] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:51.263] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:51.271] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:51.275] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:51.486] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:26:56.891] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:26:56.927] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:26:57.132] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:57.137] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:57.142] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:57.298] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:02.715] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:02.738] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:02.936] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:02.954] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:02.955] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:03.141] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:08.551] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:08.557] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:08.755] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:08.766] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:08.775] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:08.909] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:14.456] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:14.490] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:14.693] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:14.708] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:14.723] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:15.017] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:20.650] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:20.675] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:20.882] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:20.897] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:20.912] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:21.094] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:26.230] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:26.276] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:26.507] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:26.513] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:26.520] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:26.735] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:32.253] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:32.291] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:32.511] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:32.529] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:32.529] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:32.684] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:38.310] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:38.355] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:38.553] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:38.565] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:38.569] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:38.730] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:44.322] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:44.367] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:44.586] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:44.598] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:44.603] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:44.764] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:50.586] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:50.615] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:50.820] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:50.829] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:50.839] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:50.966] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:27:56.415] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:27:56.443] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:27:56.631] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:56.637] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:56.643] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:56.812] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:01.919] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:01.940] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:02.131] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:02.141] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:02.149] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:02.293] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:07.736] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:07.760] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:07.949] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:07.952] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:07.959] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:08.381] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:13.972] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:14.009] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:14.216] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:14.233] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:14.239] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:14.454] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:19.783] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:19.802] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:19.987] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:20.011] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:20.013] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:20.244] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:25.507] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:25.535] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:25.740] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:25.749] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:25.751] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:25.908] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:31.236] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:31.246] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:31.439] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:31.448] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:31.455] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:31.641] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:37.220] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:37.241] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:37.455] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:37.470] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:37.470] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:38.857] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:44.092] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:44.122] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:44.347] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:44.350] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:44.361] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:44.536] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:50.032] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:50.052] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:50.250] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:50.265] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:50.283] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:50.427] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:28:55.878] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:28:55.927] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:28:56.147] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:56.158] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:56.171] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:56.350] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:29:01.935] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:01.960] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:29:02.167] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:02.173] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:02.187] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:02.336] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:29:07.699] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:07.717] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:29:07.983] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:07.993] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:07.997] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:08.230] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:29:13.718] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:29:13.760] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:29:13.949] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:13.967] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:13.975] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:17.788] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:17.816] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:18.022] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:18.035] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:18.039] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:18.196] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:41:23.295] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:23.327] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:23.544] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:23.552] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:23.557] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:23.691] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:41:28.854] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:28.884] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:29.127] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:29.141] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:29.146] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:29.264] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:41:35.833] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:35.913] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:36.256] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:36.270] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:36.293] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:36.518] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:41:46.362] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:46.400] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:46.765] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:46.777] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:46.799] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:47.055] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:41:56.828] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:41:56.884] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:41:57.271] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:57.310] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:57.331] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:57.836] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:42:07.431] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:07.471] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:42:07.823] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:07.836] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:07.853] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:08.126] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:42:17.811] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:17.855] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:42:18.215] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:18.242] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:18.260] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:19.681] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:42:29.529] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:29.571] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:42:29.869] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:29.881] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:29.887] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:30.130] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:42:39.732] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:39.784] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:42:40.144] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:40.183] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:40.183] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:40.424] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:42:50.067] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:42:50.124] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:42:50.521] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:50.541] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:50.546] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:50.788] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:00.559] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:00.608] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:01.007] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:01.013] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:01.039] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:01.280] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:10.945] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:11.015] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:11.396] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:11.431] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:11.431] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:11.702] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:21.344] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:21.391] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:21.784] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:21.830] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:21.830] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:22.123] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:32.040] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:32.124] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:32.509] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:32.543] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:32.543] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:32.782] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:42.372] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:42.420] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:42.800] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:42.821] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:42.830] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:43.197] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:43:53.645] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:43:53.711] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:43:54.131] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:54.149] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:54.167] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:54.493] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:05.266] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:05.278] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:05.684] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:05.689] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:05.715] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:05.976] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:16.057] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:16.120] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:16.489] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:16.515] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:16.516] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:16.805] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:26.731] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:26.788] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:27.182] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:27.205] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:27.210] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:27.485] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:37.332] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:37.369] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:37.747] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:37.770] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:37.799] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:38.092] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:47.681] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:47.759] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:48.112] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:48.145] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:48.145] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:49.100] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:44:58.526] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:44:58.542] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:44:58.948] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:58.956] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:58.980] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:59.181] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:45:08.939] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:08.983] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:45:09.352] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:09.365] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:09.387] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:09.602] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:45:19.314] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:19.366] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:45:19.763] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:19.769] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:19.793] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:20.055] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:45:29.669] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:29.718] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:45:30.095] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:30.098] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:30.123] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:30.377] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:45:39.907] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:39.944] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:45:40.295] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:40.308] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:40.327] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:40.579] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:45:50.292] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:45:50.340] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:45:50.699] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:50.722] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:50.742] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:50.993] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:00.495] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:00.547] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:00.919] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:00.922] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:00.949] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:01.199] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:10.996] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:11.053] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:11.448] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:11.477] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:11.477] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:11.699] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:21.588] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:21.648] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:22.057] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:22.077] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:22.095] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:22.337] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:32.100] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:32.159] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:32.527] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:32.545] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:32.559] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:32.801] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:42.606] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:42.658] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:43.064] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:43.068] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:43.099] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:43.303] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:46:52.931] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:46:52.977] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:46:53.375] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:53.378] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:53.403] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:53.650] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:03.411] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:03.468] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:03.899] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:03.925] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:03.926] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:04.150] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:13.913] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:13.958] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:14.397] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:14.421] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:14.427] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:14.715] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:24.389] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:24.453] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:24.886] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:24.893] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:24.899] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:25.207] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:34.727] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:34.745] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:35.186] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:35.201] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:35.227] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:35.459] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:45.003] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:45.044] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:45.446] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:45.458] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:45.475] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:45.741] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:47:55.304] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:47:55.344] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:47:55.747] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:55.750] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:55.787] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:56.029] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:05.640] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:05.678] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:06.089] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:06.110] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:06.119] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:06.385] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:16.008] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:16.055] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:16.419] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:16.424] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:16.448] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:16.654] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:25.314] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:25.403] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:25.767] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:25.770] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:25.794] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:26.029] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:35.613] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:35.678] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:36.032] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:36.038] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:36.055] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:36.273] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:45.967] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:45.994] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:46.368] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:46.401] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:46.402] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:46.629] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:48:56.261] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:48:56.321] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:48:56.663] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:56.670] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:56.698] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:57.022] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:06.492] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:06.533] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:06.874] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:06.931] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:06.931] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:07.145] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:16.768] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:16.796] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:17.154] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:17.177] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:17.204] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:17.513] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:27.078] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:27.151] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:27.505] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:27.529] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:27.531] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:27.761] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:37.426] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:37.495] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:37.859] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:37.862] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:37.886] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:38.370] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:47.970] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:48.011] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:48.363] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:48.367] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:48.395] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:48.636] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:49:58.085] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:49:58.143] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:49:58.496] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:58.505] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:58.533] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:58.737] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:08.313] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:08.370] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:50:08.716] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:08.718] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:08.763] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:09.011] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:18.622] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:18.662] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:50:19.065] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:19.098] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:19.098] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:19.316] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:28.972] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:29.035] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:50:29.407] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:29.409] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:29.439] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:29.901] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:39.405] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:39.446] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:50:39.825] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:39.832] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:39.863] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:40.081] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:49.646] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:49.724] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:50:50.067] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:50.092] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:50.092] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:50.314] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:50:59.784] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:50:59.831] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:00.160] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:00.181] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:00.195] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:00.469] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:51:10.159] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:10.203] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:10.561] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:10.608] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:10.608] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:10.833] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:51:20.450] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:20.495] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:20.878] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:20.892] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:20.901] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:21.406] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:51:30.955] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:31.002] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:31.375] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:31.403] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:31.404] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:31.643] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:51:41.191] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:41.228] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:41.600] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:41.625] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:41.632] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:41.880] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:51:51.580] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:51:51.625] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:51:52.044] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:52.061] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:52.087] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:52.349] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:01.813] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:01.886] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:02.287] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:02.313] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:02.313] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:02.620] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:12.257] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:12.298] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:12.751] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:12.754] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:12.779] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:13.022] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:22.762] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:22.835] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:23.216] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:23.245] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:23.251] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:23.532] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:33.020] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:33.095] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:33.500] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:33.521] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:33.540] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:33.759] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:43.320] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:43.360] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:43.731] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:43.741] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:43.775] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:44.008] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:52:53.470] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:52:53.545] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:52:53.927] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:53.953] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:53.955] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:54.228] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:53:03.609] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:53:03.646] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:53:04.047] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:04.083] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:04.083] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:04.369] [DEBUG] core_threshold - Found [1] new ballots.
+[2018-12-09T21:53:14.007] [DEBUG] core_threshold - 
+ ---------------------------
+
+[2018-12-09T21:53:14.045] [DEBUG] core_threshold - from block: 1739602
+[2018-12-09T21:53:14.429] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:14.457] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:14.457] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:14.697] [DEBUG] core_threshold - Found [1] new ballots.

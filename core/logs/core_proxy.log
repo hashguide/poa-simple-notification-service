@@ -1,0 +1,1890 @@
+[2018-12-09T21:17:25.801] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:25.831] [DEBUG] core_proxy - from block: 1739602
+[2018-12-09T21:17:26.019] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:26.025] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:26.031] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:26.127] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:26.207] [DEBUG] core_proxy - done
+[2018-12-09T21:17:26.208] [DEBUG] core_proxy - start block is now: 6159429
+[2018-12-09T21:17:31.592] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:31.617] [DEBUG] core_proxy - from block: 6159429
+[2018-12-09T21:17:31.856] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:31.860] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:31.871] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:31.962] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:32.045] [DEBUG] core_proxy - done
+[2018-12-09T21:17:32.046] [DEBUG] core_proxy - start block is now: 6159430
+[2018-12-09T21:17:37.286] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:37.317] [DEBUG] core_proxy - from block: 6159430
+[2018-12-09T21:17:37.565] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:37.581] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:37.585] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:37.825] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:37.905] [DEBUG] core_proxy - done
+[2018-12-09T21:17:37.906] [DEBUG] core_proxy - start block is now: 6159431
+[2018-12-09T21:17:43.114] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:43.142] [DEBUG] core_proxy - from block: 6159431
+[2018-12-09T21:17:43.366] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:43.377] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:43.383] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:43.476] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:43.534] [DEBUG] core_proxy - done
+[2018-12-09T21:17:43.535] [DEBUG] core_proxy - start block is now: 6159432
+[2018-12-09T21:17:49.026] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:49.054] [DEBUG] core_proxy - from block: 6159432
+[2018-12-09T21:17:49.296] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:49.320] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:49.331] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:49.490] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:49.600] [DEBUG] core_proxy - done
+[2018-12-09T21:17:49.601] [DEBUG] core_proxy - start block is now: 6159433
+[2018-12-09T21:17:54.940] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:17:54.976] [DEBUG] core_proxy - from block: 6159433
+[2018-12-09T21:17:55.174] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:17:55.181] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:17:55.194] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:17:55.311] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:17:55.407] [DEBUG] core_proxy - done
+[2018-12-09T21:17:55.408] [DEBUG] core_proxy - start block is now: 6159434
+[2018-12-09T21:18:00.889] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:00.908] [DEBUG] core_proxy - from block: 6159434
+[2018-12-09T21:18:01.113] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:01.122] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:01.133] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:01.307] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:01.775] [DEBUG] core_proxy - done
+[2018-12-09T21:18:01.776] [DEBUG] core_proxy - start block is now: 6159436
+[2018-12-09T21:18:07.094] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:07.129] [DEBUG] core_proxy - from block: 6159436
+[2018-12-09T21:18:07.351] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:07.365] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:07.367] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:07.467] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:07.562] [DEBUG] core_proxy - done
+[2018-12-09T21:18:07.563] [DEBUG] core_proxy - start block is now: 6159437
+[2018-12-09T21:18:13.107] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:13.135] [DEBUG] core_proxy - from block: 6159437
+[2018-12-09T21:18:13.362] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:13.369] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:13.379] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:13.515] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:13.875] [DEBUG] core_proxy - done
+[2018-12-09T21:18:13.880] [DEBUG] core_proxy - start block is now: 6159438
+[2018-12-09T21:18:19.305] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:19.338] [DEBUG] core_proxy - from block: 6159438
+[2018-12-09T21:18:19.555] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:19.560] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:19.563] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:19.688] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:19.836] [DEBUG] core_proxy - done
+[2018-12-09T21:18:19.837] [DEBUG] core_proxy - start block is now: 6159439
+[2018-12-09T21:18:25.123] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:25.147] [DEBUG] core_proxy - from block: 6159439
+[2018-12-09T21:18:25.359] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:25.373] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:25.377] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:25.579] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:25.634] [DEBUG] core_proxy - done
+[2018-12-09T21:18:25.635] [DEBUG] core_proxy - start block is now: 6159441
+[2018-12-09T21:18:31.114] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:31.151] [DEBUG] core_proxy - from block: 6159441
+[2018-12-09T21:18:31.374] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:31.386] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:31.391] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:31.463] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:31.555] [DEBUG] core_proxy - done
+[2018-12-09T21:18:31.556] [DEBUG] core_proxy - start block is now: 6159442
+[2018-12-09T21:18:37.028] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:37.062] [DEBUG] core_proxy - from block: 6159442
+[2018-12-09T21:18:37.295] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:37.312] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:37.315] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:37.420] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:37.500] [DEBUG] core_proxy - done
+[2018-12-09T21:18:37.503] [DEBUG] core_proxy - start block is now: 6159443
+[2018-12-09T21:18:43.044] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:43.069] [DEBUG] core_proxy - from block: 6159443
+[2018-12-09T21:18:43.287] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:43.302] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:43.303] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:43.506] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:43.568] [DEBUG] core_proxy - done
+[2018-12-09T21:18:43.569] [DEBUG] core_proxy - start block is now: 6159444
+[2018-12-09T21:18:48.989] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:49.014] [DEBUG] core_proxy - from block: 6159444
+[2018-12-09T21:18:49.234] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:49.251] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:49.254] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:49.349] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:49.440] [DEBUG] core_proxy - done
+[2018-12-09T21:18:49.441] [DEBUG] core_proxy - start block is now: 6159445
+[2018-12-09T21:18:54.835] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:18:54.846] [DEBUG] core_proxy - from block: 6159445
+[2018-12-09T21:18:55.072] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:18:55.085] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:18:55.091] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:18:55.215] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:18:55.274] [DEBUG] core_proxy - done
+[2018-12-09T21:18:55.275] [DEBUG] core_proxy - start block is now: 6159446
+[2018-12-09T21:19:00.911] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:00.921] [DEBUG] core_proxy - from block: 6159446
+[2018-12-09T21:19:01.143] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:01.149] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:01.156] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:01.274] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:01.332] [DEBUG] core_proxy - done
+[2018-12-09T21:19:01.333] [DEBUG] core_proxy - start block is now: 6159448
+[2018-12-09T21:19:06.842] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:06.891] [DEBUG] core_proxy - from block: 6159448
+[2018-12-09T21:19:07.110] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:07.121] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:07.127] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:07.349] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:07.414] [DEBUG] core_proxy - done
+[2018-12-09T21:19:07.415] [DEBUG] core_proxy - start block is now: 6159449
+[2018-12-09T21:19:12.936] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:12.945] [DEBUG] core_proxy - from block: 6159449
+[2018-12-09T21:19:13.166] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:13.173] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:13.175] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:13.479] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:13.575] [DEBUG] core_proxy - done
+[2018-12-09T21:19:13.576] [DEBUG] core_proxy - start block is now: 6159450
+[2018-12-09T21:19:18.902] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:18.922] [DEBUG] core_proxy - from block: 6159450
+[2018-12-09T21:19:19.179] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:19.190] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:19.191] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:19.556] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:19.927] [DEBUG] core_proxy - done
+[2018-12-09T21:19:19.928] [DEBUG] core_proxy - start block is now: 6159451
+[2018-12-09T21:19:25.326] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:25.370] [DEBUG] core_proxy - from block: 6159451
+[2018-12-09T21:19:25.560] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:25.574] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:25.581] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:25.725] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:25.815] [DEBUG] core_proxy - done
+[2018-12-09T21:19:25.816] [DEBUG] core_proxy - start block is now: 6159453
+[2018-12-09T21:19:31.131] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:31.153] [DEBUG] core_proxy - from block: 6159453
+[2018-12-09T21:19:31.350] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:31.378] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:31.386] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:31.449] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:31.516] [DEBUG] core_proxy - done
+[2018-12-09T21:19:31.517] [DEBUG] core_proxy - start block is now: 6159454
+[2018-12-09T21:19:36.574] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:36.610] [DEBUG] core_proxy - from block: 6159454
+[2018-12-09T21:19:36.787] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:36.797] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:36.799] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:36.899] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:36.974] [DEBUG] core_proxy - done
+[2018-12-09T21:19:36.975] [DEBUG] core_proxy - start block is now: 6159455
+[2018-12-09T21:19:42.110] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:42.138] [DEBUG] core_proxy - from block: 6159455
+[2018-12-09T21:19:42.363] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:42.379] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:42.383] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:42.737] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:43.085] [DEBUG] core_proxy - done
+[2018-12-09T21:19:43.087] [DEBUG] core_proxy - start block is now: 6159456
+[2018-12-09T21:19:48.589] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:48.613] [DEBUG] core_proxy - from block: 6159456
+[2018-12-09T21:19:48.824] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:48.833] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:48.843] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:48.977] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:49.065] [DEBUG] core_proxy - done
+[2018-12-09T21:19:49.066] [DEBUG] core_proxy - start block is now: 6159457
+[2018-12-09T21:19:54.551] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:19:54.579] [DEBUG] core_proxy - from block: 6159457
+[2018-12-09T21:19:54.769] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:19:54.777] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:19:54.783] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:19:54.947] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:19:55.075] [DEBUG] core_proxy - done
+[2018-12-09T21:19:55.079] [DEBUG] core_proxy - start block is now: 6159458
+[2018-12-09T21:20:00.635] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:00.653] [DEBUG] core_proxy - from block: 6159458
+[2018-12-09T21:20:00.846] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:00.853] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:00.860] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:00.982] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:01.054] [DEBUG] core_proxy - done
+[2018-12-09T21:20:01.054] [DEBUG] core_proxy - start block is now: 6159460
+[2018-12-09T21:20:06.574] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:06.598] [DEBUG] core_proxy - from block: 6159460
+[2018-12-09T21:20:06.749] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:06.753] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:06.767] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:06.913] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:07.108] [DEBUG] core_proxy - done
+[2018-12-09T21:20:07.109] [DEBUG] core_proxy - start block is now: 6159461
+[2018-12-09T21:20:12.350] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:12.392] [DEBUG] core_proxy - from block: 6159461
+[2018-12-09T21:20:12.588] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:12.599] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:12.605] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:12.675] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:12.742] [DEBUG] core_proxy - done
+[2018-12-09T21:20:12.743] [DEBUG] core_proxy - start block is now: 6159462
+[2018-12-09T21:20:18.204] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:18.229] [DEBUG] core_proxy - from block: 6159462
+[2018-12-09T21:20:18.439] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:18.449] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:18.457] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:18.555] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:18.636] [DEBUG] core_proxy - done
+[2018-12-09T21:20:18.636] [DEBUG] core_proxy - start block is now: 6159463
+[2018-12-09T21:20:23.971] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:23.999] [DEBUG] core_proxy - from block: 6159463
+[2018-12-09T21:20:24.217] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:24.220] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:24.229] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:24.339] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:24.485] [DEBUG] core_proxy - done
+[2018-12-09T21:20:24.485] [DEBUG] core_proxy - start block is now: 6159464
+[2018-12-09T21:20:30.066] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:30.091] [DEBUG] core_proxy - from block: 6159464
+[2018-12-09T21:20:30.288] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:30.301] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:30.305] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:30.408] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:30.467] [DEBUG] core_proxy - done
+[2018-12-09T21:20:30.468] [DEBUG] core_proxy - start block is now: 6159466
+[2018-12-09T21:20:36.003] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:36.033] [DEBUG] core_proxy - from block: 6159466
+[2018-12-09T21:20:36.253] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:36.269] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:36.271] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:36.358] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:36.423] [DEBUG] core_proxy - done
+[2018-12-09T21:20:36.424] [DEBUG] core_proxy - start block is now: 6159467
+[2018-12-09T21:20:41.988] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:42.017] [DEBUG] core_proxy - from block: 6159467
+[2018-12-09T21:20:42.219] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:42.229] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:42.239] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:42.310] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:42.419] [DEBUG] core_proxy - done
+[2018-12-09T21:20:42.420] [DEBUG] core_proxy - start block is now: 6159468
+[2018-12-09T21:20:47.910] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:47.917] [DEBUG] core_proxy - from block: 6159468
+[2018-12-09T21:20:48.135] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:48.150] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:48.157] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:48.241] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:48.352] [DEBUG] core_proxy - done
+[2018-12-09T21:20:48.353] [DEBUG] core_proxy - start block is now: 6159469
+[2018-12-09T21:20:53.920] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:53.948] [DEBUG] core_proxy - from block: 6159469
+[2018-12-09T21:20:54.179] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:20:54.189] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:20:54.195] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:20:54.288] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:20:54.381] [DEBUG] core_proxy - done
+[2018-12-09T21:20:54.382] [DEBUG] core_proxy - start block is now: 6159470
+[2018-12-09T21:20:59.793] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:20:59.822] [DEBUG] core_proxy - from block: 6159470
+[2018-12-09T21:21:00.017] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:00.025] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:00.035] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:00.165] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:00.262] [DEBUG] core_proxy - done
+[2018-12-09T21:21:00.263] [DEBUG] core_proxy - start block is now: 6159471
+[2018-12-09T21:21:06.176] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:06.211] [DEBUG] core_proxy - from block: 6159471
+[2018-12-09T21:21:06.431] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:06.449] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:06.459] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:06.705] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:06.784] [DEBUG] core_proxy - done
+[2018-12-09T21:21:06.785] [DEBUG] core_proxy - start block is now: 6159473
+[2018-12-09T21:21:12.957] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:12.966] [DEBUG] core_proxy - from block: 6159473
+[2018-12-09T21:21:13.255] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:13.265] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:13.266] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:13.350] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:13.556] [DEBUG] core_proxy - done
+[2018-12-09T21:21:13.557] [DEBUG] core_proxy - start block is now: 6159474
+[2018-12-09T21:21:19.419] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:19.438] [DEBUG] core_proxy - from block: 6159474
+[2018-12-09T21:21:19.671] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:19.676] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:19.683] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:19.774] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:19.850] [DEBUG] core_proxy - done
+[2018-12-09T21:21:19.859] [DEBUG] core_proxy - start block is now: 6159475
+[2018-12-09T21:21:25.545] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:25.562] [DEBUG] core_proxy - from block: 6159475
+[2018-12-09T21:21:25.767] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:25.780] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:25.783] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:25.919] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:25.971] [DEBUG] core_proxy - done
+[2018-12-09T21:21:25.977] [DEBUG] core_proxy - start block is now: 6159477
+[2018-12-09T21:21:31.872] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:31.893] [DEBUG] core_proxy - from block: 6159477
+[2018-12-09T21:21:32.114] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:32.125] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:32.141] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:32.227] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:32.295] [DEBUG] core_proxy - done
+[2018-12-09T21:21:32.296] [DEBUG] core_proxy - start block is now: 6159478
+[2018-12-09T21:21:38.088] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:38.116] [DEBUG] core_proxy - from block: 6159478
+[2018-12-09T21:21:38.375] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:38.396] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:38.396] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:38.479] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:38.557] [DEBUG] core_proxy - done
+[2018-12-09T21:21:38.559] [DEBUG] core_proxy - start block is now: 6159479
+[2018-12-09T21:21:44.107] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:44.125] [DEBUG] core_proxy - from block: 6159479
+[2018-12-09T21:21:44.333] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:44.336] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:44.357] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:44.505] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:44.566] [DEBUG] core_proxy - done
+[2018-12-09T21:21:44.567] [DEBUG] core_proxy - start block is now: 6159480
+[2018-12-09T21:21:49.992] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:49.998] [DEBUG] core_proxy - from block: 6159480
+[2018-12-09T21:21:50.223] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:50.228] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:50.235] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:50.339] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:50.462] [DEBUG] core_proxy - done
+[2018-12-09T21:21:50.463] [DEBUG] core_proxy - start block is now: 6159481
+[2018-12-09T21:21:55.989] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:21:56.018] [DEBUG] core_proxy - from block: 6159481
+[2018-12-09T21:21:56.245] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:21:56.252] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:21:56.259] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:21:56.414] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:21:56.533] [DEBUG] core_proxy - done
+[2018-12-09T21:21:56.534] [DEBUG] core_proxy - start block is now: 6159483
+[2018-12-09T21:22:02.074] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:02.094] [DEBUG] core_proxy - from block: 6159483
+[2018-12-09T21:22:02.319] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:02.328] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:02.331] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:02.705] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:03.301] [DEBUG] core_proxy - done
+[2018-12-09T21:22:03.302] [DEBUG] core_proxy - start block is now: 6159484
+[2018-12-09T21:22:08.794] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:08.836] [DEBUG] core_proxy - from block: 6159484
+[2018-12-09T21:22:09.034] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:09.051] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:09.063] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:09.194] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:09.260] [DEBUG] core_proxy - done
+[2018-12-09T21:22:09.263] [DEBUG] core_proxy - start block is now: 6159485
+[2018-12-09T21:22:14.797] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:14.844] [DEBUG] core_proxy - from block: 6159485
+[2018-12-09T21:22:15.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:15.053] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:15.054] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:15.162] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:15.247] [DEBUG] core_proxy - done
+[2018-12-09T21:22:15.248] [DEBUG] core_proxy - start block is now: 6159486
+[2018-12-09T21:22:20.758] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:20.779] [DEBUG] core_proxy - from block: 6159486
+[2018-12-09T21:22:20.976] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:20.985] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:20.991] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:21.096] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:21.196] [DEBUG] core_proxy - done
+[2018-12-09T21:22:21.197] [DEBUG] core_proxy - start block is now: 6159488
+[2018-12-09T21:22:26.896] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:26.935] [DEBUG] core_proxy - from block: 6159488
+[2018-12-09T21:22:27.148] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:27.157] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:27.171] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:27.244] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:27.330] [DEBUG] core_proxy - done
+[2018-12-09T21:22:27.335] [DEBUG] core_proxy - start block is now: 6159489
+[2018-12-09T21:22:32.811] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:32.818] [DEBUG] core_proxy - from block: 6159489
+[2018-12-09T21:22:33.026] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:33.041] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:33.043] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:33.207] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:33.331] [DEBUG] core_proxy - done
+[2018-12-09T21:22:33.332] [DEBUG] core_proxy - start block is now: 6159490
+[2018-12-09T21:22:38.771] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:38.792] [DEBUG] core_proxy - from block: 6159490
+[2018-12-09T21:22:38.981] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:38.997] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:38.999] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:39.073] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:39.218] [DEBUG] core_proxy - done
+[2018-12-09T21:22:39.219] [DEBUG] core_proxy - start block is now: 6159491
+[2018-12-09T21:22:44.806] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:44.833] [DEBUG] core_proxy - from block: 6159491
+[2018-12-09T21:22:45.024] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:45.034] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:45.043] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:45.140] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:45.239] [DEBUG] core_proxy - done
+[2018-12-09T21:22:45.247] [DEBUG] core_proxy - start block is now: 6159492
+[2018-12-09T21:22:50.859] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:50.891] [DEBUG] core_proxy - from block: 6159492
+[2018-12-09T21:22:51.103] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:51.108] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:51.123] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:51.220] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:51.327] [DEBUG] core_proxy - done
+[2018-12-09T21:22:51.328] [DEBUG] core_proxy - start block is now: 6159494
+[2018-12-09T21:22:56.704] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:22:56.718] [DEBUG] core_proxy - from block: 6159494
+[2018-12-09T21:22:56.939] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:22:56.952] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:22:56.955] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:22:57.053] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:22:57.194] [DEBUG] core_proxy - done
+[2018-12-09T21:22:57.196] [DEBUG] core_proxy - start block is now: 6159495
+[2018-12-09T21:23:02.522] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:02.560] [DEBUG] core_proxy - from block: 6159495
+[2018-12-09T21:23:02.764] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:02.781] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:02.795] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:02.972] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:03.078] [DEBUG] core_proxy - done
+[2018-12-09T21:23:03.079] [DEBUG] core_proxy - start block is now: 6159496
+[2018-12-09T21:23:08.467] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:08.486] [DEBUG] core_proxy - from block: 6159496
+[2018-12-09T21:23:08.702] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:08.713] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:08.721] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:08.946] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:09.071] [DEBUG] core_proxy - done
+[2018-12-09T21:23:09.072] [DEBUG] core_proxy - start block is now: 6159497
+[2018-12-09T21:23:14.577] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:14.616] [DEBUG] core_proxy - from block: 6159497
+[2018-12-09T21:23:14.853] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:14.873] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:14.873] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:14.959] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:15.019] [DEBUG] core_proxy - done
+[2018-12-09T21:23:15.025] [DEBUG] core_proxy - start block is now: 6159498
+[2018-12-09T21:23:20.603] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:20.633] [DEBUG] core_proxy - from block: 6159498
+[2018-12-09T21:23:20.847] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:20.857] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:20.863] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:21.233] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:21.583] [DEBUG] core_proxy - done
+[2018-12-09T21:23:21.584] [DEBUG] core_proxy - start block is now: 6159500
+[2018-12-09T21:23:27.003] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:27.030] [DEBUG] core_proxy - from block: 6159500
+[2018-12-09T21:23:27.230] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:27.245] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:27.259] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:27.344] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:27.481] [DEBUG] core_proxy - done
+[2018-12-09T21:23:27.482] [DEBUG] core_proxy - start block is now: 6159501
+[2018-12-09T21:23:32.918] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:32.928] [DEBUG] core_proxy - from block: 6159501
+[2018-12-09T21:23:33.137] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:33.145] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:33.158] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:33.263] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:33.341] [DEBUG] core_proxy - done
+[2018-12-09T21:23:33.343] [DEBUG] core_proxy - start block is now: 6159502
+[2018-12-09T21:23:38.860] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:38.882] [DEBUG] core_proxy - from block: 6159502
+[2018-12-09T21:23:39.135] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:39.145] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:39.154] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:39.210] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:39.276] [DEBUG] core_proxy - done
+[2018-12-09T21:23:39.283] [DEBUG] core_proxy - start block is now: 6159503
+[2018-12-09T21:23:44.865] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:44.895] [DEBUG] core_proxy - from block: 6159503
+[2018-12-09T21:23:45.115] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:45.125] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:45.131] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:45.245] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:45.318] [DEBUG] core_proxy - done
+[2018-12-09T21:23:45.323] [DEBUG] core_proxy - start block is now: 6159504
+[2018-12-09T21:23:50.700] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:50.725] [DEBUG] core_proxy - from block: 6159504
+[2018-12-09T21:23:50.955] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:50.964] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:50.970] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:51.076] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:51.181] [DEBUG] core_proxy - done
+[2018-12-09T21:23:51.182] [DEBUG] core_proxy - start block is now: 6159506
+[2018-12-09T21:23:56.546] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:23:56.588] [DEBUG] core_proxy - from block: 6159506
+[2018-12-09T21:23:56.780] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:23:56.802] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:23:56.809] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:23:56.911] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:23:56.982] [DEBUG] core_proxy - done
+[2018-12-09T21:23:56.987] [DEBUG] core_proxy - start block is now: 6159507
+[2018-12-09T21:24:02.509] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:02.549] [DEBUG] core_proxy - from block: 6159507
+[2018-12-09T21:24:02.758] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:02.772] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:02.775] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:03.136] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:03.583] [DEBUG] core_proxy - done
+[2018-12-09T21:24:03.584] [DEBUG] core_proxy - start block is now: 6159508
+[2018-12-09T21:24:09.131] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:09.145] [DEBUG] core_proxy - from block: 6159508
+[2018-12-09T21:24:09.390] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:09.399] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:09.411] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:09.482] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:09.553] [DEBUG] core_proxy - done
+[2018-12-09T21:24:09.555] [DEBUG] core_proxy - start block is now: 6159509
+[2018-12-09T21:24:15.320] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:15.351] [DEBUG] core_proxy - from block: 6159509
+[2018-12-09T21:24:15.547] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:15.552] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:15.559] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:15.654] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:15.843] [DEBUG] core_proxy - done
+[2018-12-09T21:24:15.844] [DEBUG] core_proxy - start block is now: 6159511
+[2018-12-09T21:24:21.022] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:21.068] [DEBUG] core_proxy - from block: 6159511
+[2018-12-09T21:24:21.255] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:21.269] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:21.275] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:21.401] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:21.549] [DEBUG] core_proxy - done
+[2018-12-09T21:24:21.551] [DEBUG] core_proxy - start block is now: 6159512
+[2018-12-09T21:24:26.901] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:26.947] [DEBUG] core_proxy - from block: 6159512
+[2018-12-09T21:24:27.163] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:27.172] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:27.175] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:27.270] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:27.342] [DEBUG] core_proxy - done
+[2018-12-09T21:24:27.343] [DEBUG] core_proxy - start block is now: 6159513
+[2018-12-09T21:24:32.776] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:32.805] [DEBUG] core_proxy - from block: 6159513
+[2018-12-09T21:24:33.005] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:33.030] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:33.031] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:33.094] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:33.172] [DEBUG] core_proxy - done
+[2018-12-09T21:24:33.173] [DEBUG] core_proxy - start block is now: 6159514
+[2018-12-09T21:24:38.694] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:38.732] [DEBUG] core_proxy - from block: 6159514
+[2018-12-09T21:24:38.930] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:38.937] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:38.943] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:39.040] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:39.123] [DEBUG] core_proxy - done
+[2018-12-09T21:24:39.124] [DEBUG] core_proxy - start block is now: 6159515
+[2018-12-09T21:24:44.679] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:44.704] [DEBUG] core_proxy - from block: 6159515
+[2018-12-09T21:24:44.907] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:44.918] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:44.927] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:45.019] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:45.096] [DEBUG] core_proxy - done
+[2018-12-09T21:24:45.099] [DEBUG] core_proxy - start block is now: 6159516
+[2018-12-09T21:24:50.509] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:50.544] [DEBUG] core_proxy - from block: 6159516
+[2018-12-09T21:24:50.738] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:50.755] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:50.755] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:50.821] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:50.918] [DEBUG] core_proxy - done
+[2018-12-09T21:24:50.919] [DEBUG] core_proxy - start block is now: 6159518
+[2018-12-09T21:24:56.476] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:24:56.493] [DEBUG] core_proxy - from block: 6159518
+[2018-12-09T21:24:56.706] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:24:56.717] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:24:56.727] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:24:56.829] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:24:56.945] [DEBUG] core_proxy - done
+[2018-12-09T21:24:56.946] [DEBUG] core_proxy - start block is now: 6159519
+[2018-12-09T21:25:02.506] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:02.527] [DEBUG] core_proxy - from block: 6159519
+[2018-12-09T21:25:02.735] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:02.750] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:02.756] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:02.837] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:02.934] [DEBUG] core_proxy - done
+[2018-12-09T21:25:02.935] [DEBUG] core_proxy - start block is now: 6159520
+[2018-12-09T21:25:08.659] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:08.682] [DEBUG] core_proxy - from block: 6159520
+[2018-12-09T21:25:08.885] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:08.890] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:08.906] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:09.016] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:09.118] [DEBUG] core_proxy - done
+[2018-12-09T21:25:09.118] [DEBUG] core_proxy - start block is now: 6159521
+[2018-12-09T21:25:14.642] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:14.676] [DEBUG] core_proxy - from block: 6159521
+[2018-12-09T21:25:14.867] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:14.881] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:14.883] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:15.260] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:15.614] [DEBUG] core_proxy - done
+[2018-12-09T21:25:15.616] [DEBUG] core_proxy - start block is now: 6159522
+[2018-12-09T21:25:21.182] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:21.206] [DEBUG] core_proxy - from block: 6159522
+[2018-12-09T21:25:21.422] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:21.440] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:21.440] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:21.520] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:21.607] [DEBUG] core_proxy - done
+[2018-12-09T21:25:21.608] [DEBUG] core_proxy - start block is now: 6159524
+[2018-12-09T21:25:27.177] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:27.205] [DEBUG] core_proxy - from block: 6159524
+[2018-12-09T21:25:27.453] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:27.457] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:27.464] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:27.618] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:27.720] [DEBUG] core_proxy - done
+[2018-12-09T21:25:27.720] [DEBUG] core_proxy - start block is now: 6159525
+[2018-12-09T21:25:33.214] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:33.259] [DEBUG] core_proxy - from block: 6159525
+[2018-12-09T21:25:33.435] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:33.442] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:33.455] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:33.537] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:33.633] [DEBUG] core_proxy - done
+[2018-12-09T21:25:33.633] [DEBUG] core_proxy - start block is now: 6159526
+[2018-12-09T21:25:39.040] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:39.068] [DEBUG] core_proxy - from block: 6159526
+[2018-12-09T21:25:39.255] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:39.271] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:39.271] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:39.350] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:39.457] [DEBUG] core_proxy - done
+[2018-12-09T21:25:39.475] [DEBUG] core_proxy - start block is now: 6159527
+[2018-12-09T21:25:44.930] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:44.952] [DEBUG] core_proxy - from block: 6159527
+[2018-12-09T21:25:45.151] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:45.157] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:45.165] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:45.264] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:45.372] [DEBUG] core_proxy - done
+[2018-12-09T21:25:45.373] [DEBUG] core_proxy - start block is now: 6159528
+[2018-12-09T21:25:50.734] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:50.802] [DEBUG] core_proxy - from block: 6159528
+[2018-12-09T21:25:51.015] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:51.031] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:51.032] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:51.099] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:51.195] [DEBUG] core_proxy - done
+[2018-12-09T21:25:51.196] [DEBUG] core_proxy - start block is now: 6159530
+[2018-12-09T21:25:56.545] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:25:56.593] [DEBUG] core_proxy - from block: 6159530
+[2018-12-09T21:25:56.831] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:25:56.836] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:25:56.844] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:25:56.928] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:25:57.072] [DEBUG] core_proxy - done
+[2018-12-09T21:25:57.072] [DEBUG] core_proxy - start block is now: 6159531
+[2018-12-09T21:26:02.426] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:02.455] [DEBUG] core_proxy - from block: 6159531
+[2018-12-09T21:26:02.681] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:02.694] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:02.702] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:02.787] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:02.837] [DEBUG] core_proxy - done
+[2018-12-09T21:26:02.839] [DEBUG] core_proxy - start block is now: 6159532
+[2018-12-09T21:26:08.327] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:08.342] [DEBUG] core_proxy - from block: 6159532
+[2018-12-09T21:26:08.557] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:08.564] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:08.577] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:08.671] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:08.750] [DEBUG] core_proxy - done
+[2018-12-09T21:26:08.751] [DEBUG] core_proxy - start block is now: 6159533
+[2018-12-09T21:26:14.455] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:14.488] [DEBUG] core_proxy - from block: 6159533
+[2018-12-09T21:26:14.687] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:14.694] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:14.695] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:14.768] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:14.860] [DEBUG] core_proxy - done
+[2018-12-09T21:26:14.867] [DEBUG] core_proxy - start block is now: 6159534
+[2018-12-09T21:26:20.200] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:20.225] [DEBUG] core_proxy - from block: 6159534
+[2018-12-09T21:26:20.417] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:20.437] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:20.437] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:20.740] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:20.845] [DEBUG] core_proxy - done
+[2018-12-09T21:26:20.846] [DEBUG] core_proxy - start block is now: 6159536
+[2018-12-09T21:26:26.319] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:26.355] [DEBUG] core_proxy - from block: 6159536
+[2018-12-09T21:26:26.568] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:26.585] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:26.587] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:26.961] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:27.083] [DEBUG] core_proxy - done
+[2018-12-09T21:26:27.084] [DEBUG] core_proxy - start block is now: 6159537
+[2018-12-09T21:26:32.599] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:32.623] [DEBUG] core_proxy - from block: 6159537
+[2018-12-09T21:26:32.860] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:32.877] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:32.879] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:32.996] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:33.085] [DEBUG] core_proxy - done
+[2018-12-09T21:26:33.086] [DEBUG] core_proxy - start block is now: 6159538
+[2018-12-09T21:26:38.588] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:38.612] [DEBUG] core_proxy - from block: 6159538
+[2018-12-09T21:26:38.847] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:38.853] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:38.859] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:38.949] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:39.049] [DEBUG] core_proxy - done
+[2018-12-09T21:26:39.050] [DEBUG] core_proxy - start block is now: 6159539
+[2018-12-09T21:26:44.605] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:44.639] [DEBUG] core_proxy - from block: 6159539
+[2018-12-09T21:26:44.843] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:44.874] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:44.879] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:45.267] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:45.394] [DEBUG] core_proxy - done
+[2018-12-09T21:26:45.398] [DEBUG] core_proxy - start block is now: 6159540
+[2018-12-09T21:26:50.784] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:50.809] [DEBUG] core_proxy - from block: 6159540
+[2018-12-09T21:26:51.023] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:51.041] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:51.045] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:51.233] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:51.366] [DEBUG] core_proxy - done
+[2018-12-09T21:26:51.367] [DEBUG] core_proxy - start block is now: 6159542
+[2018-12-09T21:26:56.796] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:26:56.828] [DEBUG] core_proxy - from block: 6159542
+[2018-12-09T21:26:57.063] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:26:57.077] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:26:57.079] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:26:57.183] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:26:57.280] [DEBUG] core_proxy - done
+[2018-12-09T21:26:57.281] [DEBUG] core_proxy - start block is now: 6159543
+[2018-12-09T21:27:02.695] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:02.723] [DEBUG] core_proxy - from block: 6159543
+[2018-12-09T21:27:02.906] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:02.917] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:02.932] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:03.100] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:03.190] [DEBUG] core_proxy - done
+[2018-12-09T21:27:03.192] [DEBUG] core_proxy - start block is now: 6159544
+[2018-12-09T21:27:08.506] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:08.538] [DEBUG] core_proxy - from block: 6159544
+[2018-12-09T21:27:08.739] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:08.744] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:08.751] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:09.135] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:09.272] [DEBUG] core_proxy - done
+[2018-12-09T21:27:09.273] [DEBUG] core_proxy - start block is now: 6159545
+[2018-12-09T21:27:14.899] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:14.919] [DEBUG] core_proxy - from block: 6159545
+[2018-12-09T21:27:15.103] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:15.109] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:15.112] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:15.212] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:15.296] [DEBUG] core_proxy - done
+[2018-12-09T21:27:15.299] [DEBUG] core_proxy - start block is now: 6159546
+[2018-12-09T21:27:20.953] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:20.970] [DEBUG] core_proxy - from block: 6159546
+[2018-12-09T21:27:21.171] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:21.182] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:21.191] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:21.305] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:22.391] [DEBUG] core_proxy - done
+[2018-12-09T21:27:22.393] [DEBUG] core_proxy - start block is now: 6159548
+[2018-12-09T21:27:27.838] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:27.891] [DEBUG] core_proxy - from block: 6159548
+[2018-12-09T21:27:28.095] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:28.109] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:28.115] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:28.174] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:28.306] [DEBUG] core_proxy - done
+[2018-12-09T21:27:28.307] [DEBUG] core_proxy - start block is now: 6159549
+[2018-12-09T21:27:33.856] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:33.874] [DEBUG] core_proxy - from block: 6159549
+[2018-12-09T21:27:34.099] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:34.113] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:34.116] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:34.224] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:34.289] [DEBUG] core_proxy - done
+[2018-12-09T21:27:34.290] [DEBUG] core_proxy - start block is now: 6159550
+[2018-12-09T21:27:39.722] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:39.763] [DEBUG] core_proxy - from block: 6159550
+[2018-12-09T21:27:39.975] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:39.978] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:39.991] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:40.118] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:40.292] [DEBUG] core_proxy - done
+[2018-12-09T21:27:40.293] [DEBUG] core_proxy - start block is now: 6159551
+[2018-12-09T21:27:46.083] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:46.112] [DEBUG] core_proxy - from block: 6159551
+[2018-12-09T21:27:46.338] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:46.349] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:46.354] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:46.492] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:46.659] [DEBUG] core_proxy - done
+[2018-12-09T21:27:46.660] [DEBUG] core_proxy - start block is now: 6159553
+[2018-12-09T21:27:52.461] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:52.500] [DEBUG] core_proxy - from block: 6159553
+[2018-12-09T21:27:52.699] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:52.702] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:52.715] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:52.803] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:52.865] [DEBUG] core_proxy - done
+[2018-12-09T21:27:52.866] [DEBUG] core_proxy - start block is now: 6159554
+[2018-12-09T21:27:58.166] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:27:58.223] [DEBUG] core_proxy - from block: 6159554
+[2018-12-09T21:27:58.418] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:27:58.425] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:27:58.431] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:27:58.828] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:27:59.440] [DEBUG] core_proxy - done
+[2018-12-09T21:27:59.441] [DEBUG] core_proxy - start block is now: 6159555
+[2018-12-09T21:28:04.812] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:04.833] [DEBUG] core_proxy - from block: 6159555
+[2018-12-09T21:28:05.044] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:05.049] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:05.059] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:05.178] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:05.270] [DEBUG] core_proxy - done
+[2018-12-09T21:28:05.271] [DEBUG] core_proxy - start block is now: 6159556
+[2018-12-09T21:28:10.617] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:10.649] [DEBUG] core_proxy - from block: 6159556
+[2018-12-09T21:28:10.898] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:10.909] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:10.923] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:11.008] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:11.102] [DEBUG] core_proxy - done
+[2018-12-09T21:28:11.106] [DEBUG] core_proxy - start block is now: 6159558
+[2018-12-09T21:28:16.633] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:16.659] [DEBUG] core_proxy - from block: 6159558
+[2018-12-09T21:28:16.866] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:16.871] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:16.879] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:16.965] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:17.059] [DEBUG] core_proxy - done
+[2018-12-09T21:28:17.060] [DEBUG] core_proxy - start block is now: 6159559
+[2018-12-09T21:28:22.300] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:22.340] [DEBUG] core_proxy - from block: 6159559
+[2018-12-09T21:28:22.583] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:22.589] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:22.598] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:23.819] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:23.867] [DEBUG] core_proxy - done
+[2018-12-09T21:28:23.868] [DEBUG] core_proxy - start block is now: 6159560
+[2018-12-09T21:28:29.207] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:29.221] [DEBUG] core_proxy - from block: 6159560
+[2018-12-09T21:28:29.396] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:29.405] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:29.418] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:29.490] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:29.594] [DEBUG] core_proxy - done
+[2018-12-09T21:28:29.595] [DEBUG] core_proxy - start block is now: 6159561
+[2018-12-09T21:28:34.985] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:35.022] [DEBUG] core_proxy - from block: 6159561
+[2018-12-09T21:28:35.246] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:35.262] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:35.264] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:35.325] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:35.408] [DEBUG] core_proxy - done
+[2018-12-09T21:28:35.409] [DEBUG] core_proxy - start block is now: 6159562
+[2018-12-09T21:28:40.603] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:40.623] [DEBUG] core_proxy - from block: 6159562
+[2018-12-09T21:28:40.834] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:40.849] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:40.859] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:40.930] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:41.092] [DEBUG] core_proxy - done
+[2018-12-09T21:28:41.093] [DEBUG] core_proxy - start block is now: 6159564
+[2018-12-09T21:28:46.397] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:46.423] [DEBUG] core_proxy - from block: 6159564
+[2018-12-09T21:28:46.619] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:46.629] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:46.630] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:46.778] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:46.958] [DEBUG] core_proxy - done
+[2018-12-09T21:28:46.959] [DEBUG] core_proxy - start block is now: 6159565
+[2018-12-09T21:28:52.477] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:52.508] [DEBUG] core_proxy - from block: 6159565
+[2018-12-09T21:28:52.719] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:52.724] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:52.727] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:52.856] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:52.945] [DEBUG] core_proxy - done
+[2018-12-09T21:28:52.950] [DEBUG] core_proxy - start block is now: 6159566
+[2018-12-09T21:28:58.525] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:28:58.554] [DEBUG] core_proxy - from block: 6159566
+[2018-12-09T21:28:58.747] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:28:58.756] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:28:58.764] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:28:58.842] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:28:58.916] [DEBUG] core_proxy - done
+[2018-12-09T21:28:58.931] [DEBUG] core_proxy - start block is now: 6159567
+[2018-12-09T21:29:04.407] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:29:04.424] [DEBUG] core_proxy - from block: 6159567
+[2018-12-09T21:29:04.575] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:04.587] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:04.590] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:04.666] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:29:04.738] [DEBUG] core_proxy - done
+[2018-12-09T21:29:04.739] [DEBUG] core_proxy - start block is now: 6159568
+[2018-12-09T21:29:10.230] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:29:10.257] [DEBUG] core_proxy - from block: 6159568
+[2018-12-09T21:29:10.480] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:29:10.493] [DEBUG] mq - >>>>>>>>>>: 2
+[2018-12-09T21:29:10.500] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:29:10.593] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:29:10.717] [DEBUG] core_proxy - done
+[2018-12-09T21:29:10.718] [DEBUG] core_proxy - start block is now: 6159570
+[2018-12-09T21:41:17.744] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:17.754] [DEBUG] core_proxy - from block: 6159570
+[2018-12-09T21:41:17.982] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:17.989] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:17.993] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:18.089] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:18.247] [DEBUG] core_proxy - done
+[2018-12-09T21:41:18.248] [DEBUG] core_proxy - start block is now: 6159715
+[2018-12-09T21:41:23.383] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:23.423] [DEBUG] core_proxy - from block: 6159715
+[2018-12-09T21:41:23.599] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:23.604] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:23.607] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:23.688] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:23.776] [DEBUG] core_proxy - done
+[2018-12-09T21:41:23.777] [DEBUG] core_proxy - start block is now: 6159716
+[2018-12-09T21:41:28.961] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:28.990] [DEBUG] core_proxy - from block: 6159716
+[2018-12-09T21:41:29.235] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:29.247] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:29.247] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:29.612] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:29.962] [DEBUG] core_proxy - done
+[2018-12-09T21:41:29.962] [DEBUG] core_proxy - start block is now: 6159717
+[2018-12-09T21:41:37.301] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:37.321] [DEBUG] core_proxy - from block: 6159717
+[2018-12-09T21:41:37.699] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:37.709] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:37.715] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:37.861] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:37.966] [DEBUG] core_proxy - done
+[2018-12-09T21:41:37.967] [DEBUG] core_proxy - start block is now: 6159719
+[2018-12-09T21:41:47.641] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:47.707] [DEBUG] core_proxy - from block: 6159719
+[2018-12-09T21:41:48.043] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:48.048] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:48.075] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:48.169] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:48.280] [DEBUG] core_proxy - done
+[2018-12-09T21:41:48.281] [DEBUG] core_proxy - start block is now: 6159721
+[2018-12-09T21:41:58.051] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:41:58.084] [DEBUG] core_proxy - from block: 6159721
+[2018-12-09T21:41:58.387] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:41:58.409] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:41:58.415] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:41:58.524] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:41:58.608] [DEBUG] core_proxy - done
+[2018-12-09T21:41:58.609] [DEBUG] core_proxy - start block is now: 6159723
+[2018-12-09T21:42:08.344] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:42:08.400] [DEBUG] core_proxy - from block: 6159723
+[2018-12-09T21:42:08.762] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:08.777] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:08.787] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:08.906] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:42:09.014] [DEBUG] core_proxy - done
+[2018-12-09T21:42:09.015] [DEBUG] core_proxy - start block is now: 6159725
+[2018-12-09T21:42:18.653] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:42:18.677] [DEBUG] core_proxy - from block: 6159725
+[2018-12-09T21:42:19.031] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:19.045] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:19.059] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:19.162] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:42:19.267] [DEBUG] core_proxy - done
+[2018-12-09T21:42:19.269] [DEBUG] core_proxy - start block is now: 6159727
+[2018-12-09T21:42:29.032] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:42:29.087] [DEBUG] core_proxy - from block: 6159727
+[2018-12-09T21:42:29.493] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:29.525] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:29.539] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:29.905] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:42:30.298] [DEBUG] core_proxy - done
+[2018-12-09T21:42:30.299] [DEBUG] core_proxy - start block is now: 6159729
+[2018-12-09T21:42:39.992] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:42:40.032] [DEBUG] core_proxy - from block: 6159729
+[2018-12-09T21:42:40.382] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:40.405] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:40.420] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:40.604] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:42:40.683] [DEBUG] core_proxy - done
+[2018-12-09T21:42:40.684] [DEBUG] core_proxy - start block is now: 6159732
+[2018-12-09T21:42:50.312] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:42:50.360] [DEBUG] core_proxy - from block: 6159732
+[2018-12-09T21:42:50.710] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:42:50.737] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:42:50.759] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:42:50.889] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:42:50.971] [DEBUG] core_proxy - done
+[2018-12-09T21:42:50.975] [DEBUG] core_proxy - start block is now: 6159734
+[2018-12-09T21:43:00.678] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:00.726] [DEBUG] core_proxy - from block: 6159734
+[2018-12-09T21:43:01.135] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:01.153] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:01.174] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:01.285] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:01.406] [DEBUG] core_proxy - done
+[2018-12-09T21:43:01.407] [DEBUG] core_proxy - start block is now: 6159736
+[2018-12-09T21:43:11.172] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:11.225] [DEBUG] core_proxy - from block: 6159736
+[2018-12-09T21:43:11.564] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:11.575] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:11.597] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:11.728] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:11.820] [DEBUG] core_proxy - done
+[2018-12-09T21:43:11.820] [DEBUG] core_proxy - start block is now: 6159738
+[2018-12-09T21:43:21.484] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:21.510] [DEBUG] core_proxy - from block: 6159738
+[2018-12-09T21:43:21.911] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:21.921] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:21.924] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:22.061] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:22.184] [DEBUG] core_proxy - done
+[2018-12-09T21:43:22.185] [DEBUG] core_proxy - start block is now: 6159740
+[2018-12-09T21:43:32.177] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:32.217] [DEBUG] core_proxy - from block: 6159740
+[2018-12-09T21:43:32.582] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:32.589] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:32.595] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:32.970] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:33.418] [DEBUG] core_proxy - done
+[2018-12-09T21:43:33.419] [DEBUG] core_proxy - start block is now: 6159742
+[2018-12-09T21:43:43.121] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:43.177] [DEBUG] core_proxy - from block: 6159742
+[2018-12-09T21:43:43.611] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:43.633] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:43.656] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:43.794] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:43.959] [DEBUG] core_proxy - done
+[2018-12-09T21:43:43.960] [DEBUG] core_proxy - start block is now: 6159744
+[2018-12-09T21:43:54.484] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:43:54.540] [DEBUG] core_proxy - from block: 6159744
+[2018-12-09T21:43:54.939] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:43:54.950] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:43:54.997] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:43:55.145] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:43:55.260] [DEBUG] core_proxy - done
+[2018-12-09T21:43:55.261] [DEBUG] core_proxy - start block is now: 6159746
+[2018-12-09T21:44:05.957] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:05.994] [DEBUG] core_proxy - from block: 6159746
+[2018-12-09T21:44:06.411] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:06.437] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:06.461] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:06.595] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:06.773] [DEBUG] core_proxy - done
+[2018-12-09T21:44:06.774] [DEBUG] core_proxy - start block is now: 6159749
+[2018-12-09T21:44:16.924] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:16.981] [DEBUG] core_proxy - from block: 6159749
+[2018-12-09T21:44:17.393] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:17.401] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:17.427] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:17.548] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:17.668] [DEBUG] core_proxy - done
+[2018-12-09T21:44:17.668] [DEBUG] core_proxy - start block is now: 6159751
+[2018-12-09T21:44:27.646] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:27.682] [DEBUG] core_proxy - from block: 6159751
+[2018-12-09T21:44:28.091] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:28.120] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:28.121] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:28.291] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:28.379] [DEBUG] core_proxy - done
+[2018-12-09T21:44:28.379] [DEBUG] core_proxy - start block is now: 6159753
+[2018-12-09T21:44:38.173] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:38.215] [DEBUG] core_proxy - from block: 6159753
+[2018-12-09T21:44:38.603] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:38.617] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:38.637] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:38.757] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:38.850] [DEBUG] core_proxy - done
+[2018-12-09T21:44:38.854] [DEBUG] core_proxy - start block is now: 6159755
+[2018-12-09T21:44:48.479] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:48.494] [DEBUG] core_proxy - from block: 6159755
+[2018-12-09T21:44:48.865] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:48.880] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:48.899] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:49.018] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:49.208] [DEBUG] core_proxy - done
+[2018-12-09T21:44:49.209] [DEBUG] core_proxy - start block is now: 6159757
+[2018-12-09T21:44:58.661] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:44:58.719] [DEBUG] core_proxy - from block: 6159757
+[2018-12-09T21:44:59.068] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:44:59.094] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:44:59.103] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:44:59.217] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:44:59.341] [DEBUG] core_proxy - done
+[2018-12-09T21:44:59.344] [DEBUG] core_proxy - start block is now: 6159759
+[2018-12-09T21:45:09.077] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:45:09.141] [DEBUG] core_proxy - from block: 6159759
+[2018-12-09T21:45:09.515] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:09.521] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:09.523] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:09.759] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:45:09.987] [DEBUG] core_proxy - done
+[2018-12-09T21:45:09.988] [DEBUG] core_proxy - start block is now: 6159761
+[2018-12-09T21:45:19.801] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:45:19.864] [DEBUG] core_proxy - from block: 6159761
+[2018-12-09T21:45:20.196] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:20.205] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:20.211] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:20.390] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:45:20.541] [DEBUG] core_proxy - done
+[2018-12-09T21:45:20.542] [DEBUG] core_proxy - start block is now: 6159763
+[2018-12-09T21:45:30.399] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:45:30.434] [DEBUG] core_proxy - from block: 6159763
+[2018-12-09T21:45:30.795] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:30.801] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:30.820] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:30.970] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:45:31.082] [DEBUG] core_proxy - done
+[2018-12-09T21:45:31.083] [DEBUG] core_proxy - start block is now: 6159766
+[2018-12-09T21:45:40.646] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:45:40.708] [DEBUG] core_proxy - from block: 6159766
+[2018-12-09T21:45:41.071] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:41.115] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:41.115] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:41.242] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:45:41.369] [DEBUG] core_proxy - done
+[2018-12-09T21:45:41.370] [DEBUG] core_proxy - start block is now: 6159768
+[2018-12-09T21:45:51.049] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:45:51.090] [DEBUG] core_proxy - from block: 6159768
+[2018-12-09T21:45:51.448] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:45:51.453] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:45:51.498] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:45:51.626] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:45:51.950] [DEBUG] core_proxy - done
+[2018-12-09T21:45:51.951] [DEBUG] core_proxy - start block is now: 6159770
+[2018-12-09T21:46:01.538] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:01.615] [DEBUG] core_proxy - from block: 6159770
+[2018-12-09T21:46:01.999] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:02.013] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:02.016] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:02.152] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:02.342] [DEBUG] core_proxy - done
+[2018-12-09T21:46:02.343] [DEBUG] core_proxy - start block is now: 6159772
+[2018-12-09T21:46:12.218] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:12.291] [DEBUG] core_proxy - from block: 6159772
+[2018-12-09T21:46:12.684] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:12.711] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:12.711] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:13.139] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:13.288] [DEBUG] core_proxy - done
+[2018-12-09T21:46:13.289] [DEBUG] core_proxy - start block is now: 6159774
+[2018-12-09T21:46:23.095] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:23.117] [DEBUG] core_proxy - from block: 6159774
+[2018-12-09T21:46:23.508] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:23.533] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:23.535] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:23.979] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:24.120] [DEBUG] core_proxy - done
+[2018-12-09T21:46:24.121] [DEBUG] core_proxy - start block is now: 6159776
+[2018-12-09T21:46:34.081] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:34.133] [DEBUG] core_proxy - from block: 6159776
+[2018-12-09T21:46:34.510] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:34.518] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:34.543] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:34.682] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:34.846] [DEBUG] core_proxy - done
+[2018-12-09T21:46:34.847] [DEBUG] core_proxy - start block is now: 6159778
+[2018-12-09T21:46:44.577] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:44.622] [DEBUG] core_proxy - from block: 6159778
+[2018-12-09T21:46:44.995] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:45.005] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:45.039] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:45.181] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:45.347] [DEBUG] core_proxy - done
+[2018-12-09T21:46:45.348] [DEBUG] core_proxy - start block is now: 6159780
+[2018-12-09T21:46:54.950] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:46:55.008] [DEBUG] core_proxy - from block: 6159780
+[2018-12-09T21:46:55.419] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:46:55.422] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:46:55.427] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:46:55.630] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:46:55.759] [DEBUG] core_proxy - done
+[2018-12-09T21:46:55.760] [DEBUG] core_proxy - start block is now: 6159783
+[2018-12-09T21:47:05.595] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:05.635] [DEBUG] core_proxy - from block: 6159783
+[2018-12-09T21:47:05.999] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:06.017] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:06.027] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:06.193] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:06.324] [DEBUG] core_proxy - done
+[2018-12-09T21:47:06.325] [DEBUG] core_proxy - start block is now: 6159785
+[2018-12-09T21:47:16.140] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:16.176] [DEBUG] core_proxy - from block: 6159785
+[2018-12-09T21:47:16.555] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:16.566] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:16.591] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:16.754] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:17.601] [DEBUG] core_proxy - done
+[2018-12-09T21:47:17.602] [DEBUG] core_proxy - start block is now: 6159787
+[2018-12-09T21:47:27.260] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:27.299] [DEBUG] core_proxy - from block: 6159787
+[2018-12-09T21:47:27.679] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:27.682] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:27.713] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:27.876] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:27.975] [DEBUG] core_proxy - done
+[2018-12-09T21:47:27.975] [DEBUG] core_proxy - start block is now: 6159789
+[2018-12-09T21:47:37.459] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:37.517] [DEBUG] core_proxy - from block: 6159789
+[2018-12-09T21:47:37.893] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:37.897] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:37.919] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:38.119] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:38.230] [DEBUG] core_proxy - done
+[2018-12-09T21:47:38.231] [DEBUG] core_proxy - start block is now: 6159791
+[2018-12-09T21:47:47.835] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:47.884] [DEBUG] core_proxy - from block: 6159791
+[2018-12-09T21:47:48.268] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:48.289] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:48.305] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:48.416] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:48.546] [DEBUG] core_proxy - done
+[2018-12-09T21:47:48.547] [DEBUG] core_proxy - start block is now: 6159793
+[2018-12-09T21:47:58.018] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:47:58.123] [DEBUG] core_proxy - from block: 6159793
+[2018-12-09T21:47:58.491] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:47:58.509] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:47:58.531] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:47:58.664] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:47:58.799] [DEBUG] core_proxy - done
+[2018-12-09T21:47:58.800] [DEBUG] core_proxy - start block is now: 6159795
+[2018-12-09T21:48:08.383] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:08.423] [DEBUG] core_proxy - from block: 6159795
+[2018-12-09T21:48:08.803] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:08.809] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:08.827] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:09.240] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:09.397] [DEBUG] core_proxy - done
+[2018-12-09T21:48:09.398] [DEBUG] core_proxy - start block is now: 6159797
+[2018-12-09T21:48:18.874] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:18.966] [DEBUG] core_proxy - from block: 6159797
+[2018-12-09T21:48:19.279] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:19.293] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:19.303] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:19.421] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:19.510] [DEBUG] core_proxy - done
+[2018-12-09T21:48:19.511] [DEBUG] core_proxy - start block is now: 6159799
+[2018-12-09T21:48:28.449] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:28.492] [DEBUG] core_proxy - from block: 6159799
+[2018-12-09T21:48:28.859] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:28.862] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:28.891] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:28.978] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:29.090] [DEBUG] core_proxy - done
+[2018-12-09T21:48:29.094] [DEBUG] core_proxy - start block is now: 6159801
+[2018-12-09T21:48:38.622] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:38.686] [DEBUG] core_proxy - from block: 6159801
+[2018-12-09T21:48:39.056] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:39.081] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:39.094] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:39.201] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:39.314] [DEBUG] core_proxy - done
+[2018-12-09T21:48:39.315] [DEBUG] core_proxy - start block is now: 6159803
+[2018-12-09T21:48:48.863] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:48.921] [DEBUG] core_proxy - from block: 6159803
+[2018-12-09T21:48:49.279] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:49.288] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:49.294] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:49.498] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:49.606] [DEBUG] core_proxy - done
+[2018-12-09T21:48:49.606] [DEBUG] core_proxy - start block is now: 6159805
+[2018-12-09T21:48:59.150] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:48:59.230] [DEBUG] core_proxy - from block: 6159805
+[2018-12-09T21:48:59.601] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:48:59.627] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:48:59.627] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:48:59.760] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:48:59.879] [DEBUG] core_proxy - done
+[2018-12-09T21:48:59.880] [DEBUG] core_proxy - start block is now: 6159807
+[2018-12-09T21:49:09.305] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:49:09.349] [DEBUG] core_proxy - from block: 6159807
+[2018-12-09T21:49:09.763] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:09.772] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:09.791] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:09.930] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:49:10.035] [DEBUG] core_proxy - done
+[2018-12-09T21:49:10.039] [DEBUG] core_proxy - start block is now: 6159809
+[2018-12-09T21:49:19.581] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:49:19.635] [DEBUG] core_proxy - from block: 6159809
+[2018-12-09T21:49:20.018] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:20.041] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:20.043] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:20.200] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:49:20.319] [DEBUG] core_proxy - done
+[2018-12-09T21:49:20.320] [DEBUG] core_proxy - start block is now: 6159811
+[2018-12-09T21:49:29.801] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:49:29.829] [DEBUG] core_proxy - from block: 6159811
+[2018-12-09T21:49:30.191] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:30.213] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:30.223] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:30.353] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:49:30.480] [DEBUG] core_proxy - done
+[2018-12-09T21:49:30.481] [DEBUG] core_proxy - start block is now: 6159813
+[2018-12-09T21:49:40.050] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:49:40.109] [DEBUG] core_proxy - from block: 6159813
+[2018-12-09T21:49:40.492] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:40.505] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:40.507] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:40.670] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:49:40.821] [DEBUG] core_proxy - done
+[2018-12-09T21:49:40.822] [DEBUG] core_proxy - start block is now: 6159816
+[2018-12-09T21:49:50.277] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:49:50.320] [DEBUG] core_proxy - from block: 6159816
+[2018-12-09T21:49:50.668] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:49:50.707] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:49:50.707] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:49:50.829] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:49:50.917] [DEBUG] core_proxy - done
+[2018-12-09T21:49:50.918] [DEBUG] core_proxy - start block is now: 6159818
+[2018-12-09T21:50:00.358] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:00.454] [DEBUG] core_proxy - from block: 6159818
+[2018-12-09T21:50:00.819] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:00.845] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:00.859] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:00.991] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:01.069] [DEBUG] core_proxy - done
+[2018-12-09T21:50:01.073] [DEBUG] core_proxy - start block is now: 6159820
+[2018-12-09T21:50:10.692] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:10.741] [DEBUG] core_proxy - from block: 6159820
+[2018-12-09T21:50:11.111] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:11.145] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:11.151] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:11.299] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:11.373] [DEBUG] core_proxy - done
+[2018-12-09T21:50:11.379] [DEBUG] core_proxy - start block is now: 6159822
+[2018-12-09T21:50:20.896] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:20.950] [DEBUG] core_proxy - from block: 6159822
+[2018-12-09T21:50:21.351] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:21.375] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:21.376] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:21.514] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:21.630] [DEBUG] core_proxy - done
+[2018-12-09T21:50:21.631] [DEBUG] core_proxy - start block is now: 6159824
+[2018-12-09T21:50:31.085] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:31.144] [DEBUG] core_proxy - from block: 6159824
+[2018-12-09T21:50:31.508] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:31.542] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:31.556] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:32.039] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:32.512] [DEBUG] core_proxy - done
+[2018-12-09T21:50:32.513] [DEBUG] core_proxy - start block is now: 6159826
+[2018-12-09T21:50:42.170] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:42.196] [DEBUG] core_proxy - from block: 6159826
+[2018-12-09T21:50:42.543] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:42.568] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:42.574] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:42.758] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:42.862] [DEBUG] core_proxy - done
+[2018-12-09T21:50:42.863] [DEBUG] core_proxy - start block is now: 6159828
+[2018-12-09T21:50:52.428] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:50:52.477] [DEBUG] core_proxy - from block: 6159828
+[2018-12-09T21:50:52.825] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:50:52.849] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:50:52.851] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:50:53.263] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:50:53.398] [DEBUG] core_proxy - done
+[2018-12-09T21:50:53.399] [DEBUG] core_proxy - start block is now: 6159830
+[2018-12-09T21:51:02.819] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:02.846] [DEBUG] core_proxy - from block: 6159830
+[2018-12-09T21:51:03.197] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:03.217] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:03.227] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:03.415] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:03.797] [DEBUG] core_proxy - done
+[2018-12-09T21:51:03.798] [DEBUG] core_proxy - start block is now: 6159832
+[2018-12-09T21:51:13.510] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:13.560] [DEBUG] core_proxy - from block: 6159832
+[2018-12-09T21:51:13.911] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:13.921] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:13.943] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:14.058] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:14.168] [DEBUG] core_proxy - done
+[2018-12-09T21:51:14.169] [DEBUG] core_proxy - start block is now: 6159834
+[2018-12-09T21:51:23.767] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:23.805] [DEBUG] core_proxy - from block: 6159834
+[2018-12-09T21:51:24.157] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:24.160] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:24.189] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:24.543] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:24.911] [DEBUG] core_proxy - done
+[2018-12-09T21:51:24.912] [DEBUG] core_proxy - start block is now: 6159836
+[2018-12-09T21:51:34.411] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:34.452] [DEBUG] core_proxy - from block: 6159836
+[2018-12-09T21:51:34.798] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:34.816] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:34.831] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:35.231] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:35.371] [DEBUG] core_proxy - done
+[2018-12-09T21:51:35.372] [DEBUG] core_proxy - start block is now: 6159838
+[2018-12-09T21:51:45.181] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:45.210] [DEBUG] core_proxy - from block: 6159838
+[2018-12-09T21:51:45.599] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:45.618] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:45.619] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:45.754] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:45.887] [DEBUG] core_proxy - done
+[2018-12-09T21:51:45.888] [DEBUG] core_proxy - start block is now: 6159841
+[2018-12-09T21:51:55.474] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:51:55.522] [DEBUG] core_proxy - from block: 6159841
+[2018-12-09T21:51:55.876] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:51:55.890] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:51:55.897] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:51:56.087] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:51:56.463] [DEBUG] core_proxy - done
+[2018-12-09T21:51:56.464] [DEBUG] core_proxy - start block is now: 6159843
+[2018-12-09T21:52:06.067] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:06.104] [DEBUG] core_proxy - from block: 6159843
+[2018-12-09T21:52:06.431] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:06.463] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:06.464] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:06.573] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:06.701] [DEBUG] core_proxy - done
+[2018-12-09T21:52:06.702] [DEBUG] core_proxy - start block is now: 6159845
+[2018-12-09T21:52:16.415] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:16.452] [DEBUG] core_proxy - from block: 6159845
+[2018-12-09T21:52:16.805] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:16.817] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:16.838] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:16.984] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:17.097] [DEBUG] core_proxy - done
+[2018-12-09T21:52:17.098] [DEBUG] core_proxy - start block is now: 6159847
+[2018-12-09T21:52:26.791] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:26.838] [DEBUG] core_proxy - from block: 6159847
+[2018-12-09T21:52:27.200] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:27.222] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:27.222] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:27.348] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:27.445] [DEBUG] core_proxy - done
+[2018-12-09T21:52:27.446] [DEBUG] core_proxy - start block is now: 6159849
+[2018-12-09T21:52:37.053] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:37.078] [DEBUG] core_proxy - from block: 6159849
+[2018-12-09T21:52:37.431] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:37.445] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:37.469] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:37.577] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:37.685] [DEBUG] core_proxy - done
+[2018-12-09T21:52:37.686] [DEBUG] core_proxy - start block is now: 6159851
+[2018-12-09T21:52:47.410] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:47.477] [DEBUG] core_proxy - from block: 6159851
+[2018-12-09T21:52:47.836] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:47.860] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:47.860] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:47.995] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:48.235] [DEBUG] core_proxy - done
+[2018-12-09T21:52:48.236] [DEBUG] core_proxy - start block is now: 6159853
+[2018-12-09T21:52:57.693] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:52:57.725] [DEBUG] core_proxy - from block: 6159853
+[2018-12-09T21:52:58.079] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:52:58.086] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:52:58.103] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:52:58.198] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:52:58.349] [DEBUG] core_proxy - done
+[2018-12-09T21:52:58.350] [DEBUG] core_proxy - start block is now: 6159855
+[2018-12-09T21:53:07.906] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:53:07.934] [DEBUG] core_proxy - from block: 6159855
+[2018-12-09T21:53:08.272] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:08.295] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:08.296] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:08.475] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:53:08.544] [DEBUG] core_proxy - done
+[2018-12-09T21:53:08.545] [DEBUG] core_proxy - start block is now: 6159857
+[2018-12-09T21:53:18.181] [DEBUG] core_proxy - 
+ ---------------------------
+
+[2018-12-09T21:53:18.240] [DEBUG] core_proxy - from block: 6159857
+[2018-12-09T21:53:18.571] [DEBUG] mq - >>>>> CountQueue
+[2018-12-09T21:53:18.585] [DEBUG] mq - >>>>>>>>>>: 4
+[2018-12-09T21:53:18.585] [DEBUG] mq - hydrate = undefined
+[2018-12-09T21:53:18.720] [DEBUG] core_proxy - Found [0] new ballots.
+[2018-12-09T21:53:18.884] [DEBUG] core_proxy - done
+[2018-12-09T21:53:18.885] [DEBUG] core_proxy - start block is now: 6159859
