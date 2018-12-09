@@ -630,7 +630,7 @@
         "type": "uint256"
       }
     ],
-    "name": "BallotInfo",
+    "name": "getBallotInfo",
     "outputs": [
       {
         "name": "startTime",
