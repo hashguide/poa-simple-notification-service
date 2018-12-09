@@ -1,14 +1,14 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('~//poa-simple-notification-service/mq.js') ;
-var q = new Queue('~//poa-simple-notification-service/mq.db');
-var blockFile = '~//poa-simple-notification-service/core_voting_block';
+var Queue = require('~/poa-simple-notification-service/mq.js') ;
+var q = new Queue('~/poa-simple-notification-service/mq.db');
+var blockFile = '~/poa-simple-notification-service/core_voting_block';
 
 
 
 log4js.configure({
-    appenders: { voting_core: { type: 'file', filename: '~//poa-simple-notification-service/core/logs/core_voting.log' } },
+    appenders: { voting_core: { type: 'file', filename: '~/poa-simple-notification-service/core/logs/core_voting.log' } },
     categories: { default: { appenders: ['voting_core'], level: 'debug' } }
   });
 var logger = log4js.getLogger('voting_core');
@@ -17,9 +17,9 @@ var block = fs.readFileSync(blockFile, 'utf-8');
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('~/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('~//poa-simple-notification-service/core/abis/voting-core.json');
+const POA_ABI = require('~/poa-simple-notification-service/core/abis/voting-core.json');
 const Web3 = require('web3');
 const sokol = 'https://core.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);

@@ -1,14 +1,14 @@
 const yaml = require('js-yaml');
 var fs = require('fs');
 var log4js = require('log4js');
-var Queue = require('~//poa-simple-notification-service/mq.js') ;
-var q = new Queue('~//poa-simple-notification-service/mq.db');
-var blockFile = '~//poa-simple-notification-service/sokol_proxy_block';
+var Queue = require('~/poa-simple-notification-service/mq.js') ;
+var q = new Queue('~/poa-simple-notification-service/mq.db');
+var blockFile = '~/poa-simple-notification-service/sokol_proxy_block';
 
 
 
 log4js.configure({
-    appenders: { sokol_proxy: { type: 'file', filename: '~//poa-simple-notification-service/sokol/logs/sokol_proxy.log' } },
+    appenders: { sokol_proxy: { type: 'file', filename: '~/poa-simple-notification-service/sokol/logs/sokol_proxy.log' } },
     categories: { default: { appenders: ['sokol_proxy'], level: 'debug' } }
   });
 var logger = log4js.getLogger('sokol_proxy');
@@ -17,9 +17,9 @@ var block = fs.readFileSync(blockFile, 'utf-8');
 
 var endBlock = block;
 
-let config = yaml.safeLoad(fs.readFileSync('~//poa-simple-notification-service/email-local.yaml', 'utf8'));
+let config = yaml.safeLoad(fs.readFileSync('~/poa-simple-notification-service/email-local.yaml', 'utf8'));
 
-const POA_ABI = require('~//poa-simple-notification-service/sokol/abis/VotingToChangeProxyAddress.abi.json');
+const POA_ABI = require('~/poa-simple-notification-service/sokol/abis/VotingToChangeProxyAddress.abi.json');
 const Web3 = require('web3');
 const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
