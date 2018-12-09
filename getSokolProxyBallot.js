@@ -24,7 +24,7 @@ const Web3 = require('web3');
 const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
 const web3 = new Web3(provider);
-const CONTRACT_ADDR = '0x0aa4a75549757a90f62f88b3b96b69bead2db0ff';
+const CONTRACT_ADDR = '0x604CDC518F3EB0446E15Fc05A22923C82d8a8e21';
 const poa = new web3.eth.Contract(POA_ABI, CONTRACT_ADDR );
 
 function wait( waitmillis ){ logger.debug("waited [" + waitmillis/1000 + "] seconds."); }

@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const sokol = 'https://sokol.poa.network'
 const provider = new Web3.providers.HttpProvider(sokol);
 const web3 = new Web3(provider);
-const poa = new web3.eth.Contract(POA_ABI, '0x1ce9ad5614d3e00b88affdfa64e65e52f2e4e0f4');
+const poa = new web3.eth.Contract(POA_ABI, '0xFFD6eEBda850E4a20b6d9C9e98Ee631f8d7cA950');
 
 
 //get a Validators metadata from their mining key
