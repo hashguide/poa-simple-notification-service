@@ -32,3 +32,13 @@ child3.on('exit', function () {
 
 child3.start();
 
+var child4 = new (forever.Monitor)('./getSokolEmissionBallot.js', {
+  silent: true,
+});
+
+child4.on('exit', function () {
+  console.log('getSokolEmissionBallot.js has exited');
+});
+
+child4.start();
+

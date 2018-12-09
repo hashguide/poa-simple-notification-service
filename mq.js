@@ -3,7 +3,7 @@ var sqlite3 = require('sqlite3').verbose();
 var log4js = require('log4js');
 
 log4js.configure({
-    appenders: { mq: { type: 'file', filename: '/home/jhl/dev/poa/poa-simple-notification-service/mq.log' } },
+    appenders: { mq: { type: 'file', filename: '/home/serv1/poa-simple-notification-service/mq.log' } },
     categories: { default: { appenders: ['mq'], level: 'debug' } }
   });
 
